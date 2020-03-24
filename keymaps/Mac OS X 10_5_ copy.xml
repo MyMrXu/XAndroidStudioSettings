@@ -1,0 +1,20 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="ClassNameCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="JRebelAndroidApplyChanges">
+    <keyboard-shortcut first-keystroke="meta f10" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+</keymap>
