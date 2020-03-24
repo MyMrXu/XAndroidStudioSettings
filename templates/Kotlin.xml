@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="loge" value="android.util.Log.e(&quot;xzwzz&quot;,&quot;$exception$&quot;);" description="output error info" toReformat="false" toShortenFQNames="true">
+    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
