@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PROPERTY SETTER" />
+      <item value="EXPRESSION" />
       <item value="BINARY" />
       <item value="Subscribler" />
       <item value="Observer" />
@@ -9,8 +11,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
