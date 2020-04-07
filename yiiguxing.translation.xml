@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="have not manually called WorkManager#initialize at this point, and your Application does not implement Configuration.Provider." />
+      <item value="You have explicitly disabled WorkManagerInitializer in your manifest" />
+      <item value="WorkManager is not initialized properly" />
       <item value="percent" />
       <item value="flex Time Interval" />
       <item value="repeat Interval" />
@@ -22,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
         <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
