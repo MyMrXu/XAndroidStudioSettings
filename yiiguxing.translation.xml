@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Apps may not have filesystem permissions to directly * access this path. Instead of trying to open this path * directly, apps should use" />
       <item value="Absent" />
       <item value="Apps can continue to access content stored on shared/external * storage by migrating to alternatives such as" />
       <item value="the path returned * from this method is no longer directly accessible to apps." />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="POLISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="HINDI" value="1" />
