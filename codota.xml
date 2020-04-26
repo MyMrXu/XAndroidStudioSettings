@@ -14,5 +14,10 @@
         <entry key="java-deep-completions" value="true" />
       </map>
     </option>
+    <option name="everTurnedOnFeatureFlags">
+      <set>
+        <option value="java-deep-completions" />
+      </set>
+    </option>
   </component>
 </application>
