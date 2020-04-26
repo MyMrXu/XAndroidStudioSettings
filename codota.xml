@@ -19,5 +19,10 @@
         <option value="java-deep-completions" />
       </set>
     </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="kotlin" />
+      </set>
+    </option>
   </component>
 </application>
