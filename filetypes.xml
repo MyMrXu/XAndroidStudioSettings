@@ -5,7 +5,9 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="item_video_module_headerxml" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
