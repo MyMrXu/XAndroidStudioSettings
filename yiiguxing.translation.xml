@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="唯一" />
       <item value="transaction" />
       <item value="communication" />
       <item value="The Executor in use by this database for async transactions." />
@@ -50,12 +51,11 @@
       <item value="parent Payload" />
       <item value="后台服务" />
       <item value="后台" />
-      <item value="Remit Database" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
         <entry key="POLISH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
