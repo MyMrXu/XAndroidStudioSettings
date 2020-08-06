@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout tab" />
       <item value="the titleView is not be add into parentView" />
       <item value="ratio" />
       <item value="contrast" />
@@ -50,11 +51,10 @@
       <item value="inserting of images should be performed using * {@link MediaColumns#IS_PENDING}, which offers richer * control over lifecycle." />
       <item value="solar" />
       <item value="Unique" />
-      <item value="triangle Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="82" />
         <entry key="ENGLISH" value="82" />
         <entry key="POLISH" value="1" />
         <entry key="MALTESE" value="1" />
