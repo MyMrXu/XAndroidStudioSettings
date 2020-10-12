@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The primary branding color for the app. By default, this is the color applied to the action bar background." />
       <item value="fraction" />
       <item value="mip Map" />
       <item value="auto Mirrored" />
@@ -50,7 +51,6 @@
       <item value="Transferred" />
       <item value="Period" />
       <item value="create Period" />
-      <item value="Extractors" />
     </histories>
     <option name="languageScores">
       <map>
