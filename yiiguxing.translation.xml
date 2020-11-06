@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="necessary" />
       <item value="PENDING" />
       <item value="The serial queue, what used to dynamically increase tasks, and tasks in the queue will * automatically start download one by one." />
       <item value="Expected" />
@@ -50,12 +51,11 @@
       <item value="唯一" />
       <item value="transaction" />
       <item value="communication" />
-      <item value="The Executor in use by this database for async transactions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="POLISH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
