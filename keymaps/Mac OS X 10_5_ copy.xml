@@ -8,9 +8,16 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="OpenInBrowserGroup">
+    <keyboard-shortcut first-keystroke="shift meta i" />
+  </action>
+  <action id="ProjectViewChangeView" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="WelcomeScreen.OpenSelected">
+    <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
