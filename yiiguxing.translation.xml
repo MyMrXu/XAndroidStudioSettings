@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Similar to {@link #executeTransaction(Transaction)} but runs asynchronously on a worker thread." />
       <item value="necessary" />
       <item value="PENDING" />
       <item value="The serial queue, what used to dynamically increase tasks, and tasks in the queue will * automatically start download one by one." />
@@ -50,7 +51,6 @@
       <item value="on Terminate" />
       <item value="唯一" />
       <item value="transaction" />
-      <item value="communication" />
     </histories>
     <option name="languageScores">
       <map>
