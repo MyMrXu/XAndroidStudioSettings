@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TOKEN VARIABLE" />
       <item value="to retrieve the index of the pointer that changed." />
       <item value="percentage" />
       <item value="The RecyclerView is not currently scrolling." />
@@ -50,12 +51,11 @@
       <item value="the titleView is not be add into parentView" />
       <item value="ratio" />
       <item value="contrast" />
-      <item value="luminance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="POLISH" value="1" />
         <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
