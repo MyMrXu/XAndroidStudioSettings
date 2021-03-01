@@ -1,7 +1,23 @@
 <code_scheme name="Default" version="173">
-  <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-  </AndroidXmlCodeStyleSettings>
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="io.ktor" alias="false" withSubpackages="true" />
+      </value>
+    </option>
+    <option name="PACKAGES_IMPORT_LAYOUT">
+      <value>
+        <package name="" alias="false" withSubpackages="true" />
+        <package name="java" alias="false" withSubpackages="true" />
+        <package name="javax" alias="false" withSubpackages="true" />
+        <package name="kotlin" alias="false" withSubpackages="true" />
+        <package name="" alias="true" withSubpackages="true" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -113,5 +129,11 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
