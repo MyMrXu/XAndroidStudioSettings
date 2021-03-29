@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tuning" />
       <item value="Invalid" />
       <item value="Deletes the object from the Realm it is currently associated to." />
       <item value="This adds itself to the status bar window, so it can appear on top of quick settings and someday do fancy animations to get intoout of it." />
@@ -50,7 +51,6 @@
       <item value="necessary" />
       <item value="PENDING" />
       <item value="The serial queue, what used to dynamically increase tasks, and tasks in the queue will * automatically start download one by one." />
-      <item value="Expected" />
     </histories>
     <option name="languageScores">
       <map>
