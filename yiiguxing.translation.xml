@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="intercepted" />
+      <item value="Indicates if this file represents a &lt;em&gt;virtual&lt;em&gt; document." />
+      <item value="on Assembly" />
+      <item value="scheduler" />
+      <item value="schedule" />
+      <item value="deferred" />
+      <item value="block the ui thread, to unzip the so file." />
+      <item value="Tuning" />
+      <item value="Invalid" />
+      <item value="Deletes the object from the Realm it is currently associated to." />
+      <item value="This adds itself to the status bar window, so it can appear on top of quick settings and someday do fancy animations to get intoout of it." />
+      <item value="Allows full-screen customization of QS, through show() and hide()." />
+      <item value="Pip UI" />
+      <item value="Storage Notification" />
+      <item value="Ringtone Player" />
+      <item value="Keyguard View Mediator" />
+      <item value="Command Queue" />
+      <item value="Notification Channels" />
+      <item value="Dependency" />
+      <item value="Smooth" />
+      <item value="Smoothed" />
+      <item value="Gains" />
+      <item value="Should be removed when the app will use directly the samples instead of the frames." />
+      <item value="If this value is set true, photo capturing entry will appear only on All Media's page." />
+      <item value="subtract" />
+      <item value="the number of code units in the specified text." />
+      <item value="A base class to convert byte arrays to input streams so they can be decoded. This class is * abstract because there is no simple/quick way to generate an id from the bytes themselves, so * subclass must include an id." />
+      <item value="True to include the activity, false otherwise." />
+      <item value="NRETURN" />
+      <item value="* Measure specification mode: The parent has determined an exact size * for the child. The child is going to be given those bounds regardless * of how big it wants to be." />
+      <item value="* Measure specification mode: The parent has not imposed any constraint * on the child. It can be whatever size it wants." />
+      <item value="A span that supplies additional meta-data for the associated text intended * for text-to-speech engines. If the text is being processed by a * text-to-speech engine, the engine may use the data in this span in addition * to or instead of its associated text." />
+      <item value="When such a span is edited in an EditText, double tapping on the text enclosed in this span will * display a popup dialog listing suggestion replacement for that text. The user can then replace * the original text by one of the suggestions." />
+      <item value="Holds suggestion candidates for the text enclosed in this span." />
+      <item value="ince the span affects the position of the text, if the text is on the last line of a * TextView, it may appear cut." />
+      <item value="Quote" />
+      <item value="Quote Span" />
+      <item value="This span can be also used to receive notification when the user deletes or modifies the text;" />
+      <item value="removes the span when the user deletes the whole text or modifies it." />
+      <item value="uses this span to allow the user to delete a chuck of text in one click." />
+      <item value="Provides an easy way to edit a portion of text." />
+      <item value="Character Style" />
+      <item value="TOKEN VARIABLE" />
+      <item value="to retrieve the index of the pointer that changed." />
+      <item value="percentage" />
+      <item value="The RecyclerView is not currently scrolling." />
+      <item value="* Create a proxy for the wrapped object allowing to typesafely invoke * methods on it using a custom interface." />
+      <item value="The interface type that is implemented by the proxy." />
+      <item value="The task is clear and it isn't launched." />
+      <item value="Avoid missing screen frames," />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="POLISH" value="1" />
+        <entry key="MALTESE" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1618282001314" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
+</application>
