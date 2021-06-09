@@ -6,6 +6,7 @@
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.13541666666666666" />
         <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.18465045592705168" />
         <entry key="main/src/main/res/layout/main_activity_main.xml" value="0.18465045592705168" />
+        <entry key="main/src/main/res/layout/main_select_user_activity.xml" value="0.2269021739130435" />
         <entry key="one2one/src/main/res/layout/one2one_activity_call_info.xml" value="0.2261904761904762" />
         <entry key="one2one/src/main/res/layout/one2one_activity_call_one.xml" value="0.5" />
         <entry key="one2one/src/main/res/layout/one2one_activity_video_p2p.xml" value="0.5" />
