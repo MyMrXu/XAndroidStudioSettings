@@ -8,6 +8,7 @@
         <entry key="baselib/src/main/res/drawable/recycler_item_selector.xml" value="0.13020833333333334" />
         <entry key="baselib/src/main/res/layout/fragment_contacts.xml" value="0.22509057971014493" />
         <entry key="baselib/src/main/res/layout/popup_linearlayout.xml" value="0.40260416666666665" />
+        <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
         <entry key="group/src/main/res/layout/group_list_item_video.xml" value="1.0" />
         <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.2477355072463768" />
