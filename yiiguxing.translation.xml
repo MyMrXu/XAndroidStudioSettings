@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The minimum flex duration for {@link PeriodicWorkRequest}" />
+      <item value="Periodic" />
       <item value="duplicated signal" />
       <item value="retained" />
       <item value="active Participants" />
@@ -49,8 +51,6 @@
       <item value="removes the span when the user deletes the whole text or modifies it." />
       <item value="uses this span to allow the user to delete a chuck of text in one click." />
       <item value="Provides an easy way to edit a portion of text." />
-      <item value="Character Style" />
-      <item value="TOKEN VARIABLE" />
     </histories>
     <option name="languageScores">
       <map>
