@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retained" />
       <item value="active Participants" />
       <item value="app Foreground" />
       <item value="Interrupted" />
@@ -50,7 +51,6 @@
       <item value="Character Style" />
       <item value="TOKEN VARIABLE" />
       <item value="to retrieve the index of the pointer that changed." />
-      <item value="percentage" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623238336397" />
+    <option name="lastTrimTime" value="1623723282328" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
