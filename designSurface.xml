@@ -10,6 +10,7 @@
         <entry key="baselib/src/main/res/drawable/recycler_item_selector.xml" value="0.13020833333333334" />
         <entry key="baselib/src/main/res/layout/activity_settings.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/fragment_contacts.xml" value="0.22509057971014493" />
+        <entry key="baselib/src/main/res/layout/group_list_item_video.xml" value="0.1" />
         <entry key="baselib/src/main/res/layout/item_contacts.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/item_settings.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/item_settings_seekbar.xml" value="0.39945652173913043" />
