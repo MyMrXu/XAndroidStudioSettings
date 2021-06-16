@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bitrate" />
+      <item value="Average" />
+      <item value="Denoise" />
       <item value="Preferred" />
       <item value="The minimum flex duration for {@link PeriodicWorkRequest}" />
       <item value="Periodic" />
@@ -48,9 +51,6 @@
       <item value="ince the span affects the position of the text, if the text is on the last line of a * TextView, it may appear cut." />
       <item value="Quote" />
       <item value="Quote Span" />
-      <item value="This span can be also used to receive notification when the user deletes or modifies the text;" />
-      <item value="removes the span when the user deletes the whole text or modifies it." />
-      <item value="uses this span to allow the user to delete a chuck of text in one click." />
     </histories>
     <option name="languageScores">
       <map>
