@@ -11,6 +11,7 @@
         <entry key="baselib/src/main/res/layout/activity_settings.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/fragment_contacts.xml" value="0.22509057971014493" />
         <entry key="baselib/src/main/res/layout/item_contacts.xml" value="0.39945652173913043" />
+        <entry key="baselib/src/main/res/layout/item_settings.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/popup_linearlayout.xml" value="0.40260416666666665" />
         <entry key="baselib/src/main/res/menu/menu_session.xml" value="0.40260416666666665" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
