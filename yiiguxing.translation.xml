@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Residual Echo Detector" />
       <item value="Bitrate" />
       <item value="Average" />
       <item value="Denoise" />
@@ -50,7 +51,6 @@
       <item value="Holds suggestion candidates for the text enclosed in this span." />
       <item value="ince the span affects the position of the text, if the text is on the last line of a * TextView, it may appear cut." />
       <item value="Quote" />
-      <item value="Quote Span" />
     </histories>
     <option name="languageScores">
       <map>
