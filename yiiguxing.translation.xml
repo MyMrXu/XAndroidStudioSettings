@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="average" />
       <item value="force" />
       <item value="CONTENT TYPE SONIFICATION" />
       <item value="USAGE VOICE COMMUNICATION" />
@@ -50,7 +51,6 @@
       <item value="subtract" />
       <item value="the number of code units in the specified text." />
       <item value="A base class to convert byte arrays to input streams so they can be decoded. This class is * abstract because there is no simple/quick way to generate an id from the bytes themselves, so * subclass must include an id." />
-      <item value="True to include the activity, false otherwise." />
     </histories>
     <option name="languageScores">
       <map>
