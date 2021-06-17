@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="VOICE COMMUNICATION" />
+      <item value="is Client Silenced" />
       <item value="is Residual Echo Detector" />
       <item value="Bitrate" />
       <item value="Average" />
@@ -49,8 +51,6 @@
       <item value="A span that supplies additional meta-data for the associated text intended * for text-to-speech engines. If the text is being processed by a * text-to-speech engine, the engine may use the data in this span in addition * to or instead of its associated text." />
       <item value="When such a span is edited in an EditText, double tapping on the text enclosed in this span will * display a popup dialog listing suggestion replacement for that text. The user can then replace * the original text by one of the suggestions." />
       <item value="Holds suggestion candidates for the text enclosed in this span." />
-      <item value="ince the span affects the position of the text, if the text is on the last line of a * TextView, it may appear cut." />
-      <item value="Quote" />
     </histories>
     <option name="languageScores">
       <map>
