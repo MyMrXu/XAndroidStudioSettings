@@ -4,6 +4,13 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="check if we can do encode with matched queue" />
+      <item value="outgoing Frame" />
+      <item value="traffic now ok" />
+      <item value="pending" />
+      <item value="send playback continues event every 0.5 seconds to update ui" />
+      <item value="check if there is enough playing buffer pending. playing has higher priority" />
+      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
       <item value="frequency" />
       <item value="CFG VALUE RESIDUAL ECHO DETECT" />
       <item value="CFG VALUE VAD PROB" />
@@ -47,13 +54,6 @@
       <item value="Indicates if this file represents a &lt;em&gt;virtual&lt;em&gt; document." />
       <item value="on Assembly" />
       <item value="scheduler" />
-      <item value="schedule" />
-      <item value="deferred" />
-      <item value="block the ui thread, to unzip the so file." />
-      <item value="Tuning" />
-      <item value="Invalid" />
-      <item value="Deletes the object from the Realm it is currently associated to." />
-      <item value="This adds itself to the status bar window, so it can appear on top of quick settings and someday do fancy animations to get intoout of it." />
     </histories>
     <option name="languageScores">
       <map>
