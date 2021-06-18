@@ -17,6 +17,7 @@
         <entry key="baselib/src/main/res/layout/popup_linearlayout.xml" value="0.40260416666666665" />
         <entry key="baselib/src/main/res/menu/menu_session.xml" value="0.40260416666666665" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
+        <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
         <entry key="group/src/main/res/layout/group_list_item_video.xml" value="1.0" />
         <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.2477355072463768" />
