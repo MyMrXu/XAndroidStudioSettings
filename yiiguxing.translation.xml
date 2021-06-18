@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="frequency" />
+      <item value="force Get" />
+      <item value="e find c recorder cannot fire forceGet at needed frequency" />
       <item value="AUDIOFOCUS LOSS TRANSIENT" />
       <item value="C" />
       <item value="VOICE COMMUNICATION" />
@@ -48,9 +51,6 @@
       <item value="Keyguard View Mediator" />
       <item value="Command Queue" />
       <item value="Notification Channels" />
-      <item value="Dependency" />
-      <item value="Smooth" />
-      <item value="Smoothed" />
     </histories>
     <option name="languageScores">
       <map>
