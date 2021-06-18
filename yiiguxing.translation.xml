@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="C" />
       <item value="VOICE COMMUNICATION" />
+      <item value="UNPROCESSED" />
       <item value="REMOTE SUBMIX" />
       <item value="VOICE UPLINK" />
       <item value="VOICE RECOGNITION" />
       <item value="VOICE PERFORMANCE" />
-      <item value="UNPROCESSED" />
       <item value="average" />
       <item value="force" />
       <item value="CONTENT TYPE SONIFICATION" />
@@ -50,7 +51,6 @@
       <item value="Smooth" />
       <item value="Smoothed" />
       <item value="Gains" />
-      <item value="Should be removed when the app will use directly the samples instead of the frames." />
     </histories>
     <option name="languageScores">
       <map>
