@@ -1,7 +1,17 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="2245" />
+    <option name="newTranslationDialogY" value="348" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="frequency" />
+      <item value="CFG VALUE RESIDUAL ECHO DETECT" />
+      <item value="CFG VALUE VAD PROB" />
+      <item value="SL ANDROID RECORDING PRESET GENERIC" />
+      <item value="preset &quot;none&quot; cannot be set, it is used to indicate the current settings do not match any of the presets." />
+      <item value="So there's no way that the playback after second one can fetch a frame." />
+      <item value="Playback" />
+      <item value="m Request Playback Data" />
       <item value="force Get" />
       <item value="e find c recorder cannot fire forceGet at needed frequency" />
       <item value="AUDIOFOCUS LOSS TRANSIENT" />
@@ -44,13 +54,6 @@
       <item value="Invalid" />
       <item value="Deletes the object from the Realm it is currently associated to." />
       <item value="This adds itself to the status bar window, so it can appear on top of quick settings and someday do fancy animations to get intoout of it." />
-      <item value="Allows full-screen customization of QS, through show() and hide()." />
-      <item value="Pip UI" />
-      <item value="Storage Notification" />
-      <item value="Ringtone Player" />
-      <item value="Keyguard View Mediator" />
-      <item value="Command Queue" />
-      <item value="Notification Channels" />
     </histories>
     <option name="languageScores">
       <map>
