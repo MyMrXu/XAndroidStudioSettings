@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sink" />
       <item value="check if we can do encode with matched queue" />
       <item value="outgoing Frame" />
       <item value="traffic now ok" />
@@ -53,7 +54,6 @@
       <item value="intercepted" />
       <item value="Indicates if this file represents a &lt;em&gt;virtual&lt;em&gt; document." />
       <item value="on Assembly" />
-      <item value="scheduler" />
     </histories>
     <option name="languageScores">
       <map>
