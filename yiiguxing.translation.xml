@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="KEY I_FRAME INTERVAL" />
+      <item value="set Average Bitrate" />
       <item value="Sink" />
       <item value="check if we can do encode with matched queue" />
       <item value="outgoing Frame" />
@@ -52,8 +54,6 @@
       <item value="oppo Side" />
       <item value="relays" />
       <item value="intercepted" />
-      <item value="Indicates if this file represents a &lt;em&gt;virtual&lt;em&gt; document." />
-      <item value="on Assembly" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623723282328" />
+    <option name="lastTrimTime" value="1624328470547" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
