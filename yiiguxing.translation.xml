@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Metrix" />
       <item value="KEY I_FRAME INTERVAL" />
       <item value="set Average Bitrate" />
       <item value="Sink" />
@@ -53,7 +54,6 @@
       <item value="Interrupted" />
       <item value="oppo Side" />
       <item value="relays" />
-      <item value="intercepted" />
     </histories>
     <option name="languageScores">
       <map>
