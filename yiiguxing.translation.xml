@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="use to show info about session" />
       <item value="Metrix" />
       <item value="KEY I_FRAME INTERVAL" />
       <item value="set Average Bitrate" />
@@ -53,7 +54,6 @@
       <item value="app Foreground" />
       <item value="Interrupted" />
       <item value="oppo Side" />
-      <item value="relays" />
     </histories>
     <option name="languageScores">
       <map>
