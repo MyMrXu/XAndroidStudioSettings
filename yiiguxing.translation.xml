@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sdk catch log, upload log and write to file" />
+      <item value="intercept" />
+      <item value="intercepter" />
+      <item value="used collect log info to write in file" />
       <item value="explicit" />
       <item value="Undecided" />
       <item value="change the info that info about id" />
@@ -50,10 +54,6 @@
       <item value="Denoise" />
       <item value="Preferred" />
       <item value="The minimum flex duration for {@link PeriodicWorkRequest}" />
-      <item value="Periodic" />
-      <item value="duplicated signal" />
-      <item value="retained" />
-      <item value="active Participants" />
     </histories>
     <option name="languageScores">
       <map>
