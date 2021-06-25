@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="348" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="performance might be affected" />
       <item value="get Video Preferred Mode" />
       <item value="generate" />
       <item value="start to log message, splice log" />
@@ -53,7 +54,6 @@
       <item value="is Client Silenced" />
       <item value="is Residual Echo Detector" />
       <item value="Bitrate" />
-      <item value="Average" />
     </histories>
     <option name="languageScores">
       <map>
