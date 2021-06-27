@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="verbose" />
       <item value="frequency" />
       <item value="silent" />
       <item value="MODE NORMAL" />
@@ -51,7 +52,6 @@
       <item value="VOICE RECOGNITION" />
       <item value="VOICE PERFORMANCE" />
       <item value="average" />
-      <item value="force" />
     </histories>
     <option name="languageScores">
       <map>
