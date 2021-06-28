@@ -2,13 +2,14 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AudioTrack identical" />
+      <item value="silent" />
       <item value="identical" />
       <item value="METRIX" />
       <item value="get Preferred Size" />
       <item value="resize Encoder To Capture Size" />
       <item value="verbose" />
       <item value="frequency" />
-      <item value="silent" />
       <item value="MODE NORMAL" />
       <item value="MODE IN COMMUNICATION" />
       <item value="MODE IN CALL" />
@@ -51,7 +52,6 @@
       <item value="C" />
       <item value="VOICE COMMUNICATION" />
       <item value="UNPROCESSED" />
-      <item value="REMOTE SUBMIX" />
     </histories>
     <option name="languageScores">
       <map>
