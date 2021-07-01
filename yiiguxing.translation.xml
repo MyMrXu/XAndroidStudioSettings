@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Encode Delta" />
+      <item value="try Acquire" />
       <item value="Nack" />
       <item value="Raptor" />
       <item value="YCK Raptor Packet" />
@@ -50,8 +52,6 @@
       <item value="check if we can do encode with matched queue" />
       <item value="outgoing Frame" />
       <item value="traffic now ok" />
-      <item value="pending" />
-      <item value="send playback continues event every 0.5 seconds to update ui" />
     </histories>
     <option name="languageScores">
       <map>
