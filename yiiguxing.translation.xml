@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Video Codec Metrix" />
       <item value="Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
       <item value="orkFolderNeuAndroidExamplesone2onesrcmainjavacomexampleone2oneVideoP2PActivity.kt: (70, 46): Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
       <item value="magnifier pixel copy result handler,5,main" />
@@ -51,7 +52,6 @@
       <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
       <item value="CFG VALUE RESIDUAL ECHO DETECT" />
       <item value="CFG VALUE VAD PROB" />
-      <item value="SL ANDROID RECORDING PRESET GENERIC" />
     </histories>
     <option name="languageScores">
       <map>
