@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Nack" />
+      <item value="Raptor" />
+      <item value="YCK Raptor Packet" />
+      <item value="ACCUMELAING" />
       <item value="Video Codec Metrix" />
       <item value="Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
       <item value="orkFolderNeuAndroidExamplesone2onesrcmainjavacomexampleone2oneVideoP2PActivity.kt: (70, 46): Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
@@ -48,10 +52,6 @@
       <item value="traffic now ok" />
       <item value="pending" />
       <item value="send playback continues event every 0.5 seconds to update ui" />
-      <item value="check if there is enough playing buffer pending. playing has higher priority" />
-      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
-      <item value="CFG VALUE RESIDUAL ECHO DETECT" />
-      <item value="CFG VALUE VAD PROB" />
     </histories>
     <option name="languageScores">
       <map>
