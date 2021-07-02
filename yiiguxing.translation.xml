@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="flip" />
       <item value="Average Bitrate" />
       <item value="add Encode Delta" />
       <item value="try Acquire" />
@@ -51,7 +52,6 @@
       <item value="set Average Bitrate" />
       <item value="Sink" />
       <item value="check if we can do encode with matched queue" />
-      <item value="outgoing Frame" />
     </histories>
     <option name="languageScores">
       <map>
