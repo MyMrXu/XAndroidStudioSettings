@@ -5,8 +5,14 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/98832de6b365007e1cf15a54f73d931f/jetified-ease-call-kit-3.8.2/res/layout/activity_ease_video_call.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/drawable/vclass_control_bg.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/drawable/vclass_steps_bg.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.36186594202898553" />
         <entry key="app/src/main/res/layout/item_fragment_home_topview.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/vclass_item_panel.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/vclass_item_pentools.xml" value="0.22916666666666666" />
+        <entry key="app/src/main/res/layout/vclass_item_tools.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_landscape_activity.xml" value="0.23958333333333334" />
         <entry key="app/src/main/res/layout/vclass_view_handup_layout.xml" value="0.34782608695652173" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_add_24.xml" value="0.41770833333333335" />
@@ -27,6 +33,9 @@
         <entry key="baselib/src/main/res/menu/menu_session.xml" value="0.40260416666666665" />
         <entry key="doodle/src/main/res/layout/doodle_activity_doodle.xml" value="0.3641304347826087" />
         <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.3596014492753623" />
+        <entry key="doodle/src/main/res/layout/doodle_vclass_item_panel.xml" value="0.3596014492753623" />
+        <entry key="doodle/src/main/res/layout/doodle_vclass_item_pentools.xml" value="0.3596014492753623" />
+        <entry key="doodle/src/main/res/layout/doodle_vclass_item_tools.xml" value="0.3596014492753623" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
