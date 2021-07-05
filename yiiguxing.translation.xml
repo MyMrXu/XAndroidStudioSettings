@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SONIFICATION" />
+      <item value="CONTENT TYPE SONIFICATION" />
       <item value="SPEECH" />
       <item value="here we need add a csd0 buffer header in front of iframe data. from now on, ByteBuffer data will be a buffer with csd0 buffer (iframe), or == origin bytebuffer. and slice ByteBuffer is the slice of data. and origin ByteBuffer will be the origin bytebuffer (not with cs0 buffer in iframe)." />
       <item value="flip" />
@@ -50,8 +52,6 @@
       <item value="change the info that info about id" />
       <item value="use to show info about session" />
       <item value="Metrix" />
-      <item value="KEY I_FRAME INTERVAL" />
-      <item value="set Average Bitrate" />
     </histories>
     <option name="languageScores">
       <map>
