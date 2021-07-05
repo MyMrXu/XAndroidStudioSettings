@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CONFERENCE CALL" />
       <item value="denied" />
       <item value="identical" />
       <item value="SONIFICATION" />
@@ -51,7 +52,6 @@
       <item value="explicit" />
       <item value="Undecided" />
       <item value="change the info that info about id" />
-      <item value="use to show info about session" />
     </histories>
     <option name="languageScores">
       <map>
