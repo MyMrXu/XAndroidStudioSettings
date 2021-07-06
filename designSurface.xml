@@ -10,6 +10,7 @@
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_control_bg.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_steps_bg.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/vclass_tools_shap.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_black_move_selector.xml" value="0.4112820512820513" />
@@ -55,6 +56,8 @@
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.41770833333333335" />
+        <entry key="doodle/src/main/res/drawable/vclass_fragment_panels_remove.xml" value="0.41770833333333335" />
+        <entry key="doodle/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/vclass_tools_shap.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/vclass_tools_shap_blue.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/vclass_tools_shap_grey.xml" value="0.41770833333333335" />
@@ -94,12 +97,14 @@
         <entry key="doodle/src/main/res/drawable/video_tools_thickness2_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/video_tools_thickness3_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/video_tools_transform_selector.xml" value="0.24427083333333333" />
-        <entry key="doodle/src/main/res/layout/doodle_activity_doodle.xml" value="0.3641304347826087" />
+        <entry key="doodle/src/main/res/layout/doodle_activity_doodle.xml" value="0.24322916666666666" />
         <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_panel.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_pentools.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_tools.xml" value="0.3596014492753623" />
+        <entry key="doodle/src/main/res/layout/vclass_fragment_panels.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_fluorescent_color_view.xml" value="0.35507246376811596" />
+        <entry key="doodle/src/main/res/layout/vclass_item_panels.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.35507246376811596" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
