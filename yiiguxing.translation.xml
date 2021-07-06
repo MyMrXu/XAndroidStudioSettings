@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="VERBOSE" />
       <item value="CONFERENCE CALL" />
       <item value="denied" />
       <item value="identical" />
@@ -51,7 +52,6 @@
       <item value="used collect log info to write in file" />
       <item value="explicit" />
       <item value="Undecided" />
-      <item value="change the info that info about id" />
     </histories>
     <option name="languageScores">
       <map>
