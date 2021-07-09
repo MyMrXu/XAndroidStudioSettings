@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bits" />
       <item value="definition" />
       <item value="multiple definition of `neu_methodLogV'" />
       <item value="VERBOSE" />
@@ -51,7 +52,6 @@
       <item value="sdk catch log, upload log and write to file" />
       <item value="intercept" />
       <item value="intercepter" />
-      <item value="used collect log info to write in file" />
     </histories>
     <option name="languageScores">
       <map>
