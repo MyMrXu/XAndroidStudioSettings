@@ -322,6 +322,7 @@
         <configuration>
           <option name="RENDERERS_ENABLED" value="false" />
           <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">
