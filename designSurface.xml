@@ -114,8 +114,9 @@
         <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
         <entry key="group/src/main/res/layout/group_list_item_video.xml" value="1.0" />
-        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.40281396560708704" />
+        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.3586206896551724" />
         <entry key="group/src/main/res/layout/group_voice_activity.xml" value="0.23143115942028986" />
+        <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.23777173913043478" />
         <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.18465045592705168" />
