@@ -15,9 +15,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.h</mask>
     <mask>*.c</mask>
+    <mask>*.java</mask>
     <mask>*.kt</mask>
   </component>
 </application>
