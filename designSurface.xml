@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.42916666666666664" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.42782969885773625" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/98832de6b365007e1cf15a54f73d931f/jetified-ease-call-kit-3.8.2/res/layout/activity_ease_video_call.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
@@ -109,12 +109,14 @@
         <entry key="doodle/src/main/res/layout/vclass_item_fluorescent_color_view.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_panels.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.35507246376811596" />
+        <entry key="group/src/main/res/drawable/group_ic_background_live.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/layout/group_item_full_video.xml" value="1.0" />
         <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
         <entry key="group/src/main/res/layout/group_list_item_video.xml" value="1.0" />
-        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.40281396560708704" />
+        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.33" />
+        <entry key="group/src/main/res/layout/group_view_live_ready.xml" value="0.35778985507246375" />
         <entry key="group/src/main/res/layout/group_voice_activity.xml" value="0.23143115942028986" />
         <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
