@@ -5,7 +5,6 @@
   <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="FileChooser.LightEditGotoOpenedFile">
