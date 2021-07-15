@@ -145,6 +145,7 @@
         <entry key="one2one/src/main/res/menu/menu.xml" value="0.40260416666666665" />
         <entry key="one2one/src/main/res/menu/one2one_session_doing.xml" value="0.41354166666666664" />
         <entry key="one2one/src/main/res/menu/one2one_session_menu.xml" value="0.40260416666666665" />
+        <entry key="session/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
         <entry key="test/src/main/res/layout/activity_main.xml" value="0.3686594202898551" />
         <entry key="video/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="video/src/main/res/layout/video_activity_video_session.xml" value="0.35778985507246375" />
