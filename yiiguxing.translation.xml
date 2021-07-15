@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dequeue" />
       <item value="Advance to the next sample. Returns false if no more sample data is available (end of stream)." />
       <item value="Bits" />
       <item value="definition" />
@@ -51,7 +52,6 @@
       <item value="generate" />
       <item value="start to log message, splice log" />
       <item value="sdk catch log, upload log and write to file" />
-      <item value="intercept" />
     </histories>
     <option name="languageScores">
       <map>
