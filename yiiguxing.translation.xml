@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the current sample's presentation time in microseconds. or -1 if no more samples are available." />
       <item value="INFO OUTPUT BUFFERS CHANGED" />
       <item value="Returns the number of elements between the current position and the limit." />
       <item value="dequeue" />
@@ -51,7 +52,6 @@
       <item value="MODE CALL SCREENING" />
       <item value="performance might be affected" />
       <item value="get Video Preferred Mode" />
-      <item value="generate" />
     </histories>
     <option name="languageScores">
       <map>
