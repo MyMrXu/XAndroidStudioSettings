@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no traffic since 'mPlayerFrameCount'" />
       <item value="Interrupt process, pipeline will be destroy when this method called." />
       <item value="Returns the current sample's presentation time in microseconds. or -1 if no more samples are available." />
       <item value="INFO OUTPUT BUFFERS CHANGED" />
@@ -51,7 +52,6 @@
       <item value="MODE INVALID" />
       <item value="MODE CURRENT" />
       <item value="MODE CALL SCREENING" />
-      <item value="performance might be affected" />
     </histories>
     <option name="languageScores">
       <map>
