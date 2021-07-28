@@ -163,6 +163,11 @@
         <entry key="session/src/main/res/drawable/ic_join_channel.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/drawable/ic_pstn.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
+        <entry key="session/src/main/res/layout/one2one_activity_video_p2p.xml" value="0.32518115942028986" />
+        <entry key="session/src/main/res/layout/one2one_activity_voice_p2p.xml" value="0.32518115942028986" />
+        <entry key="session/src/main/res/layout/one2one_item_voice_call.xml" value="0.32518115942028986" />
+        <entry key="session/src/main/res/layout/one2one_list_item_video.xml" value="1.0" />
+        <entry key="session/src/main/res/layout/pstn_activity_call.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_activity_session_set.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_activity_sessionset.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_dialog_join_channel.xml" value="0.34057971014492755" />
