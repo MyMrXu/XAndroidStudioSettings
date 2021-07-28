@@ -6,6 +6,7 @@
       <mapping pattern="item_video_module_headerxml" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping ext="neunote" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
