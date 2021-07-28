@@ -161,8 +161,12 @@
         <entry key="session/src/main/res/drawable/group_ic_background_live.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/drawable/ic_1v1_audio.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/drawable/ic_1v1_video.xml" value="0.4112820512820513" />
+        <entry key="session/src/main/res/drawable/ic_hangup.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/drawable/ic_join_channel.xml" value="0.4112820512820513" />
+        <entry key="session/src/main/res/drawable/ic_micphone.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/drawable/ic_pstn.xml" value="0.4112820512820513" />
+        <entry key="session/src/main/res/drawable/ic_speaker.xml" value="0.4112820512820513" />
+        <entry key="session/src/main/res/drawable/ic_speaker_selector.xml" value="0.4112820512820513" />
         <entry key="session/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
         <entry key="session/src/main/res/layout/group_view_live_ready.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/group_voice_activity.xml" value="0.32518115942028986" />
@@ -176,6 +180,7 @@
         <entry key="session/src/main/res/layout/session_activity_single_call.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_activity_video_group.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_activity_voice_group.xml" value="0.32518115942028986" />
+        <entry key="session/src/main/res/layout/session_dialog_call_pstn.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_dialog_join_channel.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_item_session_set.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_list_item.xml" value="1.0" />
