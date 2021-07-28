@@ -170,6 +170,7 @@
         <entry key="session/src/main/res/layout/pstn_activity_call.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_activity_session_set.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_activity_sessionset.xml" value="0.34057971014492755" />
+        <entry key="session/src/main/res/layout/session_activity_single_call.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_dialog_join_channel.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_item_session_set.xml" value="0.34057971014492755" />
         <entry key="test/src/main/res/layout/activity_main.xml" value="0.3686594202898551" />
