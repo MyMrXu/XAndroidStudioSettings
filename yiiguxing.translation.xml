@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dual Mode" />
       <item value="this callback handler is called every time a buffer finishes recording" />
       <item value="this callback handler is called every time a buffer finishes playing" />
       <item value="his callback handler is called every time a buffer finishes playing" />
@@ -51,7 +52,6 @@
       <item value="verbose" />
       <item value="MODE NORMAL" />
       <item value="MODE IN COMMUNICATION" />
-      <item value="MODE IN CALL" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626780078303" />
+    <option name="lastTrimTime" value="1627550524797" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
