@@ -41,6 +41,7 @@
         <entry key="app/src/main/res/layout/vclass_player.xml" value="0.37907608695652173" />
         <entry key="app/src/main/res/layout/vclass_view_for_screen_layout.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_view_handup_layout.xml" value="0.34782608695652173" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4112820512820513" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_add_24.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_radio_button_checked_24.xml" value="0.21666666666666667" />
@@ -137,6 +138,7 @@
         <entry key="live/src/main/res/layout/live_live_start_activity.xml" value="0.36231884057971014" />
         <entry key="live/src/main/res/menu/live_menu_live.xml" value="0.40260416666666665" />
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.23777173913043478" />
+        <entry key="main/src/main/res/drawable-v21/main_recycler_item_selector.xml" value="0.4112820512820513" />
         <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.35778985507246375" />
         <entry key="main/src/main/res/layout/activity_n_splash1.xml" value="0.39945652173913043" />
         <entry key="main/src/main/res/layout/main_activity_main.xml" value="0.23777173913043478" />
