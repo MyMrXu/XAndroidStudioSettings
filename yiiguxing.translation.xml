@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tail" />
       <item value="seperate" />
       <item value="Bluetooth Smart" />
       <item value="Headset and Handsfree profile" />
@@ -51,7 +52,6 @@
       <item value="AudioTrack identical" />
       <item value="silent" />
       <item value="METRIX" />
-      <item value="get Preferred Size" />
     </histories>
     <option name="languageScores">
       <map>
