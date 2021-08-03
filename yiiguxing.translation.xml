@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="capacity" />
+      <item value="Sets this buffer's limit. If the position is larger than the new limit then it is set to the new limit. If the mark is defined and larger than the new limit then it is discarded." />
       <item value="tail" />
       <item value="seperate" />
       <item value="Bluetooth Smart" />
@@ -50,8 +52,6 @@
       <item value="underrun" />
       <item value="frequency" />
       <item value="AudioTrack identical" />
-      <item value="silent" />
-      <item value="METRIX" />
     </histories>
     <option name="languageScores">
       <map>
