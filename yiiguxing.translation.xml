@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove First Occurrence" />
+      <item value="Linked Blocking Queue" />
+      <item value="Linked Blocking Deque" />
+      <item value="Synchronous Queue" />
       <item value="passing true renders this output buffer to the surface." />
       <item value="If a valid surface was specified when configuring the codec," />
       <item value="front" />
@@ -48,10 +52,6 @@
       <item value="magnifier pixel copy result handler,5,main" />
       <item value="on Capabilities Changed" />
       <item value="interval" />
-      <item value="Suitable" />
-      <item value="the log file save path" />
-      <item value="m Current Stall Level" />
-      <item value="releaseBuffer() track 0x7303a25700 disabled due to previous underrun, restarting" />
     </histories>
     <option name="languageScores">
       <map>
