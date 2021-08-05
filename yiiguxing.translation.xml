@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the identifier of the calling thread, which be used with" />
       <item value="remove First Occurrence" />
       <item value="Linked Blocking Queue" />
       <item value="Linked Blocking Deque" />
@@ -51,7 +52,6 @@
       <item value="orkFolderNeuAndroidExamplesone2onesrcmainjavacomexampleone2oneVideoP2PActivity.kt: (70, 46): Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
       <item value="magnifier pixel copy result handler,5,main" />
       <item value="on Capabilities Changed" />
-      <item value="interval" />
     </histories>
     <option name="languageScores">
       <map>
