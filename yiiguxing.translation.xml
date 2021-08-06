@@ -2,6 +2,32 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the identifier of the calling thread, which be used with" />
+      <item value="remove First Occurrence" />
+      <item value="Linked Blocking Queue" />
+      <item value="Linked Blocking Deque" />
+      <item value="Synchronous Queue" />
+      <item value="passing true renders this output buffer to the surface." />
+      <item value="If a valid surface was specified when configuring the codec," />
+      <item value="front" />
+      <item value="capacity" />
+      <item value="Sets this buffer's limit. If the position is larger than the new limit then it is set to the new limit. If the mark is defined and larger than the new limit then it is discarded." />
+      <item value="tail" />
+      <item value="seperate" />
+      <item value="Bluetooth Smart" />
+      <item value="Headset and Handsfree profile" />
+      <item value="Health Device Profile (HDP) and MCAP protocol are no longer used. New apps should use Bluetooth Low Energy based solutions such as {@link BluetoothGatt}," />
+      <item value="Dual Mode" />
+      <item value="this callback handler is called every time a buffer finishes recording" />
+      <item value="this callback handler is called every time a buffer finishes playing" />
+      <item value="his callback handler is called every time a buffer finishes playing" />
+      <item value="no traffic since 'mPlayerFrameCount'" />
+      <item value="Interrupt process, pipeline will be destroy when this method called." />
+      <item value="Returns the current sample's presentation time in microseconds. or -1 if no more samples are available." />
+      <item value="INFO OUTPUT BUFFERS CHANGED" />
+      <item value="Returns the number of elements between the current position and the limit." />
+      <item value="dequeue" />
+      <item value="Advance to the next sample. Returns false if no more sample data is available (end of stream)." />
       <item value="Bits" />
       <item value="definition" />
       <item value="multiple definition of `neu_methodLogV'" />
@@ -26,32 +52,6 @@
       <item value="orkFolderNeuAndroidExamplesone2onesrcmainjavacomexampleone2oneVideoP2PActivity.kt: (70, 46): Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
       <item value="magnifier pixel copy result handler,5,main" />
       <item value="on Capabilities Changed" />
-      <item value="interval" />
-      <item value="Suitable" />
-      <item value="the log file save path" />
-      <item value="m Current Stall Level" />
-      <item value="releaseBuffer() track 0x7303a25700 disabled due to previous underrun, restarting" />
-      <item value="underrun" />
-      <item value="frequency" />
-      <item value="AudioTrack identical" />
-      <item value="silent" />
-      <item value="METRIX" />
-      <item value="get Preferred Size" />
-      <item value="resize Encoder To Capture Size" />
-      <item value="verbose" />
-      <item value="MODE NORMAL" />
-      <item value="MODE IN COMMUNICATION" />
-      <item value="MODE IN CALL" />
-      <item value="MODE INVALID" />
-      <item value="MODE CURRENT" />
-      <item value="MODE CALL SCREENING" />
-      <item value="performance might be affected" />
-      <item value="get Video Preferred Mode" />
-      <item value="generate" />
-      <item value="start to log message, splice log" />
-      <item value="sdk catch log, upload log and write to file" />
-      <item value="intercept" />
-      <item value="intercepter" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625469241905" />
+    <option name="lastTrimTime" value="1628044978100" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
