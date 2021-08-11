@@ -183,7 +183,7 @@
         <entry key="session/src/main/res/layout/session_activity_session_set.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_activity_sessionset.xml" value="0.34057971014492755" />
         <entry key="session/src/main/res/layout/session_activity_single_call.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/session_activity_video_group.xml" value="0.32518115942028986" />
+        <entry key="session/src/main/res/layout/session_activity_video_group.xml" value="1.0" />
         <entry key="session/src/main/res/layout/session_activity_voice_group.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_dialog_call_pstn.xml" value="0.32518115942028986" />
         <entry key="session/src/main/res/layout/session_dialog_join_channel.xml" value="0.34057971014492755" />
