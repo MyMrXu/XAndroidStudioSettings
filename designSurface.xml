@@ -3,12 +3,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.175" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/98832de6b365007e1cf15a54f73d931f/jetified-ease-call-kit-3.8.2/res/layout/activity_ease_video_call.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
-        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.184375" />
         <entry key="app/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_control_bg.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.4112820512820513" />
@@ -17,32 +16,23 @@
         <entry key="app/src/main/res/drawable/video_tools_black_move_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_pencolor_view1.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_prev_selector.xml" value="0.4112820512820513" />
-        <entry key="app/src/main/res/drawable/video_tools_rubber_selector.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/video_tools_thickness1_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_thickness2_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_thickness3_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_thickness4_selector.xml" value="0.4112820512820513" />
-        <entry key="app/src/main/res/layout/acc_item_classroom_exhibition.xml" value="0.17916666666666667" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19579533941236069" />
-        <entry key="app/src/main/res/layout/base_inputmethod_view.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.36186594202898553" />
         <entry key="app/src/main/res/layout/item_fragment_home_topview.xml" value="0.296195652173913" />
-        <entry key="app/src/main/res/layout/vclass_around_model_activity.xml" value="0.19400352733686066" />
-        <entry key="app/src/main/res/layout/vclass_dailog_mine_interests.xml" value="0.29347826086956524" />
+        <entry key="app/src/main/res/layout/vclass_around_model_activity.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_fragment.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_fragment_panels.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_item_fluorescent_color_view.xml" value="0.3328804347826087" />
-        <entry key="app/src/main/res/layout/vclass_item_panel.xml" value="0.246875" />
+        <entry key="app/src/main/res/layout/vclass_item_panel.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_item_panels.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_item_pentools.xml" value="0.3328804347826087" />
-        <entry key="app/src/main/res/layout/vclass_item_texttools.xml" value="0.28125" />
         <entry key="app/src/main/res/layout/vclass_item_tools.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_landscape_activity.xml" value="0.23229166666666667" />
-        <entry key="app/src/main/res/layout/vclass_player.xml" value="0.37907608695652173" />
-        <entry key="app/src/main/res/layout/vclass_view_for_screen_layout.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_view_handup_layout.xml" value="0.34782608695652173" />
-        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4112820512820513" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_add_24.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_radio_button_checked_24.xml" value="0.21666666666666667" />
@@ -66,7 +56,6 @@
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
-        <entry key="doodle/src/main/res/drawable/ic_laser_red.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/vclass_fragment_panels_remove.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.41770833333333335" />
@@ -109,12 +98,8 @@
         <entry key="doodle/src/main/res/drawable/video_tools_thickness2_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/video_tools_thickness3_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/video_tools_transform_selector.xml" value="0.24427083333333333" />
-        <entry key="doodle/src/main/res/layout/base_inputmethod_view.xml" value="0.3596014492753623" />
-        <entry key="doodle/src/main/res/layout/doodle_activity_brower.xml" value="0.3197463768115942" />
         <entry key="doodle/src/main/res/layout/doodle_activity_doodle.xml" value="0.24322916666666666" />
-        <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.228125" />
-        <entry key="doodle/src/main/res/layout/doodle_activity_ready.xml" value="0.3596014492753623" />
-        <entry key="doodle/src/main/res/layout/doodle_dialog_join_channel.xml" value="0.3596014492753623" />
+        <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_item_selectfile.xml" value="0.35054347826086957" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_panel.xml" value="0.4494706448508181" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_pentools.xml" value="0.3596014492753623" />
@@ -124,23 +109,17 @@
         <entry key="doodle/src/main/res/layout/vclass_item_fluorescent_color_view.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_panels.xml" value="0.35507246376811596" />
         <entry key="doodle/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.35507246376811596" />
-        <entry key="doodle/src/main/res/layout/vclass_item_texttools.xml" value="0.3596014492753623" />
-        <entry key="group/src/main/res/drawable/group_ic_background_live.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="group/src/main/res/layout/group_item_full_video.xml" value="1.0" />
         <entry key="group/src/main/res/layout/group_item_voice_call.xml" value="0.3958333333333333" />
         <entry key="group/src/main/res/layout/group_join_channel_activity.xml" value="0.2477355072463768" />
         <entry key="group/src/main/res/layout/group_list_item_video.xml" value="1.0" />
-        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.33" />
-        <entry key="group/src/main/res/layout/group_view_live_ready.xml" value="0.35778985507246375" />
+        <entry key="group/src/main/res/layout/group_video_activity.xml" value="0.3586206896551724" />
         <entry key="group/src/main/res/layout/group_voice_activity.xml" value="0.23143115942028986" />
         <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
-        <entry key="live/src/main/res/layout/live_live_start_activity.xml" value="0.36231884057971014" />
-        <entry key="live/src/main/res/menu/live_menu_live.xml" value="0.40260416666666665" />
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.23777173913043478" />
-        <entry key="main/src/main/res/drawable-v21/main_recycler_item_selector.xml" value="0.4112820512820513" />
-        <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.35778985507246375" />
+        <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.18465045592705168" />
         <entry key="main/src/main/res/layout/activity_n_splash1.xml" value="0.39945652173913043" />
         <entry key="main/src/main/res/layout/main_activity_main.xml" value="0.23777173913043478" />
         <entry key="main/src/main/res/layout/main_dialog_join_channel.xml" value="0.39945652173913043" />
@@ -152,7 +131,6 @@
         <entry key="one2one/src/main/res/layout/login_activity_called.xml" value="0.3641304347826087" />
         <entry key="one2one/src/main/res/layout/one2one_activity_call_info.xml" value="0.2261904761904762" />
         <entry key="one2one/src/main/res/layout/one2one_activity_call_one.xml" value="0.5" />
-        <entry key="one2one/src/main/res/layout/one2one_activity_self_video.xml" value="1.0" />
         <entry key="one2one/src/main/res/layout/one2one_activity_video_p2p.xml" value="0.25" />
         <entry key="one2one/src/main/res/layout/one2one_activity_voice_p2p.xml" value="0.3283514492753623" />
         <entry key="one2one/src/main/res/layout/one2one_item_voice_call.xml" value="0.3641304347826087" />
@@ -162,41 +140,7 @@
         <entry key="one2one/src/main/res/menu/menu.xml" value="0.40260416666666665" />
         <entry key="one2one/src/main/res/menu/one2one_session_doing.xml" value="0.41354166666666664" />
         <entry key="one2one/src/main/res/menu/one2one_session_menu.xml" value="0.40260416666666665" />
-        <entry key="session/src/main/res/drawable/group_ic_background_live.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_1v1_audio.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_1v1_video.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_hangup.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_join_channel.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_micphone.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_pstn.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_speaker.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/drawable/ic_speaker_selector.xml" value="0.4112820512820513" />
-        <entry key="session/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
-        <entry key="session/src/main/res/layout/group_view_live_ready.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/group_voice_activity.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/one2one_activity_video_p2p.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/one2one_activity_voice_p2p.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/one2one_item_voice_call.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/one2one_list_item_video.xml" value="1.0" />
-        <entry key="session/src/main/res/layout/pstn_activity_call.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/session_activity_call.xml" value="0.1983695652173913" />
-        <entry key="session/src/main/res/layout/session_activity_session_set.xml" value="0.34057971014492755" />
-        <entry key="session/src/main/res/layout/session_activity_sessionset.xml" value="0.34057971014492755" />
-        <entry key="session/src/main/res/layout/session_activity_single_call.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/session_activity_video_group.xml" value="1.0" />
-        <entry key="session/src/main/res/layout/session_activity_voice_group.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/session_dialog_call_pstn.xml" value="0.32518115942028986" />
-        <entry key="session/src/main/res/layout/session_dialog_join_channel.xml" value="0.34057971014492755" />
-        <entry key="session/src/main/res/layout/session_item_session_set.xml" value="0.34057971014492755" />
-        <entry key="session/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="test/src/main/res/layout/activity_main.xml" value="0.3686594202898551" />
-        <entry key="thirdpush/src/main/res/layout/activity_main.xml" value="0.19579533941236069" />
-        <entry key="thirdpush/src/main/res/layout/thirdpush_activity_main.xml" value="0.348731884057971" />
-        <entry key="thridpush/src/main/res/layout/activity_main.xml" value="0.348731884057971" />
-        <entry key="video/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="video/src/main/res/layout/video_activity_video_session.xml" value="0.35778985507246375" />
-        <entry key="video/src/main/res/layout/video_list_item.xml" value="1.0" />
-        <entry key="ycklib/src/main/res/layout/live_fragment_create_live_room.xml" value="0.3532608695652174" />
       </map>
     </option>
   </component>
