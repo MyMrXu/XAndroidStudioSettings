@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pivot" />
       <item value="Operation" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="Returns the identifier of the calling thread, which be used with" />
@@ -51,7 +52,6 @@
       <item value="ACCUMELAING" />
       <item value="Video Codec Metrix" />
       <item value="Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
-      <item value="orkFolderNeuAndroidExamplesone2onesrcmainjavacomexampleone2oneVideoP2PActivity.kt: (70, 46): Type mismatch: inferred type is VideoP2PViewModel? but ContactsFragment.ContactChooseListener was expected" />
     </histories>
     <option name="languageScores">
       <map>
