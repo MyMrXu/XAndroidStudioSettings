@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.175" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/98832de6b365007e1cf15a54f73d931f/jetified-ease-call-kit-3.8.2/res/layout/activity_ease_video_call.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
@@ -99,8 +99,9 @@
         <entry key="doodle/src/main/res/drawable/video_tools_thickness3_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/video_tools_transform_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/layout/doodle_activity_doodle.xml" value="0.24322916666666666" />
-        <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.25" />
+        <entry key="doodle/src/main/res/layout/doodle_activity_doodle_local.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_item_selectfile.xml" value="0.35054347826086957" />
+        <entry key="doodle/src/main/res/layout/doodle_popup_tools.xml" value="0.19579533941236069" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_panel.xml" value="0.4494706448508181" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_pentools.xml" value="0.3596014492753623" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_tools.xml" value="0.3596014492753623" />
@@ -118,6 +119,7 @@
         <entry key="group/src/main/res/layout/group_voice_activity.xml" value="0.23143115942028986" />
         <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
+        <entry key="live/src/main/res/layout/live_live_start_activity.xml" value="0.14375" />
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.23777173913043478" />
         <entry key="main/src/main/res/layout/activity_n_splash.xml" value="0.18465045592705168" />
         <entry key="main/src/main/res/layout/activity_n_splash1.xml" value="0.39945652173913043" />
