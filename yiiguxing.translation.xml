@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Declared" />
       <item value="Amount to add to the current X coordinate of the event." />
       <item value="Return the precision of the X coordinates being reported. You can multiply this number with {@link getX} to find the actual hardware value of the X coordinate. @return Returns the precision of X coordinates being reported." />
       <item value="Recycle the MotionEvent, to be re-used by a later caller. After calling this function you must not ever touch the event again." />
@@ -51,7 +52,6 @@
       <item value="flip" />
       <item value="Average Bitrate" />
       <item value="add Encode Delta" />
-      <item value="try Acquire" />
     </histories>
     <option name="languageScores">
       <map>
