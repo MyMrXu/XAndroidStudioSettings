@@ -14,7 +14,7 @@
     <mask>*.java</mask>
     <mask>*.h</mask>
     <mask>*.c</mask>
-    <mask>*.kt</mask>
     <mask>*.c</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
