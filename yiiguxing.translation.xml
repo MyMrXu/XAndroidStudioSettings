@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
       <item value="is Residual Echo Detector" />
       <item value="force Specified Conf" />
       <item value="echo Detect" />
@@ -51,7 +52,6 @@
       <item value="definition" />
       <item value="multiple definition of `neu_methodLogV'" />
       <item value="VERBOSE" />
-      <item value="CONFERENCE CALL" />
     </histories>
     <option name="languageScores">
       <map>
