@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
       <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
       <item value="is Residual Echo Detector" />
       <item value="force Specified Conf" />
@@ -51,7 +52,6 @@
       <item value="Bits" />
       <item value="definition" />
       <item value="multiple definition of `neu_methodLogV'" />
-      <item value="VERBOSE" />
     </histories>
     <option name="languageScores">
       <map>
