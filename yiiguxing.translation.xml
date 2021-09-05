@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
+      <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
+      <item value="is Residual Echo Detector" />
+      <item value="force Specified Conf" />
+      <item value="echo Detect" />
+      <item value="manufacturer" />
+      <item value="The rectangle that the bitmap will be scaledtranslated to fit into" />
+      <item value="May be null. The subset of the bitmap to be drawn" />
+      <item value="ay be null. The subset of the bitmap to be drawn" />
+      <item value="Apply this matrix to the src rectangle, and write the transformed rectangle into dst. This is accomplished by transforming the 4 corners of src, and then setting dst to the bounds of those points." />
+      <item value="Apply this matrix to the rectangle, and write the transformed rectangle back into it. This is accomplished by transforming the 4 corners of rect, and then setting it to the bounds of those points" />
       <item value="Declared" />
       <item value="Amount to add to the current X coordinate of the event." />
       <item value="Return the precision of the X coordinates being reported. You can multiply this number with {@link getX} to find the actual hardware value of the X coordinate. @return Returns the precision of X coordinates being reported." />
@@ -41,17 +52,6 @@
       <item value="Bits" />
       <item value="definition" />
       <item value="multiple definition of `neu_methodLogV'" />
-      <item value="VERBOSE" />
-      <item value="CONFERENCE CALL" />
-      <item value="denied" />
-      <item value="identical" />
-      <item value="SONIFICATION" />
-      <item value="CONTENT TYPE SONIFICATION" />
-      <item value="SPEECH" />
-      <item value="here we need add a csd0 buffer header in front of iframe data. from now on, ByteBuffer data will be a buffer with csd0 buffer (iframe), or == origin bytebuffer. and slice ByteBuffer is the slice of data. and origin ByteBuffer will be the origin bytebuffer (not with cs0 buffer in iframe)." />
-      <item value="flip" />
-      <item value="Average Bitrate" />
-      <item value="add Encode Delta" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629095273584" />
+    <option name="lastTrimTime" value="1630465188785" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
