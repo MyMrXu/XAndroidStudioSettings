@@ -136,6 +136,7 @@
         <entry key="main/src/main/res/layout/main_list_item_functions.xml" value="0.39945652173913043" />
         <entry key="main/src/main/res/layout/main_more_func_activity.xml" value="0.40260416666666665" />
         <entry key="main/src/main/res/layout/main_select_user_activity.xml" value="0.2269021739130435" />
+        <entry key="message/src/main/res/layout/message_activity_message.xml" value="0.3333333333333333" />
         <entry key="one2one/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.41770833333333335" />
         <entry key="one2one/src/main/res/layout/login_activity_called.xml" value="0.3641304347826087" />
         <entry key="one2one/src/main/res/layout/one2one_activity_call_info.xml" value="0.2261904761904762" />
