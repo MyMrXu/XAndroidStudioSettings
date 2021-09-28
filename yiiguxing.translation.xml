@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Established" />
+      <item value="on Call Established" />
       <item value="Postconcats the matrix with the specified translation. M' = T(dx, dy) M" />
       <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
       <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
@@ -50,8 +52,6 @@
       <item value="Returns the number of elements between the current position and the limit." />
       <item value="dequeue" />
       <item value="Advance to the next sample. Returns false if no more sample data is available (end of stream)." />
-      <item value="Bits" />
-      <item value="definition" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630465188785" />
+    <option name="lastTrimTime" value="1632800292815" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
