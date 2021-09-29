@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Whether the drawing cache for this view should be invalidated as well. This is usually true for a full invalidate, but may be set to false if the View's contents or dimensions have not changed." />
+      <item value="@deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call {@link invalidate()}." />
+      <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call" />
       <item value="destructive" />
       <item value="Established" />
       <item value="on Call Established" />
@@ -49,9 +52,6 @@
       <item value="no traffic since 'mPlayerFrameCount'" />
       <item value="Interrupt process, pipeline will be destroy when this method called." />
       <item value="Returns the current sample's presentation time in microseconds. or -1 if no more samples are available." />
-      <item value="INFO OUTPUT BUFFERS CHANGED" />
-      <item value="Returns the number of elements between the current position and the limit." />
-      <item value="dequeue" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,10 +69,17 @@
     <option name="lastTrimTime" value="1632800292815" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190520000299422" />
+      </app-key>
+    </option>
     <option name="googleTranslateSettings">
       <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
