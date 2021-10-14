@@ -5,6 +5,11 @@
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/98832de6b365007e1cf15a54f73d931f/jetified-ease-call-kit-3.8.2/res/layout/activity_ease_video_call.xml" value="0.296195652173913" />
+        <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_panel.xml" value="0.41770833333333335" />
+        <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_rect_line.xml" value="0.41770833333333335" />
+        <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_rect_pressed_black.xml" value="0.41770833333333335" />
+        <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_round.xml" value="0.41770833333333335" />
+        <entry key="YCSDK/yckit/src/main/res/drawable/doodle_thumb_seekbarr.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
@@ -60,6 +65,8 @@
         <entry key="doodle/src/main/res/drawable/crc_closewindow.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_handup_selector.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_zoom_selector.xml" value="0.41770833333333335" />
+        <entry key="doodle/src/main/res/drawable/doodle_ic_undo.xml" value="1.0" />
+        <entry key="doodle/src/main/res/drawable/doodle_ic_undo1.xml" value="1.0" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
