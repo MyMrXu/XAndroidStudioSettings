@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the identifier of the calling thread, which be used with" />
       <item value="Whether the drawing cache for this view should be invalidated as well. This is usually true for a full invalidate, but may be set to false if the View's contents or dimensions have not changed." />
       <item value="@deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call {@link invalidate()}." />
       <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call" />
@@ -30,7 +31,6 @@
       <item value="Pivot" />
       <item value="Operation" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
-      <item value="Returns the identifier of the calling thread, which be used with" />
       <item value="remove First Occurrence" />
       <item value="Linked Blocking Queue" />
       <item value="Linked Blocking Deque" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632800292815" />
+    <option name="lastTrimTime" value="1634182056870" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
