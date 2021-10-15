@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UNION" />
+      <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
+      <item value="This parameter is no longer used." />
+      <item value="Same as {@link EVEN_ODD}, but draws outside of the path, rather than inside." />
+      <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
+      <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
+      <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
       <item value="optimize" />
       <item value="Returns the identifier of the calling thread, which be used with" />
       <item value="Whether the drawing cache for this view should be invalidated as well. This is usually true for a full invalidate, but may be set to false if the View's contents or dimensions have not changed." />
@@ -45,13 +52,6 @@
       <item value="seperate" />
       <item value="Bluetooth Smart" />
       <item value="Headset and Handsfree profile" />
-      <item value="Health Device Profile (HDP) and MCAP protocol are no longer used. New apps should use Bluetooth Low Energy based solutions such as {@link BluetoothGatt}," />
-      <item value="Dual Mode" />
-      <item value="this callback handler is called every time a buffer finishes recording" />
-      <item value="this callback handler is called every time a buffer finishes playing" />
-      <item value="his callback handler is called every time a buffer finishes playing" />
-      <item value="no traffic since 'mPlayerFrameCount'" />
-      <item value="Interrupt process, pipeline will be destroy when this method called." />
     </histories>
     <option name="languageScores">
       <map>
