@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fraction" />
+      <item value="get Animated Fraction" />
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="this var make sure only one request in time" />
       <item value="transfer" />
@@ -50,8 +52,6 @@
       <item value="If a valid surface was specified when configuring the codec," />
       <item value="front" />
       <item value="capacity" />
-      <item value="Sets this buffer's limit. If the position is larger than the new limit then it is set to the new limit. If the mark is defined and larger than the new limit then it is discarded." />
-      <item value="tail" />
     </histories>
     <option name="languageScores">
       <map>
