@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="this var make sure only one request in time" />
       <item value="transfer" />
       <item value="n API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead." />
@@ -41,7 +42,6 @@
       <item value="insights" />
       <item value="Pivot" />
       <item value="Operation" />
-      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="remove First Occurrence" />
       <item value="Linked Blocking Queue" />
       <item value="Linked Blocking Deque" />
