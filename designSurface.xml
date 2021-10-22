@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/ic_wb_laser.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/splash.xml" value="0.27291666666666664" />
         <entry key="app/src/main/res/drawable/vclass_control_bg.xml" value="0.4112820512820513" />
@@ -68,6 +69,7 @@
         <entry key="doodle/src/main/res/drawable/doodle_ic_laser_red.xml" value="0.4112820512820513" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_undo.xml" value="1.0" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_undo1.xml" value="1.0" />
+        <entry key="doodle/src/main/res/drawable/doodle_ic_wb_laser.xml" value="0.3974358974358974" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
