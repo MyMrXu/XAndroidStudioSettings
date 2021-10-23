@@ -28,7 +28,7 @@
         <entry key="app/src/main/res/drawable/video_tools_thickness3_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_thickness4_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/layout/activity_acs_call.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.15833333333333333" />
         <entry key="app/src/main/res/layout/activity_pstn.xml" value="0.15020263424518743" />
         <entry key="app/src/main/res/layout/activity_test_mp4_muxer.xml" value="0.3813405797101449" />
         <entry key="app/src/main/res/layout/base_inputmethod_view.xml" value="0.19579533941236069" />
@@ -53,6 +53,7 @@
         <entry key="baselib/src/main/res/drawable/ic_close.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_contacts_selector.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/recycler_item_selector.xml" value="0.13020833333333334" />
+        <entry key="baselib/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
         <entry key="baselib/src/main/res/layout/activity_settings.xml" value="0.39945652173913043" />
         <entry key="baselib/src/main/res/layout/fragment_contacts.xml" value="0.22509057971014493" />
         <entry key="baselib/src/main/res/layout/group_list_item_video.xml" value="0.1" />
