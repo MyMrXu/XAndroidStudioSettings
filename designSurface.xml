@@ -11,7 +11,9 @@
         <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_round.xml" value="0.41770833333333335" />
         <entry key="YCSDK/yckit/src/main/res/drawable/doodle_thumb_seekbarr.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/crc_closewindow.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/crc_opencontrol_selector.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/crc_zoom_selector.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/ic_class_back.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/ic_wb_laser.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.4112820512820513" />
@@ -20,6 +22,7 @@
         <entry key="app/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_steps_bg.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/vclass_tools_shap.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/video_panels_selector.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/video_tools_black_move_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_pencolor_view1.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_prev_selector.xml" value="0.4112820512820513" />
@@ -35,10 +38,12 @@
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.36186594202898553" />
         <entry key="app/src/main/res/layout/item_fragment_home_topview.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/test_activity_switch_env.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/vclass_activity.xml" value="0.391304347826087" />
         <entry key="app/src/main/res/layout/vclass_around_model_activity.xml" value="0.22916666666666666" />
         <entry key="app/src/main/res/layout/vclass_fragment.xml" value="0.3328804347826087" />
-        <entry key="app/src/main/res/layout/vclass_fragment_panels.xml" value="0.3328804347826087" />
+        <entry key="app/src/main/res/layout/vclass_fragment_panels.xml" value="0.391304347826087" />
         <entry key="app/src/main/res/layout/vclass_item_fluorescent_color_view.xml" value="0.3328804347826087" />
+        <entry key="app/src/main/res/layout/vclass_item_mini_window.xml" value="0.391304347826087" />
         <entry key="app/src/main/res/layout/vclass_item_panel.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_item_panels.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/vclass_item_pen_color_view.xml" value="0.22916666666666666" />
@@ -72,6 +77,8 @@
         <entry key="doodle/src/main/res/drawable/doodle_ic_undo.xml" value="1.0" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_undo1.xml" value="1.0" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_wb_laser.xml" value="0.3974358974358974" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_panels_selector.xml" value="0.41770833333333335" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_cloud_storage.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
