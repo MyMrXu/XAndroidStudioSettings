@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Default scheduling policy" />
+      <item value="SCHED OTHER" />
+      <item value="THREAD PRIORITY MORE FAVORABLE" />
+      <item value="THREAD PRIORITY URGENT AUDIO" />
       <item value="Return a thread pool that reuses a fixed number of threads operating off a shared unbounded queue, using the provided ThreadFactory to create new threads when needed." />
       <item value="period" />
       <item value="Executes the given task in a fixed thread pool." />
@@ -48,10 +52,6 @@
       <item value="Return the precision of the X coordinates being reported. You can multiply this number with {@link getX} to find the actual hardware value of the X coordinate. @return Returns the precision of X coordinates being reported." />
       <item value="Recycle the MotionEvent, to be re-used by a later caller. After calling this function you must not ever touch the event again." />
       <item value="Studio Transport" />
-      <item value="on Fling" />
-      <item value="insights" />
-      <item value="Pivot" />
-      <item value="Operation" />
     </histories>
     <option name="languageScores">
       <map>
