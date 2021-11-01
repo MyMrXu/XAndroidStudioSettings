@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Assign" />
+      <item value="Assign a new path, or null to have none." />
       <item value="is Add Sub Thread First Then Add Queue" />
       <item value="Default scheduling policy" />
       <item value="SCHED OTHER" />
@@ -50,8 +52,6 @@
       <item value="Apply this matrix to the rectangle, and write the transformed rectangle back into it. This is accomplished by transforming the 4 corners of rect, and then setting it to the bounds of those points" />
       <item value="Declared" />
       <item value="Amount to add to the current X coordinate of the event." />
-      <item value="Return the precision of the X coordinates being reported. You can multiply this number with {@link getX} to find the actual hardware value of the X coordinate. @return Returns the precision of X coordinates being reported." />
-      <item value="Recycle the MotionEvent, to be re-used by a later caller. After calling this function you must not ever touch the event again." />
     </histories>
     <option name="languageScores">
       <map>
