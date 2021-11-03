@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Set the desired PixelFormat of the surface. The default is OPAQUE. When working with a {@link SurfaceView}, this must be called from the same thread running the SurfaceView's window." />
       <item value="Assign" />
       <item value="Assign a new path, or null to have none." />
       <item value="is Add Sub Thread First Then Add Queue" />
@@ -51,7 +52,6 @@
       <item value="Apply this matrix to the src rectangle, and write the transformed rectangle into dst. This is accomplished by transforming the 4 corners of src, and then setting dst to the bounds of those points." />
       <item value="Apply this matrix to the rectangle, and write the transformed rectangle back into it. This is accomplished by transforming the 4 corners of rect, and then setting it to the bounds of those points" />
       <item value="Declared" />
-      <item value="Amount to add to the current X coordinate of the event." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635388409593" />
+    <option name="lastTrimTime" value="1635939662296" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
