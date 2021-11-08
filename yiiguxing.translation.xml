@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Clamp to a valid final position" />
       <item value="Minimum X value. The scroller will not scroll past this point unless overX &gt; 0. If overfling is allowed, it will use minX as a springback boundary." />
       <item value="The optimal width and height of the pages to fit the component size" />
       <item value="Set the desired PixelFormat of the surface. The default is OPAQUE. When working with a {@link SurfaceView}, this must be called from the same thread running the SurfaceView's window." />
@@ -51,7 +52,6 @@
       <item value="The rectangle that the bitmap will be scaledtranslated to fit into" />
       <item value="May be null. The subset of the bitmap to be drawn" />
       <item value="ay be null. The subset of the bitmap to be drawn" />
-      <item value="Apply this matrix to the src rectangle, and write the transformed rectangle into dst. This is accomplished by transforming the 4 corners of src, and then setting dst to the bounds of those points." />
     </histories>
     <option name="languageScores">
       <map>
