@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="canvases may have any matrix when passed to a View or Drawable, as it is implementation defined where in the hierarchy such canvases are created. It is recommended in such cases to either draw contents irrespective of the current matrix, or to track relevant transform state outside of the canvas." />
       <item value="invalid" />
       <item value="Returns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
       <item value="Clamp to a valid final position" />
@@ -51,7 +52,6 @@
       <item value="force Specified Conf" />
       <item value="echo Detect" />
       <item value="manufacturer" />
-      <item value="The rectangle that the bitmap will be scaledtranslated to fit into" />
     </histories>
     <option name="languageScores">
       <map>
