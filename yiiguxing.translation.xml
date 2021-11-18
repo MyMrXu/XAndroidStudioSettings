@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Desc" />
       <item value="density" />
       <item value="Line spacing addition for default line spacing." />
       <item value="Preconcat the current matrix with the specified matrix. If the specified matrix is null, this method does nothing." />
@@ -51,7 +52,6 @@
       <item value="Postconcats the matrix with the specified translation. M' = T(dx, dy) M" />
       <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
       <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
-      <item value="is Residual Echo Detector" />
     </histories>
     <option name="languageScores">
       <map>
