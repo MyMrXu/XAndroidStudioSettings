@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="density" />
       <item value="Line spacing addition for default line spacing." />
       <item value="Preconcat the current matrix with the specified matrix. If the specified matrix is null, this method does nothing." />
       <item value="canvases may have any matrix when passed to a View or Drawable, as it is implementation defined where in the hierarchy such canvases are created. It is recommended in such cases to either draw contents irrespective of the current matrix, or to track relevant transform state outside of the canvas." />
@@ -51,7 +52,6 @@
       <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
       <item value="Return the scaling factor from the previous scale event to the current event. This value is defined as" />
       <item value="is Residual Echo Detector" />
-      <item value="force Specified Conf" />
     </histories>
     <option name="languageScores">
       <map>
