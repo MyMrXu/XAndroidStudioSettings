@@ -28,6 +28,8 @@
         <entry key="app/src/main/res/drawable/vclass_fragment_panels_remove_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/vclass_steps_bg.xml" value="0.24427083333333333" />
         <entry key="app/src/main/res/drawable/vclass_tools_shap.xml" value="0.4112820512820513" />
+        <entry key="app/src/main/res/drawable/video_item_cam1_selector.xml" value="0.3351851851851852" />
+        <entry key="app/src/main/res/drawable/video_item_cam2_selector.xml" value="0.3351851851851852" />
         <entry key="app/src/main/res/drawable/video_panels_selector.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/video_tools_black_move_selector.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/video_tools_pencolor_view1.xml" value="0.4112820512820513" />
