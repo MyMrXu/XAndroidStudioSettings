@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Traffic" />
       <item value="Android-changed: SecurityManager stubbed out on Android" />
       <item value="Desc" />
       <item value="density" />
@@ -51,7 +52,6 @@
       <item value="Established" />
       <item value="on Call Established" />
       <item value="Postconcats the matrix with the specified translation. M' = T(dx, dy) M" />
-      <item value="Completely replace the current matrix with the specified matrix. If the matrix parameter is null, then the current matrix is reset to identity." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637152287948" />
+    <option name="lastTrimTime" value="1638257381571" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
