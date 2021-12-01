@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Video Encode Mime" />
       <item value="Traffic" />
       <item value="Android-changed: SecurityManager stubbed out on Android" />
       <item value="Desc" />
@@ -51,7 +52,6 @@
       <item value="destructive" />
       <item value="Established" />
       <item value="on Call Established" />
-      <item value="Postconcats the matrix with the specified translation. M' = T(dx, dy) M" />
     </histories>
     <option name="languageScores">
       <map>
