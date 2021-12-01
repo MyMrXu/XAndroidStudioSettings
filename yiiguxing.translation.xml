@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AVERAGE" />
       <item value="set Video Encode Mime" />
       <item value="Traffic" />
       <item value="Android-changed: SecurityManager stubbed out on Android" />
@@ -51,7 +52,6 @@
       <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call" />
       <item value="destructive" />
       <item value="Established" />
-      <item value="on Call Established" />
     </histories>
     <option name="languageScores">
       <map>
