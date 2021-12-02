@@ -92,6 +92,10 @@
         <entry key="baselib/src/main/res/layout/test_activity_audio_config.xml" value="0.3596014492753623" />
         <entry key="baselib/src/main/res/menu/menu_session.xml" value="0.40260416666666665" />
         <entry key="debug/src/main/res/layout/activity_main.xml" value="0.19579533941236069" />
+        <entry key="debug/src/main/res/layout/pd_item_common.xml" value="0.38405797101449274" />
+        <entry key="debug/src/main/res/layout/pd_item_expand.xml" value="0.38405797101449274" />
+        <entry key="debug/src/main/res/layout/pd_item_hierachy.xml" value="0.38405797101449274" />
+        <entry key="debug/src/main/res/layout/pd_item_title.xml" value="0.38405797101449274" />
         <entry key="doodle/src/main/res/drawable/crc_closewindow.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_handup_selector.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_zoom_selector.xml" value="0.41770833333333335" />
