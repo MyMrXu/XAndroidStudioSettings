@@ -93,6 +93,7 @@
         <entry key="baselib/src/main/res/menu/menu_session.xml" value="0.40260416666666665" />
         <entry key="debug/src/main/res/layout/activity_main.xml" value="0.19579533941236069" />
         <entry key="debug/src/main/res/layout/dialog_call_edit.xml" value="0.3759057971014493" />
+        <entry key="debug/src/main/res/layout/item_dialog_appchoose.xml" value="0.3759057971014493" />
         <entry key="debug/src/main/res/layout/pd_item_checkbox.xml" value="0.19579533941236069" />
         <entry key="debug/src/main/res/layout/pd_item_common.xml" value="0.38405797101449274" />
         <entry key="debug/src/main/res/layout/pd_item_expand.xml" value="0.38405797101449274" />
