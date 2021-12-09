@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Additional option flags to modify the data returned." />
       <item value="AVERAGE" />
       <item value="set Video Encode Mime" />
       <item value="Traffic" />
@@ -51,7 +52,6 @@
       <item value="@deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call {@link invalidate()}." />
       <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call" />
       <item value="destructive" />
-      <item value="Established" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638257381571" />
+    <option name="lastTrimTime" value="1639015866315" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
