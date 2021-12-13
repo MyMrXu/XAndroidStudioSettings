@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="i.e return a zero-value instead of null." />
+      <item value="when we have non-null value before. and this time we get a null. How we can do with this null." />
       <item value="BT HEADSET" />
       <item value="generic Parameterized Type" />
       <item value="generic Superclass" />
@@ -50,8 +52,6 @@
       <item value="This parameter is no longer used." />
       <item value="Same as {@link EVEN_ODD}, but draws outside of the path, rather than inside." />
       <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
-      <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
-      <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
     </histories>
     <option name="languageScores">
       <map>
