@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="BT HEADSET" />
       <item value="generic Parameterized Type" />
       <item value="generic Superclass" />
       <item value="Parameterized Type" />
@@ -51,7 +52,6 @@
       <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
       <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
       <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
-      <item value="optimize" />
     </histories>
     <option name="languageScores">
       <map>
