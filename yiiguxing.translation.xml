@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Lack Performance" />
       <item value="i.e return a zero-value instead of null." />
       <item value="when we have non-null value before. and this time we get a null. How we can do with this null." />
       <item value="BT HEADSET" />
@@ -51,7 +52,6 @@
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="This parameter is no longer used." />
       <item value="Same as {@link EVEN_ODD}, but draws outside of the path, rather than inside." />
-      <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639015866315" />
+    <option name="lastTrimTime" value="1639448749006" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
