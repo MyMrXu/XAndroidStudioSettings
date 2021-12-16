@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Flips" />
+      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
       <item value="doodle cannot send any command now, because all command will be intercepted" />
       <item value="doodle cannot send any command now, because the command has been intercepted" />
       <item value="generic Parameterized Type" />
@@ -50,8 +52,6 @@
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="This parameter is no longer used." />
       <item value="Same as {@link EVEN_ODD}, but draws outside of the path, rather than inside." />
-      <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
-      <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
     </histories>
     <option name="languageScores">
       <map>
