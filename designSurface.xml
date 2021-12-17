@@ -17,6 +17,8 @@
         <entry key="YCSDK/debug/src/main/res/layout/pd_item_option.xml" value="0.38813405797101447" />
         <entry key="YCSDK/debug/src/main/res/layout/pd_layout_view_panel.xml" value="0.2421875" />
         <entry key="YCSDK/sdk/src/main/res/drawable/btn_background.xml" value="0.23072916666666668" />
+        <entry key="YCSDK/sdk/src/main/res/drawable/pd_logger.xml" value="0.36666666666666664" />
+        <entry key="YCSDK/sdk/src/main/res/drawable/pd_monitor.xml" value="0.36666666666666664" />
         <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_panel.xml" value="0.41770833333333335" />
         <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_rect_line.xml" value="0.41770833333333335" />
         <entry key="YCSDK/yckit/src/main/res/drawable/doodle_btn_effect_rect_pressed_black.xml" value="0.41770833333333335" />
