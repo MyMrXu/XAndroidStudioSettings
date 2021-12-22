@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Blue Tooth Sco State" />
       <item value="increase" />
       <item value="max Permit Bitrate Exceeded" />
       <item value="Flips" />
@@ -51,7 +52,6 @@
       <item value="transfer" />
       <item value="n API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead." />
       <item value="UNION" />
-      <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
     </histories>
     <option name="languageScores">
       <map>
