@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Implements a simple runtime profiler. The profiler records start and stop times for several different types of profiles and can then return min, max and average execution times per type. Profile types are independent and may be nested in calling code. This object is a singleton for convenience." />
+      <item value="get Elapsed Average Time" />
       <item value="on Rending Lack Performance" />
       <item value="ACCELERATE" />
       <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
@@ -50,8 +52,6 @@
       <item value="leaking" />
       <item value="Fraction" />
       <item value="get Animated Fraction" />
-      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
-      <item value="this var make sure only one request in time" />
     </histories>
     <option name="languageScores">
       <map>
