@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true." />
+      <item value="Invoked when the specified {@link SurfaceTexture} is updated through {@link SurfaceTextureupdateTexImage()}. @param surface The surface just updated" />
       <item value="Priority constant for the println method." />
       <item value="Implements a simple runtime profiler. The profiler records start and stop times for several different types of profiles and can then return min, max and average execution times per type. Profile types are independent and may be nested in calling code. This object is a singleton for convenience." />
       <item value="get Elapsed Average Time" />
@@ -50,8 +52,6 @@
       <item value="True if this view and all of its ancestors are {@link VISIBLE}" />
       <item value="This is called when the view is detached from a window. At this point it no longer has a surface for drawing." />
       <item value="daemon" />
-      <item value="leaking" />
-      <item value="Fraction" />
     </histories>
     <option name="languageScores">
       <map>
