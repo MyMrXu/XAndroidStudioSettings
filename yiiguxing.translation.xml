@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
       <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
       <item value="continuous Count" />
       <item value="last Lack Frame" />
@@ -51,7 +52,6 @@
       <item value="Return a thread pool that reuses a fixed number of threads operating off a shared unbounded queue, using the provided ThreadFactory to create new threads when needed." />
       <item value="period" />
       <item value="Executes the given task in a fixed thread pool." />
-      <item value="The priority of thread in the poll." />
     </histories>
     <option name="languageScores">
       <map>
