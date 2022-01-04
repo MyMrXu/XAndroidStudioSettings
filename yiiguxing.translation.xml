@@ -2,9 +2,18 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
+      <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
+      <item value="continuous Count" />
+      <item value="last Lack Frame" />
+      <item value="In some machine (ASUS X008D), player callback implemented badly, will callback twice in one millisecond. So there's no way that the playback after second one can fetch a frame. We should send more frame when we find we are in this situation." />
+      <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true." />
+      <item value="Invoked when the specified {@link SurfaceTexture} is updated through {@link SurfaceTextureupdateTexImage()}. @param surface The surface just updated" />
+      <item value="Priority constant for the println method." />
+      <item value="Implements a simple runtime profiler. The profiler records start and stop times for several different types of profiles and can then return min, max and average execution times per type. Profile types are independent and may be nested in calling code. This object is a singleton for convenience." />
+      <item value="get Elapsed Average Time" />
       <item value="on Rending Lack Performance" />
       <item value="ACCELERATE" />
-      <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
       <item value="set Blue Tooth Sco State" />
       <item value="increase" />
       <item value="max Permit Bitrate Exceeded" />
@@ -43,15 +52,6 @@
       <item value="Return a thread pool that reuses a fixed number of threads operating off a shared unbounded queue, using the provided ThreadFactory to create new threads when needed." />
       <item value="period" />
       <item value="Executes the given task in a fixed thread pool." />
-      <item value="The priority of thread in the poll." />
-      <item value="True if this view and all of its ancestors are {@link VISIBLE}" />
-      <item value="This is called when the view is detached from a window. At this point it no longer has a surface for drawing." />
-      <item value="daemon" />
-      <item value="leaking" />
-      <item value="Fraction" />
-      <item value="get Animated Fraction" />
-      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
-      <item value="this var make sure only one request in time" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640154930806" />
+    <option name="lastTrimTime" value="1640588086382" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
