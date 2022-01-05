@@ -78,6 +78,7 @@
         <entry key="app/src/main/res/layout/vclass_landscape_activity.xml" value="0.23229166666666667" />
         <entry key="app/src/main/res/layout/vclass_suspension_view.xml" value="1.0" />
         <entry key="app/src/main/res/layout/vclass_view_handup_layout.xml" value="0.34782608695652173" />
+        <entry key="app/src/main/res/layout/vclass_view_videoitem_layout.xml" value="1.0" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2578125" />
         <entry key="baselib/src/main/res/drawable/bg_toast.xml" value="0.41770833333333335" />
         <entry key="baselib/src/main/res/drawable/ic_baseline_add_24.xml" value="0.41770833333333335" />
