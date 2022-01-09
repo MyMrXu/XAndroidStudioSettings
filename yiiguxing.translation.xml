@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="still Receiving Unexpected Stream" />
       <item value="active Participants" />
       <item value="do not compress when the origin image file size less than one value" />
       <item value="focus Alpha" />
@@ -51,7 +52,6 @@
       <item value="Default scheduling policy" />
       <item value="SCHED OTHER" />
       <item value="THREAD PRIORITY MORE FAVORABLE" />
-      <item value="THREAD PRIORITY URGENT AUDIO" />
     </histories>
     <option name="languageScores">
       <map>
