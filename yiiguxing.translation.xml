@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="active Participants" />
       <item value="do not compress when the origin image file size less than one value" />
       <item value="focus Alpha" />
       <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
@@ -51,7 +52,6 @@
       <item value="SCHED OTHER" />
       <item value="THREAD PRIORITY MORE FAVORABLE" />
       <item value="THREAD PRIORITY URGENT AUDIO" />
-      <item value="Return a thread pool that reuses a fixed number of threads operating off a shared unbounded queue, using the provided ThreadFactory to create new threads when needed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,6 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="ESPERANTO" />
-        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="translator" value="BAIDU" />
