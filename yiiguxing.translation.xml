@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ZTE" />
+      <item value="Modern" />
+      <item value="is ZTE Modern Device" />
       <item value="still Receiving Unexpected Stream" />
       <item value="active Participants" />
       <item value="do not compress when the origin image file size less than one value" />
@@ -49,9 +52,6 @@
       <item value="Assign" />
       <item value="Assign a new path, or null to have none." />
       <item value="is Add Sub Thread First Then Add Queue" />
-      <item value="Default scheduling policy" />
-      <item value="SCHED OTHER" />
-      <item value="THREAD PRIORITY MORE FAVORABLE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641365486174" />
+    <option name="lastTrimTime" value="1641810518791" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
