@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return the total number of instructions executed globally (i.e. in all threads)." />
       <item value="drawing cache created in Viewdraw when drawing to a SW canvas." />
       <item value="NOTE: even if previous layer type is HW, we do this to ensure we've cleaned up" />
       <item value="Destroy any previous software drawing cache if present" />
@@ -51,7 +52,6 @@
       <item value="all Parameterized Type" />
       <item value="the live engine has stoped, not execute refresh url anymore" />
       <item value="Additional option flags to modify the data returned." />
-      <item value="AVERAGE" />
     </histories>
     <option name="languageScores">
       <map>
