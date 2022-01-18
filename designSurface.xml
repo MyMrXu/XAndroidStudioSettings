@@ -206,6 +206,7 @@
         <entry key="group/src/main/res/layout/group_voice_activity.xml" value="0.23143115942028986" />
         <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_dialog_input_room.xml" value="0.37182971014492755" />
+        <entry key="live/src/main/res/layout/live_dialog_resume.xml" value="0.31521739130434784" />
         <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
         <entry key="live/src/main/res/layout/live_live_start_activity.xml" value="0.14375" />
         <entry key="live/src/main/res/menu/live_menu_live.xml" value="0.3388888888888889" />
