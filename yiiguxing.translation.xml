@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set &lt;var&gt;true&lt;var&gt; to route A2DP audio tofrom Bluetooth headset; &lt;var&gt;false&lt;var&gt; disable A2DP audio" />
+      <item value="Do not use." />
       <item value="hecks whether communications use Bluetooth SCO." />
       <item value="The x-radius of the rounded corners on the round-rectangle" />
       <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true. @param surface The surface about to be destroyed" />
@@ -50,8 +52,6 @@
       <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
       <item value="doodle cannot send any command now, because all command will be intercepted" />
       <item value="doodle cannot send any command now, because the command has been intercepted" />
-      <item value="generic Parameterized Type" />
-      <item value="generic Superclass" />
     </histories>
     <option name="languageScores">
       <map>
