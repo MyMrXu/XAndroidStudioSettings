@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This is called during layout when the size of this view has changed. If you were just added to the view hierarchy, you're called with the old values of 0." />
       <item value="communications" />
       <item value="A2DP profile." />
       <item value="Headset and Handsfree profile" />
@@ -51,7 +52,6 @@
       <item value="set Blue Tooth Sco State" />
       <item value="increase" />
       <item value="max Permit Bitrate Exceeded" />
-      <item value="Flips" />
     </histories>
     <option name="languageScores">
       <map>
