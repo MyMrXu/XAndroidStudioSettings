@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If the bitmap is too big for the cache, don't even attempt to store it. Doing so will cause the cache to be cleared. Instead just evict an existing element with the same key if it exists." />
+      <item value="Specify the memory cache size in bytes to use for the most recent images. A size of 0 disables in-memory caching." />
       <item value="This is called during layout when the size of this view has changed. If you were just added to the view hierarchy, you're called with the old values of 0." />
       <item value="communications" />
       <item value="A2DP profile." />
@@ -50,8 +52,6 @@
       <item value="on Rending Lack Performance" />
       <item value="ACCELERATE" />
       <item value="set Blue Tooth Sco State" />
-      <item value="increase" />
-      <item value="max Permit Bitrate Exceeded" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642395939701" />
+    <option name="lastTrimTime" value="1643009671867" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
