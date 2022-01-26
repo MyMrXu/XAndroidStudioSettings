@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This method has no effect if the device implements a fixed volume policy as indicated by {@link isVolumeFixed()}." />
+      <item value="Sets the volume index for a particular stream." />
       <item value="Normal audio mode: not ringing and no call established." />
       <item value="Returns the number of times {@link get} returned null or required a new value to be created." />
       <item value="false if the removal was caused by a {@link put} or {@link remove}." />
@@ -50,8 +52,6 @@
       <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
       <item value="continuous Count" />
       <item value="last Lack Frame" />
-      <item value="In some machine (ASUS X008D), player callback implemented badly, will callback twice in one millisecond. So there's no way that the playback after second one can fetch a frame. We should send more frame when we find we are in this situation." />
-      <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true." />
     </histories>
     <option name="languageScores">
       <map>
