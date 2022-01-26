@@ -2,32 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="FLAG PLAY SOUND" />
-      <item value="Whether to play a sound when changing the volume." />
-      <item value="Maintain the previous ringer volume. This may be useful when needing to show the volume toast without actually modifying the volume." />
-      <item value="This method has no effect if the device implements a fixed volume policy as indicated by {@link isVolumeFixed()}." />
-      <item value="his method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application." />
-      <item value="Adjusts the volume of a particular stream by one step in a direction." />
-      <item value="The direction to adjust the volume." />
-      <item value="Sets the volume index for a particular stream." />
-      <item value="Normal audio mode: not ringing and no call established." />
-      <item value="Returns the number of times {@link get} returned null or required a new value to be created." />
-      <item value="false if the removal was caused by a {@link put} or {@link remove}." />
-      <item value="true if the entry is being removed to make space" />
-      <item value="evicted" />
-      <item value="Remove the eldest entries until the total of remaining entries is at or below the requested size." />
-      <item value="the number of values per cache entry. Must be positive." />
-      <item value="If the bitmap is too big for the cache, don't even attempt to store it. Doing so will cause the cache to be cleared. Instead just evict an existing element with the same key if it exists." />
-      <item value="Specify the memory cache size in bytes to use for the most recent images. A size of 0 disables in-memory caching." />
-      <item value="This is called during layout when the size of this view has changed. If you were just added to the view hierarchy, you're called with the old values of 0." />
-      <item value="communications" />
-      <item value="A2DP profile." />
-      <item value="Headset and Handsfree profile" />
-      <item value="set &lt;var&gt;true&lt;var&gt; to route A2DP audio tofrom Bluetooth headset; &lt;var&gt;false&lt;var&gt; disable A2DP audio" />
-      <item value="Do not use." />
-      <item value="hecks whether communications use Bluetooth SCO." />
-      <item value="The x-radius of the rounded corners on the round-rectangle" />
-      <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true. @param surface The surface about to be destroyed" />
+      <item value="re Path" />
+      <item value="abnormal" />
       <item value="Attempts to match the entire region against the pattern." />
       <item value="Return the total number of instructions executed globally (i.e. in all threads)." />
       <item value="drawing cache created in Viewdraw when drawing to a SW canvas." />
@@ -52,6 +28,30 @@
       <item value="is ZTE Modern Device" />
       <item value="still Receiving Unexpected Stream" />
       <item value="active Participants" />
+      <item value="do not compress when the origin image file size less than one value" />
+      <item value="focus Alpha" />
+      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
+      <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
+      <item value="continuous Count" />
+      <item value="last Lack Frame" />
+      <item value="In some machine (ASUS X008D), player callback implemented badly, will callback twice in one millisecond. So there's no way that the playback after second one can fetch a frame. We should send more frame when we find we are in this situation." />
+      <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true." />
+      <item value="Invoked when the specified {@link SurfaceTexture} is updated through {@link SurfaceTextureupdateTexImage()}. @param surface The surface just updated" />
+      <item value="Priority constant for the println method." />
+      <item value="Implements a simple runtime profiler. The profiler records start and stop times for several different types of profiles and can then return min, max and average execution times per type. Profile types are independent and may be nested in calling code. This object is a singleton for convenience." />
+      <item value="get Elapsed Average Time" />
+      <item value="on Rending Lack Performance" />
+      <item value="ACCELERATE" />
+      <item value="set Blue Tooth Sco State" />
+      <item value="increase" />
+      <item value="max Permit Bitrate Exceeded" />
+      <item value="Flips" />
+      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
+      <item value="doodle cannot send any command now, because all command will be intercepted" />
+      <item value="doodle cannot send any command now, because the command has been intercepted" />
+      <item value="generic Parameterized Type" />
+      <item value="generic Superclass" />
+      <item value="Parameterized Type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643009671867" />
+    <option name="lastTrimTime" value="1642333039324" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
