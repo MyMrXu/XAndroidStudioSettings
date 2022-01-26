@@ -2,7 +2,13 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="FLAG PLAY SOUND" />
+      <item value="Whether to play a sound when changing the volume." />
+      <item value="Maintain the previous ringer volume. This may be useful when needing to show the volume toast without actually modifying the volume." />
       <item value="This method has no effect if the device implements a fixed volume policy as indicated by {@link isVolumeFixed()}." />
+      <item value="his method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application." />
+      <item value="Adjusts the volume of a particular stream by one step in a direction." />
+      <item value="The direction to adjust the volume." />
       <item value="Sets the volume index for a particular stream." />
       <item value="Normal audio mode: not ringing and no call established." />
       <item value="Returns the number of times {@link get} returned null or required a new value to be created." />
@@ -46,12 +52,6 @@
       <item value="is ZTE Modern Device" />
       <item value="still Receiving Unexpected Stream" />
       <item value="active Participants" />
-      <item value="do not compress when the origin image file size less than one value" />
-      <item value="focus Alpha" />
-      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
-      <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
-      <item value="continuous Count" />
-      <item value="last Lack Frame" />
     </histories>
     <option name="languageScores">
       <map>
