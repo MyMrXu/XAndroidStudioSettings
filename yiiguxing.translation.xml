@@ -2,10 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="&lt;p&gt; If this buffer was not mapped in readwrite mode ({@link java.nio.channels.FileChannel.MapModeREAD_WRITE}) then invoking this method has no effect. &lt;p&gt;" />
-      <item value="&lt;p&gt; If the file does not reside on a local device then no such guarantee is made." />
-      <item value="&lt;p&gt; If the file mapped into this buffer resides on a local storage device then when this method returns it is guaranteed that all changes made to the buffer since it was created, or since this method was last invoked, will have been written to that device." />
-      <item value="Forces any changes made to this buffer's content to be written to the storage device containing the mapped file." />
+      <item value="try Acquire" />
+      <item value="Clear any lines and curves from the path, making it empty. This does NOT change the fill-type setting." />
       <item value="re Path" />
       <item value="abnormal" />
       <item value="Attempts to match the entire region against the pattern." />
@@ -52,6 +50,8 @@
       <item value="Flips" />
       <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
       <item value="doodle cannot send any command now, because all command will be intercepted" />
+      <item value="doodle cannot send any command now, because the command has been intercepted" />
+      <item value="generic Parameterized Type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644482302345" />
+    <option name="lastTrimTime" value="1644324534232" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
