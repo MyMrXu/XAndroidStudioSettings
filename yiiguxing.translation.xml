@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Skip StringCoding optimization that needs access to java chars." />
+      <item value="ND Android-changed: Skip StringCoding optimization that needs access to java chars." />
       <item value="If the [index] is out of bounds of this string, throws an [IndexOutOfBoundsException] except in KotlinJS where the behavior is unspecified." />
       <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
       <item value="&lt;p&gt; If the file does not reside on a local device then no such guarantee is made." />
@@ -50,8 +52,6 @@
       <item value="Priority constant for the println method." />
       <item value="Implements a simple runtime profiler. The profiler records start and stop times for several different types of profiles and can then return min, max and average execution times per type. Profile types are independent and may be nested in calling code. This object is a singleton for convenience." />
       <item value="get Elapsed Average Time" />
-      <item value="on Rending Lack Performance" />
-      <item value="ACCELERATE" />
     </histories>
     <option name="languageScores">
       <map>
