@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If the [index] is out of bounds of this string, throws an [IndexOutOfBoundsException] except in KotlinJS where the behavior is unspecified." />
       <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
       <item value="&lt;p&gt; If the file does not reside on a local device then no such guarantee is made." />
       <item value="&lt;p&gt; If this channel's file resides on a local storage device then when this method returns it is guaranteed that all changes made to the file since this channel was created, or since this method was last invoked, will have been written to that device. This is useful for ensuring that critical information is not lost in the event of a system crash." />
@@ -51,7 +52,6 @@
       <item value="get Elapsed Average Time" />
       <item value="on Rending Lack Performance" />
       <item value="ACCELERATE" />
-      <item value="set Blue Tooth Sco State" />
     </histories>
     <option name="languageScores">
       <map>
