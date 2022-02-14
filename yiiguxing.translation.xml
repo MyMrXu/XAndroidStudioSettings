@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="active Participants" />
       <item value="Feature" />
       <item value="Semaphore" />
       <item value="Skip StringCoding optimization that needs access to java chars." />
@@ -41,7 +42,6 @@
       <item value="Modern" />
       <item value="is ZTE Modern Device" />
       <item value="still Receiving Unexpected Stream" />
-      <item value="active Participants" />
       <item value="do not compress when the origin image file size less than one value" />
       <item value="focus Alpha" />
       <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
