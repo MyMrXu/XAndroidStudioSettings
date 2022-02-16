@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="traffic Out" />
       <item value="Extra for {@link android.content.IntentACTION_BATTERY_CHANGED}: integer containing the current battery temperature." />
       <item value="active Participants" />
       <item value="Feature" />
@@ -51,7 +52,6 @@
       <item value="last Lack Frame" />
       <item value="In some machine (ASUS X008D), player callback implemented badly, will callback twice in one millisecond. So there's no way that the playback after second one can fetch a frame. We should send more frame when we find we are in this situation." />
       <item value="Invoked when the specified {@link SurfaceTexture} is about to be destroyed. If returns true, no rendering should happen inside the surface texture after this method is invoked. If returns false, the client needs to call {@link SurfaceTexturerelease()}. Most applications should return true." />
-      <item value="Invoked when the specified {@link SurfaceTexture} is updated through {@link SurfaceTextureupdateTexImage()}. @param surface The surface just updated" />
     </histories>
     <option name="languageScores">
       <map>
