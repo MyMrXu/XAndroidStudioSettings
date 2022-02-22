@@ -10,6 +10,7 @@
       <mapping pattern="gitk" type="PLAIN_TEXT" />
       <mapping ext="neunote" type="PLAIN_TEXT" />
       <mapping ext="jpg" type="PLAIN_TEXT" />
+      <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="jpg" approved="true" type="Image" />
