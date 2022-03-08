@@ -43,6 +43,7 @@
         <entry key="app/src/main/res/drawable/ic_forscreen_open.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/ic_laser_green.xml" value="0.4112820512820513" />
         <entry key="app/src/main/res/drawable/ic_left_rotate.xml" value="0.41770833333333335" />
+        <entry key="app/src/main/res/drawable/ic_picture_placeholder.xml" value="0.3814814814814815" />
         <entry key="app/src/main/res/drawable/ic_right_rotate.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/ic_wb_laser.xml" value="0.41770833333333335" />
         <entry key="app/src/main/res/drawable/progress_indeterminate_horizontal.xml" value="0.4112820512820513" />
@@ -70,10 +71,12 @@
         <entry key="app/src/main/res/layout/content_main.xml" value="0.2694746376811594" />
         <entry key="app/src/main/res/layout/device.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/dialog_update.xml" value="0.28940217391304346" />
+        <entry key="app/src/main/res/layout/head_home.xml" value="0.3745471014492754" />
         <entry key="app/src/main/res/layout/home_activity.xml" value="0.36186594202898553" />
         <entry key="app/src/main/res/layout/item_fragment_home_topview.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.20052083333333334" />
         <entry key="app/src/main/res/layout/main_fragment_dialog.xml" value="0.20052083333333334" />
+        <entry key="app/src/main/res/layout/main_header_layout.xml" value="0.3704710144927536" />
         <entry key="app/src/main/res/layout/test_activity_audio_config.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/test_activity_switch_env.xml" value="0.19579533941236069" />
         <entry key="app/src/main/res/layout/vclass_activity.xml" value="0.391304347826087" />
@@ -217,7 +220,7 @@
         <entry key="group/src/main/res/layout/session_list_item.xml" value="1.0" />
         <entry key="live/src/main/res/layout/live_dialog_input_room.xml" value="0.37182971014492755" />
         <entry key="live/src/main/res/layout/live_dialog_resume.xml" value="0.31521739130434784" />
-        <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3686594202898551" />
+        <entry key="live/src/main/res/layout/live_live_activity.xml" value="0.3002780352177943" />
         <entry key="live/src/main/res/layout/live_live_start_activity.xml" value="0.14375" />
         <entry key="live/src/main/res/menu/live_menu_live.xml" value="0.3388888888888889" />
         <entry key="login/src/main/res/layout/activity_login.xml" value="0.23777173913043478" />
