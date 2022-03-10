@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="concrete" />
+      <item value="Indicates data was retrieved unmodified from the on device cache." />
+      <item value="Indicates data was probably retrieved locally from the device, although it may have been obtained through a content provider that may have obtained the data from a remote source." />
+      <item value="Indicates data was retrieved from a remote source other than the device" />
       <item value="ACCUMULATING" />
       <item value="intern" />
       <item value="init Elements From Collection" />
@@ -48,10 +52,6 @@
       <item value="Modern" />
       <item value="is ZTE Modern Device" />
       <item value="still Receiving Unexpected Stream" />
-      <item value="do not compress when the origin image file size less than one value" />
-      <item value="focus Alpha" />
-      <item value="mRequestPlaybackData: check if there is enough playing buffer pending. playing has higher priority" />
-      <item value="we find c recorder cannot fire forceGet and tryGet at needed frequency." />
     </histories>
     <option name="languageScores">
       <map>
