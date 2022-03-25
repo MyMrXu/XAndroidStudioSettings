@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gets the optional bearer specific network specifier. May be {@code null} if not set." />
+      <item value="The estimated first hop upstream (device to network) bandwidth." />
+      <item value="Retrieves the upstream bandwidth for this network in Kbps. This always only refers to the estimated first hop transport bandwidth." />
       <item value="Network Capabilities" />
       <item value="Called when the network corresponding to this request changes capabilities but still satisfies the requested criteria." />
       <item value="on Capabilities Changed" />
@@ -49,9 +52,6 @@
       <item value="The view drawing cache was largely made obsolete with the introduction of hardware-accelerated rendering in API 11. With hardware-acceleration, intermediate cache layers are largely unnecessary and can easily result in a net loss in performance due to the cost of creating and updating the layer. In the rare cases where caching layers are useful, such as for alpha animations, {@link setLayerType(int, Paint)} handles this with hardware rendering." />
       <item value="intended" />
       <item value="animation" />
-      <item value="traversal" />
-      <item value="traversal Cost Ns" />
-      <item value="DEFAULT DROPPED HIGH" />
     </histories>
     <option name="languageScores">
       <map>
