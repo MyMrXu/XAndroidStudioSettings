@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Preserve EGL Context On Pause" />
       <item value="vertex Buffer" />
       <item value="vertex Stride" />
       <item value="GL TRIANGLE STRIP" />
@@ -51,7 +52,6 @@
       <item value="animation" />
       <item value="traversal" />
       <item value="traversal Cost Ns" />
-      <item value="DEFAULT DROPPED HIGH" />
     </histories>
     <option name="languageScores">
       <map>
