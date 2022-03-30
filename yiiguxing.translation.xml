@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Obfuscated Data" />
       <item value="consort" />
       <item value="Gets the optional bearer specific network specifier. May be {@code null} if not set." />
       <item value="The estimated first hop upstream (device to network) bandwidth." />
@@ -51,7 +52,6 @@
       <item value="Destroy any previous software drawing cache if present" />
       <item value="For software-rendered snapshots of a small part of the View hierarchy or individual Views it is recommended to create a {@link Canvas} from either a {@link Bitmap} or {@link android.graphics.Picture} and call {@link draw(Canvas)} on the View. However these software-rendered usages are discouraged and have compatibility issues with hardware-only rendering features such as {@link android.graphics.Bitmap.ConfigHARDWARE Config.HARDWARE} bitmaps, real-time shadows, and outline clipping. For screenshots of the UI for feedback reports or unit testing the {@link PixelCopy} API is recommended." />
       <item value="The view drawing cache was largely made obsolete with the introduction of hardware-accelerated rendering in API 11. With hardware-acceleration, intermediate cache layers are largely unnecessary and can easily result in a net loss in performance due to the cost of creating and updating the layer. In the rare cases where caching layers are useful, such as for alpha animations, {@link setLayerType(int, Paint)} handles this with hardware rendering." />
-      <item value="intended" />
     </histories>
     <option name="languageScores">
       <map>
