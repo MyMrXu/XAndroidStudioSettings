@@ -2,11 +2,6 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="set Preserve EGL Context On Pause" />
-      <item value="vertex Buffer" />
-      <item value="vertex Stride" />
-      <item value="GL TRIANGLE STRIP" />
-      <item value="TRIANGLES" />
       <item value="set Average Bitrate" />
       <item value="&lt;p&gt;Some virtual machines may, under some circumstances, omit one or more stack frames from the stack trace. In the extreme case, a virtual machine that has no stack trace information concerning this throwable is permitted to return a zero-length array from this method. Generally speaking, the array returned by this method will contain one element for every frame that would be printed by {@code printStackTrace}. Writes to the returned array do not affect future calls to this method." />
       <item value="Provides programmatic access to the stack trace information printed by {@link printStackTrace()}. Returns an array of stack trace elements, each representing one stack frame. The zeroth element of the array (assuming the array's length is non-zero) represents the top of the stack, which is the last method invocation in the sequence. Typically, this is the point at which this throwable was created and thrown. The last element of the array (assuming the array's length is non-zero) represents the bottom of the stack, which is the first method invocation in the sequence." />
@@ -52,6 +47,11 @@
       <item value="animation" />
       <item value="traversal" />
       <item value="traversal Cost Ns" />
+      <item value="DEFAULT DROPPED HIGH" />
+      <item value="DEFAULT DROPPED FROZEN" />
+      <item value="drop Frame Listener Threshold" />
+      <item value="ACCUMELAING" />
+      <item value="plugin duplicate init" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648569334589" />
+    <option name="lastTrimTime" value="1647242545804" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
