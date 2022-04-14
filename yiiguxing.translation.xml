@@ -2,8 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="after voice fully startup" />
+      <item value="increased" />
+      <item value="Set line spacing parameters. Each line will have its line spacing multiplied by {@code spacingMult} and then increased by {@code spacingAdd}." />
+      <item value="and 1.0 for {@code spacingMult}." />
+      <item value="the amount of line spacing addition" />
       <item value="the line spacing multiplier" />
+      <item value="after voice fully startup" />
       <item value="set Average Bitrate" />
       <item value="&lt;p&gt;Some virtual machines may, under some circumstances, omit one or more stack frames from the stack trace. In the extreme case, a virtual machine that has no stack trace information concerning this throwable is permitted to return a zero-length array from this method. Generally speaking, the array returned by this method will contain one element for every frame that would be printed by {@code printStackTrace}. Writes to the returned array do not affect future calls to this method." />
       <item value="Provides programmatic access to the stack trace information printed by {@link printStackTrace()}. Returns an array of stack trace elements, each representing one stack frame. The zeroth element of the array (assuming the array's length is non-zero) represents the top of the stack, which is the last method invocation in the sequence. Typically, this is the point at which this throwable was created and thrown. The last element of the array (assuming the array's length is non-zero) represents the bottom of the stack, which is the first method invocation in the sequence." />
@@ -48,10 +52,6 @@
       <item value="intended" />
       <item value="animation" />
       <item value="traversal" />
-      <item value="traversal Cost Ns" />
-      <item value="DEFAULT DROPPED HIGH" />
-      <item value="DEFAULT DROPPED FROZEN" />
-      <item value="drop Frame Listener Threshold" />
     </histories>
     <option name="languageScores">
       <map>
