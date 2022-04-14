@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="after voice fully startup" />
       <item value="the line spacing multiplier" />
       <item value="set Average Bitrate" />
       <item value="&lt;p&gt;Some virtual machines may, under some circumstances, omit one or more stack frames from the stack trace. In the extreme case, a virtual machine that has no stack trace information concerning this throwable is permitted to return a zero-length array from this method. Generally speaking, the array returned by this method will contain one element for every frame that would be printed by {@code printStackTrace}. Writes to the returned array do not affect future calls to this method." />
@@ -51,7 +52,6 @@
       <item value="DEFAULT DROPPED HIGH" />
       <item value="DEFAULT DROPPED FROZEN" />
       <item value="drop Frame Listener Threshold" />
-      <item value="ACCUMELAING" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649387584968" />
+    <option name="lastTrimTime" value="1649920062119" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
