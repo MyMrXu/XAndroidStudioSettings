@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they are added to a path." />
       <item value="increased" />
       <item value="Set line spacing parameters. Each line will have its line spacing multiplied by {@code spacingMult} and then increased by {@code spacingAdd}." />
       <item value="and 1.0 for {@code spacingMult}." />
@@ -51,7 +52,6 @@
       <item value="The view drawing cache was largely made obsolete with the introduction of hardware-accelerated rendering in API 11. With hardware-acceleration, intermediate cache layers are largely unnecessary and can easily result in a net loss in performance due to the cost of creating and updating the layer. In the rare cases where caching layers are useful, such as for alpha animations, {@link setLayerType(int, Paint)} handles this with hardware rendering." />
       <item value="intended" />
       <item value="animation" />
-      <item value="traversal" />
     </histories>
     <option name="languageScores">
       <map>
