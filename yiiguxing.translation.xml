@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="increase" />
       <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
       <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
       <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
@@ -51,7 +52,6 @@
       <item value="Attempts to match the entire region against the pattern." />
       <item value="Return the total number of instructions executed globally (i.e. in all threads)." />
       <item value="drawing cache created in Viewdraw when drawing to a SW canvas." />
-      <item value="NOTE: even if previous layer type is HW, we do this to ensure we've cleaned up" />
     </histories>
     <option name="languageScores">
       <map>
