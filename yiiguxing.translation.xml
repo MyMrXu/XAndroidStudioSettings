@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Whether to enable multiplexing. Default is true." />
       <item value="reconnect attempt" />
       <item value="increase" />
       <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
@@ -51,7 +52,6 @@
       <item value="re Path" />
       <item value="abnormal" />
       <item value="Attempts to match the entire region against the pattern." />
-      <item value="Return the total number of instructions executed globally (i.e. in all threads)." />
     </histories>
     <option name="languageScores">
       <map>
