@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="intercept Log" />
       <item value="prior Level" />
       <item value="relay Prior" />
       <item value="signal Deduplicate" />
@@ -51,7 +52,6 @@
       <item value="the file channel associated with this file output stream" />
       <item value="Returns the unique {@link java.nio.channels.FileChannel FileChannel} object associated with this file output stream." />
       <item value="try Acquire" />
-      <item value="Clear any lines and curves from the path, making it empty. This does NOT change the fill-type setting." />
     </histories>
     <option name="languageScores">
       <map>
