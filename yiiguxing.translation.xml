@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bits in the action code that represent a pointer index, used with {@link ACTION_POINTER_DOWN} and {@link ACTION_POINTER_UP}. Shifting down by {@link ACTION_POINTER_INDEX_SHIFT} provides the actual pointer index where the data for the pointer going up or down can be found; you can get its identifier with {@link getPointerId(int)} and the actual data with {@link getX(int)} etc." />
+      <item value="The state of any meta modifier keys that were in effect when the event was generated." />
+      <item value="A normalized value that describes the approximate size of the pointer touch area in relation to the maximum detectable size of the device. It represents some approximation of the area of the screen being pressed; the actual value in pixels corresponding to the touch is normalized with the device specific range of values and scaled to a value between 0 and 1. The value of size can be used to determine fat touch events." />
+      <item value="A normalized value that describes the pressure applied to the device by a finger or other tool. The pressure generally ranges from 0 (no pressure at all) to 1 (normal pressure), although values higher than 1 may be generated depending on the calibration of the input device." />
+      <item value="The number of pointers that will be in this event." />
       <item value="The id for the device that this event came from. An id of zero indicates that the event didn't come from a physical device; other numbers are arbitrary and you shouldn't depend on the values." />
       <item value="The precision of the X coordinate being reported." />
       <item value="Understand" />
@@ -47,11 +52,6 @@
       <item value="Skip StringCoding optimization that needs access to java chars." />
       <item value="ND Android-changed: Skip StringCoding optimization that needs access to java chars." />
       <item value="If the [index] is out of bounds of this string, throws an [IndexOutOfBoundsException] except in KotlinJS where the behavior is unspecified." />
-      <item value="Flips this buffer. The limit is set to the current position and then the position is set to zero. If the mark is defined then it is discarded." />
-      <item value="&lt;p&gt; If the file does not reside on a local device then no such guarantee is made." />
-      <item value="&lt;p&gt; If this channel's file resides on a local storage device then when this method returns it is guaranteed that all changes made to the file since this channel was created, or since this method was last invoked, will have been written to that device. This is useful for ensuring that critical information is not lost in the event of a system crash." />
-      <item value="Forces any updates to this channel's file to be written to the storage device that contains it." />
-      <item value="&lt;p&gt; The initial {@link java.nio.channels.FileChannelposition() position} of the returned channel will be equal to the number of bytes written to the file so far unless this stream is in append mode, in which case it will be equal to the size of the file. Writing bytes to this stream will increment the channel's position accordingly. Changing the channel's position, either explicitly or by writing, will change this stream's file position." />
     </histories>
     <option name="languageScores">
       <map>
