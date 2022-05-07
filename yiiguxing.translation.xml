@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Synchronously wait for the application to be idle. Can not be called from the main application thread -- use {@link start} to execute instrumentation in its own thread." />
       <item value="which does not provide hooks for the service life cycle and exposes other APIs that are useful for UI test automation." />
       <item value="Bits in the action code that represent a pointer index, used with {@link ACTION_POINTER_DOWN} and {@link ACTION_POINTER_UP}. Shifting down by {@link ACTION_POINTER_INDEX_SHIFT} provides the actual pointer index where the data for the pointer going up or down can be found; you can get its identifier with {@link getPointerId(int)} and the actual data with {@link getX(int)} etc." />
       <item value="The state of any meta modifier keys that were in effect when the event was generated." />
@@ -51,7 +52,6 @@
       <item value="Feature" />
       <item value="Semaphore" />
       <item value="Skip StringCoding optimization that needs access to java chars." />
-      <item value="ND Android-changed: Skip StringCoding optimization that needs access to java chars." />
     </histories>
     <option name="languageScores">
       <map>
