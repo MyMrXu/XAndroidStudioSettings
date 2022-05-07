@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="which does not provide hooks for the service life cycle and exposes other APIs that are useful for UI test automation." />
       <item value="Bits in the action code that represent a pointer index, used with {@link ACTION_POINTER_DOWN} and {@link ACTION_POINTER_UP}. Shifting down by {@link ACTION_POINTER_INDEX_SHIFT} provides the actual pointer index where the data for the pointer going up or down can be found; you can get its identifier with {@link getPointerId(int)} and the actual data with {@link getX(int)} etc." />
       <item value="The state of any meta modifier keys that were in effect when the event was generated." />
       <item value="A normalized value that describes the approximate size of the pointer touch area in relation to the maximum detectable size of the device. It represents some approximation of the area of the screen being pressed; the actual value in pixels corresponding to the touch is normalized with the device specific range of values and scaled to a value between 0 and 1. The value of size can be used to determine fat touch events." />
@@ -51,7 +52,6 @@
       <item value="Semaphore" />
       <item value="Skip StringCoding optimization that needs access to java chars." />
       <item value="ND Android-changed: Skip StringCoding optimization that needs access to java chars." />
-      <item value="If the [index] is out of bounds of this string, throws an [IndexOutOfBoundsException] except in KotlinJS where the behavior is unspecified." />
     </histories>
     <option name="languageScores">
       <map>
