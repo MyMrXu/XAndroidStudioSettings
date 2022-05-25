@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&lt;p&gt;If bitmaps are scaled for device density at creation time (as resource bitmaps often are) the filtering will already have been done.&lt;p&gt;" />
+      <item value="&lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor sampling, likely resulting in artifacts. This should generally be on when drawing bitmaps, unless performance-bound (rendering to software canvas) or preferring pixelation artifacts to blurriness when scaling significantly.&lt;p&gt;" />
+      <item value="aint flag that enables bilinear sampling on scaled bitmaps." />
       <item value="Presentation Timer" />
       <item value="Increment" />
       <item value="@param tag Accounting tag used in {@link setThreadStatsTag(int)}. @param operationCount Number of operations to increment count by." />
@@ -49,9 +52,6 @@
       <item value="&lt;p&gt;Some virtual machines may, under some circumstances, omit one or more stack frames from the stack trace. In the extreme case, a virtual machine that has no stack trace information concerning this throwable is permitted to return a zero-length array from this method. Generally speaking, the array returned by this method will contain one element for every frame that would be printed by {@code printStackTrace}. Writes to the returned array do not affect future calls to this method." />
       <item value="Provides programmatic access to the stack trace information printed by {@link printStackTrace()}. Returns an array of stack trace elements, each representing one stack frame. The zeroth element of the array (assuming the array's length is non-zero) represents the top of the stack, which is the last method invocation in the sequence. Typically, this is the point at which this throwable was created and thrown. The last element of the array (assuming the array's length is non-zero) represents the bottom of the stack, which is the first method invocation in the sequence." />
       <item value="Android-changed: Use Android-specific nativeFillInStackTrace" />
-      <item value="Initialize stack trace field with information from backtrace if this is the first call to this method Android-changed: Use libcore.util.EmptyArray for the empty stack trace" />
-      <item value="Indicates that only the current fragment will be in the {@link Lifecycle.StateRESUMED} state. All other Fragments are capped at {@link Lifecycle.StateSTARTED}." />
-      <item value="true if the associated thread should run as a daemon." />
     </histories>
     <option name="languageScores">
       <map>
