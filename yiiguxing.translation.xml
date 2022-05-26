@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The repeat interval must be greater than or equal to {@link PeriodicWorkRequestMIN_PERIODIC_INTERVAL_MILLIS}." />
+      <item value="The repeat interval in {@code repeatIntervalTimeUnit} units" />
+      <item value="A {@link PeriodicWorkRequest} to enqueue. {@code REPLACE} ensures that if there is pending work labelled with {@code uniqueWorkName}, it will be cancelled and the new work will run. {@code KEEP} will run the new PeriodicWorkRequest only if there is no pending work labelled with {@code uniqueWorkName}." />
       <item value="&lt;b&gt;Use this method with caution&lt;b&gt;; by invoking it, you (and any modules and libraries in your codebase) will no longer be able to observe the {@link WorkInfo} of the pruned work. You do not normally need to call this method - WorkManager takes care to auto-prune its work after a sane period of time. This method also ignores the {@link OneTimeWorkRequest.BuilderkeepResultsForAtLeast(long, TimeUnit)} policy. @return An {@link Operation} that can be used to determine when the pruneWork has completed" />
       <item value="Prunes all eligible finished work from the internal database. Eligible work must be finished ({@link WorkInfo.StateSUCCEEDED}, {@link WorkInfo.StateFAILED}, or {@link WorkInfo.StateCANCELLED}), with zero unfinished dependents." />
       <item value="Prunes" />
@@ -49,9 +52,6 @@
       <item value="Set line spacing parameters. Each line will have its line spacing multiplied by {@code spacingMult} and then increased by {@code spacingAdd}." />
       <item value="and 1.0 for {@code spacingMult}." />
       <item value="the amount of line spacing addition" />
-      <item value="the line spacing multiplier" />
-      <item value="after voice fully startup" />
-      <item value="set Average Bitrate" />
     </histories>
     <option name="languageScores">
       <map>
