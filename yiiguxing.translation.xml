@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The time at which the scheduler scheduled a worker." />
+      <item value="Sets when the scheduler actually schedules the worker." />
       <item value="The repeat interval must be greater than or equal to {@link PeriodicWorkRequestMIN_PERIODIC_INTERVAL_MILLIS}." />
       <item value="The repeat interval in {@code repeatIntervalTimeUnit} units" />
       <item value="A {@link PeriodicWorkRequest} to enqueue. {@code REPLACE} ensures that if there is pending work labelled with {@code uniqueWorkName}, it will be cancelled and the new work will run. {@code KEEP} will run the new PeriodicWorkRequest only if there is no pending work labelled with {@code uniqueWorkName}." />
@@ -50,8 +52,6 @@
       <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they are added to a path." />
       <item value="increased" />
       <item value="Set line spacing parameters. Each line will have its line spacing multiplied by {@code spacingMult} and then increased by {@code spacingAdd}." />
-      <item value="and 1.0 for {@code spacingMult}." />
-      <item value="the amount of line spacing addition" />
     </histories>
     <option name="languageScores">
       <map>
