@@ -135,6 +135,7 @@
         <entry key="doodle/src/main/res/drawable/crc_closewindow.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_handup_selector.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/crc_zoom_selector.xml" value="0.41770833333333335" />
+        <entry key="doodle/src/main/res/drawable/doodle_border.xml" value="0.32222222222222224" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_k12_laser_student.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_laser_red.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_ic_lock.xml" value="0.4112820512820513" />
@@ -145,6 +146,7 @@
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_cloud_storage.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_thickness2_selector.xml" value="0.32222222222222224" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_lock.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_locked.xml" value="0.41770833333333335" />
@@ -206,6 +208,7 @@
         <entry key="doodle/src/main/res/layout/doodle_inputmethod_view.xml" value="0.21965579710144928" />
         <entry key="doodle/src/main/res/layout/doodle_item_selectfile.xml" value="0.35054347826086957" />
         <entry key="doodle/src/main/res/layout/doodle_layout.xml" value="0.40260416666666665" />
+        <entry key="doodle/src/main/res/layout/doodle_layout_doodle_group.xml" value="0.29393115942028986" />
         <entry key="doodle/src/main/res/layout/doodle_popup_tools.xml" value="0.23777173913043478" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_child_doodle.xml" value="0.36367753623188404" />
         <entry key="doodle/src/main/res/layout/doodle_vclass_item_panel.xml" value="0.4494706448508181" />
