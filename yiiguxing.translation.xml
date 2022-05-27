@@ -2,6 +2,35 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Subscriber will be called in a separate thread. This is always independent from the posting thread and the main thread. Posting events never wait for subscriber methods using this mode. Subscriber methods should use this mode if their execution might take some time, e.g. for network access. Avoid triggering a large number of long running asynchronous subscriber methods at the same time to limit the number of concurrent threads. EventBus uses a thread pool to efficiently reuse threads from completed asynchronous subscriber notifications." />
+      <item value="On Android, subscriber will be called in a background thread. If posting thread is not the main thread, subscriber methods will be called directly in the posting thread. If the posting thread is the main thread, EventBus uses a single background thread, that will deliver all its events sequentially. Subscribers using this mode should try to return quickly to avoid blocking the background thread. If not on Android, always uses a background thread." />
+      <item value="On Android, subscriber will be called in Android's main thread (UI thread). Different from {@link MAIN}, the event will always be queued for delivery. This ensures that the post call is non-blocking." />
+      <item value="Subscriber will be called directly in the same thread, which is posting the event. This is the default. Event delivery implies the least overhead because it avoids thread switching completely. Thus this is the recommended mode for simple tasks that are known to complete in a very short time without requiring the main thread. Event handlers using this mode must return quickly to avoid blocking the posting thread, which may be the main thread." />
+      <item value="The time at which the scheduler scheduled a worker." />
+      <item value="Sets when the scheduler actually schedules the worker." />
+      <item value="The repeat interval must be greater than or equal to {@link PeriodicWorkRequestMIN_PERIODIC_INTERVAL_MILLIS}." />
+      <item value="The repeat interval in {@code repeatIntervalTimeUnit} units" />
+      <item value="A {@link PeriodicWorkRequest} to enqueue. {@code REPLACE} ensures that if there is pending work labelled with {@code uniqueWorkName}, it will be cancelled and the new work will run. {@code KEEP} will run the new PeriodicWorkRequest only if there is no pending work labelled with {@code uniqueWorkName}." />
+      <item value="&lt;b&gt;Use this method with caution&lt;b&gt;; by invoking it, you (and any modules and libraries in your codebase) will no longer be able to observe the {@link WorkInfo} of the pruned work. You do not normally need to call this method - WorkManager takes care to auto-prune its work after a sane period of time. This method also ignores the {@link OneTimeWorkRequest.BuilderkeepResultsForAtLeast(long, TimeUnit)} policy. @return An {@link Operation} that can be used to determine when the pruneWork has completed" />
+      <item value="Prunes all eligible finished work from the internal database. Eligible work must be finished ({@link WorkInfo.StateSUCCEEDED}, {@link WorkInfo.StateFAILED}, or {@link WorkInfo.StateCANCELLED}), with zero unfinished dependents." />
+      <item value="Prunes" />
+      <item value="&lt;p&gt;If bitmaps are scaled for device density at creation time (as resource bitmaps often are) the filtering will already have been done.&lt;p&gt;" />
+      <item value="&lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor sampling, likely resulting in artifacts. This should generally be on when drawing bitmaps, unless performance-bound (rendering to software canvas) or preferring pixelation artifacts to blurriness when scaling significantly.&lt;p&gt;" />
+      <item value="aint flag that enables bilinear sampling on scaled bitmaps." />
+      <item value="Presentation Timer" />
+      <item value="Increment" />
+      <item value="@param tag Accounting tag used in {@link setThreadStatsTag(int)}. @param operationCount Number of operations to increment count by." />
+      <item value="Increment count of network operations performed under the given accounting tag. This can be used to derive bytes-per-operation." />
+      <item value="Set active tag to use when accounting {@link Socket} traffic originating from the current thread. Only one active tag per thread is supported. &lt;p&gt; Changes only take effect during subsequent calls to {@link tagSocket(Socket)}. &lt;p&gt; Tags between {@code 0xFFFFFF00} and {@code 0xFFFFFFFF} are reserved and used internally by system services like DownloadManager when performing traffic on behalf of an application." />
+      <item value="statistics parameters." />
+      <item value="Tag the given {@link Socket} with any statistics parameters active for the current thread. Subsequent calls always replace any existing parameters. When finished, call {@link untagSocket(Socket)} to remove statistics parameters." />
+      <item value="Note that the statistics returned by this class reset and start from zero after every reboot. To access more robust historical network statistics data, use" />
+      <item value="Class that provides network traffic statistics." />
+      <item value="Return the number of packets transmitted on the specified interface since device boot. Statistics are measured at the network layer, so both TCP and UDP usage are included. @param iface The name of the interface. @return The number of transmitted packets." />
+      <item value="Return number of bytes transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
+      <item value="transmitted" />
+      <item value="Return number of packets transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
+      <item value="Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
       <item value="Synchronously wait for the application to be idle. Can not be called from the main application thread -- use {@link start} to execute instrumentation in its own thread." />
       <item value="which does not provide hooks for the service life cycle and exposes other APIs that are useful for UI test automation." />
       <item value="Bits in the action code that represent a pointer index, used with {@link ACTION_POINTER_DOWN} and {@link ACTION_POINTER_UP}. Shifting down by {@link ACTION_POINTER_INDEX_SHIFT} provides the actual pointer index where the data for the pointer going up or down can be found; you can get its identifier with {@link getPointerId(int)} and the actual data with {@link getX(int)} etc." />
@@ -23,35 +52,6 @@
       <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
       <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
       <item value="The stroke projects out as a square, with the center at the end of the path." />
-      <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
-      <item value="Specifies how closed shapes (e.g. rects, ovals) are oriented when they are added to a path." />
-      <item value="increased" />
-      <item value="Set line spacing parameters. Each line will have its line spacing multiplied by {@code spacingMult} and then increased by {@code spacingAdd}." />
-      <item value="and 1.0 for {@code spacingMult}." />
-      <item value="the amount of line spacing addition" />
-      <item value="the line spacing multiplier" />
-      <item value="after voice fully startup" />
-      <item value="set Average Bitrate" />
-      <item value="&lt;p&gt;Some virtual machines may, under some circumstances, omit one or more stack frames from the stack trace. In the extreme case, a virtual machine that has no stack trace information concerning this throwable is permitted to return a zero-length array from this method. Generally speaking, the array returned by this method will contain one element for every frame that would be printed by {@code printStackTrace}. Writes to the returned array do not affect future calls to this method." />
-      <item value="Provides programmatic access to the stack trace information printed by {@link printStackTrace()}. Returns an array of stack trace elements, each representing one stack frame. The zeroth element of the array (assuming the array's length is non-zero) represents the top of the stack, which is the last method invocation in the sequence. Typically, this is the point at which this throwable was created and thrown. The last element of the array (assuming the array's length is non-zero) represents the bottom of the stack, which is the first method invocation in the sequence." />
-      <item value="Android-changed: Use Android-specific nativeFillInStackTrace" />
-      <item value="Initialize stack trace field with information from backtrace if this is the first call to this method Android-changed: Use libcore.util.EmptyArray for the empty stack trace" />
-      <item value="Indicates that only the current fragment will be in the {@link Lifecycle.StateRESUMED} state. All other Fragments are capped at {@link Lifecycle.StateSTARTED}." />
-      <item value="true if the associated thread should run as a daemon." />
-      <item value="concrete" />
-      <item value="Indicates data was retrieved unmodified from the on device cache." />
-      <item value="Indicates data was probably retrieved locally from the device, although it may have been obtained through a content provider that may have obtained the data from a remote source." />
-      <item value="Indicates data was retrieved from a remote source other than the device" />
-      <item value="ACCUMULATING" />
-      <item value="intern" />
-      <item value="init Elements From Collection" />
-      <item value="Returns milliseconds since boot, including time spent in sleep. @return elapsed milliseconds since boot." />
-      <item value="traffic Out" />
-      <item value="Extra for {@link android.content.IntentACTION_BATTERY_CHANGED}: integer containing the current battery temperature." />
-      <item value="active Participants" />
-      <item value="Feature" />
-      <item value="Semaphore" />
-      <item value="Skip StringCoding optimization that needs access to java chars." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651821765510" />
+    <option name="lastTrimTime" value="1653375631120" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
