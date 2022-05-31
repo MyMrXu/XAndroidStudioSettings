@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="decrease" />
+      <item value="increase" />
       <item value="Texture" />
       <item value="Subscriber will be called in a separate thread. This is always independent from the posting thread and the main thread. Posting events never wait for subscriber methods using this mode. Subscriber methods should use this mode if their execution might take some time, e.g. for network access. Avoid triggering a large number of long running asynchronous subscriber methods at the same time to limit the number of concurrent threads. EventBus uses a thread pool to efficiently reuse threads from completed asynchronous subscriber notifications." />
       <item value="On Android, subscriber will be called in a background thread. If posting thread is not the main thread, subscriber methods will be called directly in the posting thread. If the posting thread is the main thread, EventBus uses a single background thread, that will deliver all its events sequentially. Subscribers using this mode should try to return quickly to avoid blocking the background thread. If not on Android, always uses a background thread." />
@@ -48,10 +50,8 @@
       <item value="signal Deduplicate" />
       <item value="Whether to enable multiplexing. Default is true." />
       <item value="reconnect attempt" />
-      <item value="increase" />
       <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
       <item value="Specifies that &quot;inside&quot; is computed by a non-zero sum of signed edge crossings." />
-      <item value="Same as {@link WINDING}, but draws outside of the path, rather than inside." />
     </histories>
     <option name="languageScores">
       <map>
