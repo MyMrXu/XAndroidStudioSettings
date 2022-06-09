@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Creates a new byte buffer whose content is a shared subsequence of this buffer's content." />
+      <item value="Obfucated" />
+      <item value="deduplicate" />
       <item value="Return the width to which this Layout is ellipsizing, or {@link getWidth} if it is not doing anything special." />
       <item value="decrease" />
       <item value="increase" />
@@ -49,9 +52,6 @@
       <item value="prior Level" />
       <item value="relay Prior" />
       <item value="signal Deduplicate" />
-      <item value="Whether to enable multiplexing. Default is true." />
-      <item value="reconnect attempt" />
-      <item value="Specifies that &quot;inside&quot; is computed by an odd number of edge crossings." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653963225159" />
+    <option name="lastTrimTime" value="1654742793804" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
