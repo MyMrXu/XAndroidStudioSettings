@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Raw" />
       <item value="Creates a new byte buffer whose content is a shared subsequence of this buffer's content." />
       <item value="Obfucated" />
       <item value="deduplicate" />
@@ -51,7 +52,6 @@
       <item value="intercept Log" />
       <item value="prior Level" />
       <item value="relay Prior" />
-      <item value="signal Deduplicate" />
     </histories>
     <option name="languageScores">
       <map>
