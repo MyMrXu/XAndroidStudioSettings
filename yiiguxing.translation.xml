@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Used to indicate a temporary request of audio focus, anticipated to last a short amount of time, during which no other applications, or system components, should play anything. Examples of exclusive and transient audio focus requests are voice memo recording and speech recognition, during which the system shouldn't play any notifications, and media playback should have paused." />
+      <item value="Specifying if haptic should be muted or not when playing audio-haptic coupled data. By default, haptic channels are disabled." />
+      <item value="but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
+      <item value="A focus change request whose granting is delayed:" />
       <item value="Nack" />
       <item value="Raw" />
       <item value="Creates a new byte buffer whose content is a shared subsequence of this buffer's content." />
@@ -48,10 +52,6 @@
       <item value="A normalized value that describes the pressure applied to the device by a finger or other tool. The pressure generally ranges from 0 (no pressure at all) to 1 (normal pressure), although values higher than 1 may be generated depending on the calibration of the input device." />
       <item value="The number of pointers that will be in this event." />
       <item value="The id for the device that this event came from. An id of zero indicates that the event didn't come from a physical device; other numbers are arbitrary and you shouldn't depend on the values." />
-      <item value="The precision of the X coordinate being reported." />
-      <item value="Understand" />
-      <item value="intercept Log" />
-      <item value="prior Level" />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,6 +79,5 @@
         <option name="primaryLanguage" value="ESPERANTO" />
       </google-translate>
     </option>
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
