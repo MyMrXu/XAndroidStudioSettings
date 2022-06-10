@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Declare the intended behavior of the application with regards to audio ducking." />
+      <item value="Declare the intended behavior of the application with regards to audio ducking. See more details in the" />
+      <item value="Declare the intended behavior of the application with regards to audio ducking. See more details in the {@link AudioFocusRequest} class documentation. @param pauseOnDuck use {@code true} if the application intends to pause audio playback when losing focus with {@link AudioManagerAUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK}. If {@code true}, note that you must also set a focus listener to receive such an event, with {@link setOnAudioFocusChangeListener(OnAudioFocusChangeListener, Handler)}." />
       <item value="a new unclaimed and unused audio session identifier, or {@link ERROR} when the system failed to generate a new session, a condition in which audio playback or recording will subsequently fail as well." />
       <item value="Used to indicate a temporary request of audio focus, anticipated to last a short amount of time, during which no other applications, or system components, should play anything. Examples of exclusive and transient audio focus requests are voice memo recording and speech recognition, during which the system shouldn't play any notifications, and media playback should have paused." />
       <item value="Specifying if haptic should be muted or not when playing audio-haptic coupled data. By default, haptic channels are disabled." />
@@ -49,9 +52,6 @@
       <item value="which does not provide hooks for the service life cycle and exposes other APIs that are useful for UI test automation." />
       <item value="Bits in the action code that represent a pointer index, used with {@link ACTION_POINTER_DOWN} and {@link ACTION_POINTER_UP}. Shifting down by {@link ACTION_POINTER_INDEX_SHIFT} provides the actual pointer index where the data for the pointer going up or down can be found; you can get its identifier with {@link getPointerId(int)} and the actual data with {@link getX(int)} etc." />
       <item value="The state of any meta modifier keys that were in effect when the event was generated." />
-      <item value="A normalized value that describes the approximate size of the pointer touch area in relation to the maximum detectable size of the device. It represents some approximation of the area of the screen being pressed; the actual value in pixels corresponding to the touch is normalized with the device specific range of values and scaled to a value between 0 and 1. The value of size can be used to determine fat touch events." />
-      <item value="A normalized value that describes the pressure applied to the device by a finger or other tool. The pressure generally ranges from 0 (no pressure at all) to 1 (normal pressure), although values higher than 1 may be generated depending on the calibration of the input device." />
-      <item value="The number of pointers that will be in this event." />
     </histories>
     <option name="languageScores">
       <map>
