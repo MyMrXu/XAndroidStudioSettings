@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Symbol" />
       <item value="requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
       <item value="A focus change request whose granting is delayed: the request was successful, but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
       <item value="Declare the intended behavior of the application with regards to audio ducking." />
@@ -51,7 +52,6 @@
       <item value="Return number of packets transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
       <item value="Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
       <item value="Synchronously wait for the application to be idle. Can not be called from the main application thread -- use {@link start} to execute instrumentation in its own thread." />
-      <item value="which does not provide hooks for the service life cycle and exposes other APIs that are useful for UI test automation." />
     </histories>
     <option name="languageScores">
       <map>
@@ -79,5 +79,6 @@
         <option name="primaryLanguage" value="ESPERANTO" />
       </google-translate>
     </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
