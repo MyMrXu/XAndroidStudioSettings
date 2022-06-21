@@ -269,6 +269,7 @@
         <entry key="one2one/src/main/res/menu/one2one_session_menu.xml" value="0.40260416666666665" />
         <entry key="pandora-core/src/main/res/layout/pd_item_func.xml" value="0.19579533941236069" />
         <entry key="session/src/main/res/layout/session_activity_call.xml" value="0.19579533941236069" />
+        <entry key="session/src/main/res/layout/session_activity_media.xml" value="0.1458966565349544" />
         <entry key="session/src/main/res/layout/session_activity_session_set.xml" value="0.19579533941236069" />
         <entry key="session/src/main/res/layout/session_activity_video_group.xml" value="0.22146739130434784" />
         <entry key="session/src/main/res/layout/session_activity_video_p2p.xml" value="0.2545289855072464" />
