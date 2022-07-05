@@ -8,9 +8,10 @@
       <mapping pattern="1645459200000" type="PLAIN_TEXT" />
       <mapping pattern="sss" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="1656950400000" type="PLAIN_TEXT" />
       <mapping pattern="gitk" type="PLAIN_TEXT" />
-      <mapping pattern="Kerguelen" type="PLAIN_TEXT" />
       <mapping pattern="Universal" type="PLAIN_TEXT" />
+      <mapping pattern="Kerguelen" type="PLAIN_TEXT" />
       <mapping ext="neunote" type="PLAIN_TEXT" />
       <mapping ext="jpg" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
