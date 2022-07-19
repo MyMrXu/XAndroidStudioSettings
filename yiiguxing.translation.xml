@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Resets the &lt;code&gt;count&lt;code&gt; field of this byte array output stream to zero, so that all currently accumulated output in the output stream is discarded. The output stream can be used again, reusing the already allocated buffer space." />
       <item value="ACCUMULATING" />
       <item value="Symbol" />
       <item value="requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
@@ -51,7 +52,6 @@
       <item value="Return number of bytes transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
       <item value="transmitted" />
       <item value="Return number of packets transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
-      <item value="Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654742793804" />
+    <option name="lastTrimTime" value="1658202112666" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
