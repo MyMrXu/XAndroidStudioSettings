@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="expression" />
       <item value="Reads a sequence of bytes from this channel into the given buffer." />
       <item value="Reads a sequence of bytes from this channel into a subsequence of the given buffers." />
       <item value="Resets the &lt;code&gt;count&lt;code&gt; field of this byte array output stream to zero, so that all currently accumulated output in the output stream is discarded. The output stream can be used again, reusing the already allocated buffer space." />
@@ -51,7 +52,6 @@
       <item value="Note that the statistics returned by this class reset and start from zero after every reboot. To access more robust historical network statistics data, use" />
       <item value="Class that provides network traffic statistics." />
       <item value="Return the number of packets transmitted on the specified interface since device boot. Statistics are measured at the network layer, so both TCP and UDP usage are included. @param iface The name of the interface. @return The number of transmitted packets." />
-      <item value="Return number of bytes transmitted since device boot. Counts packets across all network interfaces, and always increases monotonically since device boot. Statistics are measured at the network layer, so they include both TCP and UDP usage." />
     </histories>
     <option name="languageScores">
       <map>
