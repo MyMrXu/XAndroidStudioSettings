@@ -2,8 +2,6 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="note that you must also set a focus listener to be notified of delayed focus gain, with" />
-      <item value="Marks this focus request as compatible with delayed focus. See more details about delayed focus in the {@link AudioFocusRequest} class documentation." />
       <item value="identical" />
       <item value="expression" />
       <item value="Reads a sequence of bytes from this channel into the given buffer." />
@@ -52,6 +50,8 @@
       <item value="Set active tag to use when accounting {@link Socket} traffic originating from the current thread. Only one active tag per thread is supported. &lt;p&gt; Changes only take effect during subsequent calls to {@link tagSocket(Socket)}. &lt;p&gt; Tags between {@code 0xFFFFFF00} and {@code 0xFFFFFFFF} are reserved and used internally by system services like DownloadManager when performing traffic on behalf of an application." />
       <item value="statistics parameters." />
       <item value="Tag the given {@link Socket} with any statistics parameters active for the current thread. Subsequent calls always replace any existing parameters. When finished, call {@link untagSocket(Socket)} to remove statistics parameters." />
+      <item value="Note that the statistics returned by this class reset and start from zero after every reboot. To access more robust historical network statistics data, use" />
+      <item value="Class that provides network traffic statistics." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659411059304" />
+    <option name="lastTrimTime" value="1658831816520" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
