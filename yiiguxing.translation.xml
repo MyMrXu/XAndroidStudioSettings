@@ -2,13 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Reload audio settings. This method is called by Settings backup agent when audio settings are restored and causes the AudioService to read and apply restored settings." />
-      <item value="constants for the recording events, to keep in sync with frameworksavincludemediaAudioPolicy.h" />
-      <item value="otification of recording activity &amp; recording configuration" />
-      <item value="Use {@link AUDIOFOCUS_GAIN} for a focus request of unknown duration such as the playback of a song or a video." />
-      <item value="Use {@link AUDIOFOCUS_GAIN_TRANSIENT_MAY_DUCK} to indicate also that it's ok for the previous focus owner to keep playing if it ducks its audio output. Alternatively use {@link AUDIOFOCUS_GAIN_TRANSIENT_EXCLUSIVE} for a temporary request that benefits from the system not playing disruptive sounds like notifications, for usecases such as voice memo recording, or speech recognition." />
-      <item value="durationHint use {@link AUDIOFOCUS_GAIN_TRANSIENT} to indicate this focus request is temporary, and focus will be abandonned shortly. Examples of transient requests are for the playback of driving directions, or notifications sounds." />
-      <item value="If &lt;tt&gt;true&lt;tt&gt; then this method is required to force changes to both the file's content and metadata to be written to storage; otherwise, it need only force content changes to be written" />
+      <item value="get Voice Ratio" />
       <item value="identical" />
       <item value="expression" />
       <item value="Reads a sequence of bytes from this channel into the given buffer." />
@@ -52,6 +46,12 @@
       <item value="aint flag that enables bilinear sampling on scaled bitmaps." />
       <item value="Presentation Timer" />
       <item value="Increment" />
+      <item value="@param tag Accounting tag used in {@link setThreadStatsTag(int)}. @param operationCount Number of operations to increment count by." />
+      <item value="Increment count of network operations performed under the given accounting tag. This can be used to derive bytes-per-operation." />
+      <item value="Set active tag to use when accounting {@link Socket} traffic originating from the current thread. Only one active tag per thread is supported. &lt;p&gt; Changes only take effect during subsequent calls to {@link tagSocket(Socket)}. &lt;p&gt; Tags between {@code 0xFFFFFF00} and {@code 0xFFFFFFFF} are reserved and used internally by system services like DownloadManager when performing traffic on behalf of an application." />
+      <item value="statistics parameters." />
+      <item value="Tag the given {@link Socket} with any statistics parameters active for the current thread. Subsequent calls always replace any existing parameters. When finished, call {@link untagSocket(Socket)} to remove statistics parameters." />
+      <item value="Note that the statistics returned by this class reset and start from zero after every reboot. To access more robust historical network statistics data, use" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659340369678" />
+    <option name="lastTrimTime" value="1659869686864" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
