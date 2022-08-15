@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The motion event that occurred during the context click." />
+      <item value="Implement this method to handle generic motion events." />
       <item value="get Voice Ratio" />
       <item value="identical" />
       <item value="expression" />
@@ -50,8 +52,6 @@
       <item value="Increment count of network operations performed under the given accounting tag. This can be used to derive bytes-per-operation." />
       <item value="Set active tag to use when accounting {@link Socket} traffic originating from the current thread. Only one active tag per thread is supported. &lt;p&gt; Changes only take effect during subsequent calls to {@link tagSocket(Socket)}. &lt;p&gt; Tags between {@code 0xFFFFFF00} and {@code 0xFFFFFFFF} are reserved and used internally by system services like DownloadManager when performing traffic on behalf of an application." />
       <item value="statistics parameters." />
-      <item value="Tag the given {@link Socket} with any statistics parameters active for the current thread. Subsequent calls always replace any existing parameters. When finished, call {@link untagSocket(Socket)} to remove statistics parameters." />
-      <item value="Note that the statistics returned by this class reset and start from zero after every reboot. To access more robust historical network statistics data, use" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659869686864" />
+    <option name="lastTrimTime" value="1660549241948" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
