@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ID of the pointer that is dragging the captured child view" />
+      <item value="Capture a specific child view for dragging within the parent. The callback will be notified but {@link CallbacktryCaptureView(android.view.View, int)} will not be asked permission to capture this view. @param childView Child view to capture @param activePointerId ID of the pointer that is dragging the captured child view" />
+      <item value="@return The minimum distance in pixels that the user must travel to initiate a drag" />
+      <item value="Called to determine the Z-order of child views. @param index the ordered position to query for @return index of the view that should be ordered at position &lt;code&gt;index&lt;code&gt;" />
       <item value="Enable edge tracking for the selected edges of the parent view. The callback's {@link CallbackonEdgeTouched(int, int)} and {@link CallbackonEdgeDragStarted(int, int)} methods will only be invoked for edges for which edge tracking has been enabled." />
       <item value="A combination of edge flags describing the edge(s) locked" />
       <item value="Called when the given edge may become locked. This can happen if an edge drag was preliminarily rejected before beginning, but after {@link onEdgeTouched(int, int)} was called. This method should return true to lock this edge or false to leave it unlocked. The default behavior is to leave edges unlocked." />
@@ -48,10 +52,6 @@
       <item value="&lt;b&gt;Use this method with caution&lt;b&gt;; by invoking it, you (and any modules and libraries in your codebase) will no longer be able to observe the {@link WorkInfo} of the pruned work. You do not normally need to call this method - WorkManager takes care to auto-prune its work after a sane period of time. This method also ignores the {@link OneTimeWorkRequest.BuilderkeepResultsForAtLeast(long, TimeUnit)} policy. @return An {@link Operation} that can be used to determine when the pruneWork has completed" />
       <item value="Prunes all eligible finished work from the internal database. Eligible work must be finished ({@link WorkInfo.StateSUCCEEDED}, {@link WorkInfo.StateFAILED}, or {@link WorkInfo.StateCANCELLED}), with zero unfinished dependents." />
       <item value="Prunes" />
-      <item value="&lt;p&gt;If bitmaps are scaled for device density at creation time (as resource bitmaps often are) the filtering will already have been done.&lt;p&gt;" />
-      <item value="&lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor sampling, likely resulting in artifacts. This should generally be on when drawing bitmaps, unless performance-bound (rendering to software canvas) or preferring pixelation artifacts to blurriness when scaling significantly.&lt;p&gt;" />
-      <item value="aint flag that enables bilinear sampling on scaled bitmaps." />
-      <item value="Presentation Timer" />
     </histories>
     <option name="languageScores">
       <map>
