@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="RETR CCOMP" />
       <item value="The function computes a curve length or a closed contour perimeter." />
       <item value="cosfi" />
       <item value="Sets the left position of this view relative to its parent. This method is meant to be called by the layout system and should not generally be called otherwise, because the property may be changed at any time by the layout." />
@@ -51,7 +52,6 @@
       <item value="The time at which the scheduler scheduled a worker." />
       <item value="Sets when the scheduler actually schedules the worker." />
       <item value="The repeat interval must be greater than or equal to {@link PeriodicWorkRequestMIN_PERIODIC_INTERVAL_MILLIS}." />
-      <item value="The repeat interval in {@code repeatIntervalTimeUnit} units" />
     </histories>
     <option name="languageScores">
       <map>
