@@ -2,8 +2,20 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Contours" />
-      <item value="hierarchy" />
+      <item value="cosfi" />
+      <item value="Sets the left position of this view relative to its parent. This method is meant to be called by the layout system and should not generally be called otherwise, because the property may be changed at any time by the layout." />
+      <item value="Determine if the supplied view is under the given point in the parent view's coordinate system. @param view Child view of the parent to hit test @param x X position to test in the parent's coordinate system @param y Y position to test in the parent's coordinate system @return true if the supplied view is under the given point, false otherwise" />
+      <item value="ID of the pointer that is dragging the captured child view" />
+      <item value="Capture a specific child view for dragging within the parent. The callback will be notified but {@link CallbacktryCaptureView(android.view.View, int)} will not be asked permission to capture this view. @param childView Child view to capture @param activePointerId ID of the pointer that is dragging the captured child view" />
+      <item value="@return The minimum distance in pixels that the user must travel to initiate a drag" />
+      <item value="Called to determine the Z-order of child views. @param index the ordered position to query for @return index of the view that should be ordered at position &lt;code&gt;index&lt;code&gt;" />
+      <item value="Enable edge tracking for the selected edges of the parent view. The callback's {@link CallbackonEdgeTouched(int, int)} and {@link CallbackonEdgeDragStarted(int, int)} methods will only be invoked for edges for which edge tracking has been enabled." />
+      <item value="A combination of edge flags describing the edge(s) locked" />
+      <item value="Called when the given edge may become locked. This can happen if an edge drag was preliminarily rejected before beginning, but after {@link onEdgeTouched(int, int)} was called. This method should return true to lock this edge or false to leave it unlocked. The default behavior is to leave edges unlocked." />
+      <item value="STATE IDLE" />
+      <item value="STATE SETTLING" />
+      <item value="The motion event that occurred during the context click." />
+      <item value="Implement this method to handle generic motion events." />
       <item value="get Voice Ratio" />
       <item value="identical" />
       <item value="expression" />
@@ -40,18 +52,6 @@
       <item value="The repeat interval must be greater than or equal to {@link PeriodicWorkRequestMIN_PERIODIC_INTERVAL_MILLIS}." />
       <item value="The repeat interval in {@code repeatIntervalTimeUnit} units" />
       <item value="A {@link PeriodicWorkRequest} to enqueue. {@code REPLACE} ensures that if there is pending work labelled with {@code uniqueWorkName}, it will be cancelled and the new work will run. {@code KEEP} will run the new PeriodicWorkRequest only if there is no pending work labelled with {@code uniqueWorkName}." />
-      <item value="&lt;b&gt;Use this method with caution&lt;b&gt;; by invoking it, you (and any modules and libraries in your codebase) will no longer be able to observe the {@link WorkInfo} of the pruned work. You do not normally need to call this method - WorkManager takes care to auto-prune its work after a sane period of time. This method also ignores the {@link OneTimeWorkRequest.BuilderkeepResultsForAtLeast(long, TimeUnit)} policy. @return An {@link Operation} that can be used to determine when the pruneWork has completed" />
-      <item value="Prunes all eligible finished work from the internal database. Eligible work must be finished ({@link WorkInfo.StateSUCCEEDED}, {@link WorkInfo.StateFAILED}, or {@link WorkInfo.StateCANCELLED}), with zero unfinished dependents." />
-      <item value="Prunes" />
-      <item value="&lt;p&gt;If bitmaps are scaled for device density at creation time (as resource bitmaps often are) the filtering will already have been done.&lt;p&gt;" />
-      <item value="&lt;p&gt;If cleared, scaled bitmaps will be drawn with nearest neighbor sampling, likely resulting in artifacts. This should generally be on when drawing bitmaps, unless performance-bound (rendering to software canvas) or preferring pixelation artifacts to blurriness when scaling significantly.&lt;p&gt;" />
-      <item value="aint flag that enables bilinear sampling on scaled bitmaps." />
-      <item value="Presentation Timer" />
-      <item value="Increment" />
-      <item value="@param tag Accounting tag used in {@link setThreadStatsTag(int)}. @param operationCount Number of operations to increment count by." />
-      <item value="Increment count of network operations performed under the given accounting tag. This can be used to derive bytes-per-operation." />
-      <item value="Set active tag to use when accounting {@link Socket} traffic originating from the current thread. Only one active tag per thread is supported. &lt;p&gt; Changes only take effect during subsequent calls to {@link tagSocket(Socket)}. &lt;p&gt; Tags between {@code 0xFFFFFF00} and {@code 0xFFFFFFFF} are reserved and used internally by system services like DownloadManager when performing traffic on behalf of an application." />
-      <item value="statistics parameters." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661597562063" />
+    <option name="lastTrimTime" value="1660549241948" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
