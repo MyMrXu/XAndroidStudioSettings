@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Finds out if there is any intersection between two rotated rectangles." />
+      <item value="inds out if there is any intersection between two rotated rectangles." />
       <item value="Returns the correctly rounded positive square root of a {@code double} value." />
       <item value="Ellipse" />
       <item value="Accumulator threshold parameter. Only those lines are returned that get enough" />
@@ -50,8 +52,6 @@
       <item value="increase" />
       <item value="Texture" />
       <item value="Subscriber will be called in a separate thread. This is always independent from the posting thread and the main thread. Posting events never wait for subscriber methods using this mode. Subscriber methods should use this mode if their execution might take some time, e.g. for network access. Avoid triggering a large number of long running asynchronous subscriber methods at the same time to limit the number of concurrent threads. EventBus uses a thread pool to efficiently reuse threads from completed asynchronous subscriber notifications." />
-      <item value="On Android, subscriber will be called in a background thread. If posting thread is not the main thread, subscriber methods will be called directly in the posting thread. If the posting thread is the main thread, EventBus uses a single background thread, that will deliver all its events sequentially. Subscribers using this mode should try to return quickly to avoid blocking the background thread. If not on Android, always uses a background thread." />
-      <item value="On Android, subscriber will be called in Android's main thread (UI thread). Different from {@link MAIN}, the event will always be queued for delivery. This ensures that the post call is non-blocking." />
     </histories>
     <option name="languageScores">
       <map>
