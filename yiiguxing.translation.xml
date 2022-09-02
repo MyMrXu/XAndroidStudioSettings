@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The internal state associated with this pseudorandom number generator. (The specs for the methods in this class describe the ongoing computation of this value.)" />
       <item value="Finds out if there is any intersection between two rotated rectangles." />
       <item value="inds out if there is any intersection between two rotated rectangles." />
       <item value="Returns the correctly rounded positive square root of a {@code double} value." />
@@ -51,7 +52,6 @@
       <item value="decrease" />
       <item value="increase" />
       <item value="Texture" />
-      <item value="Subscriber will be called in a separate thread. This is always independent from the posting thread and the main thread. Posting events never wait for subscriber methods using this mode. Subscriber methods should use this mode if their execution might take some time, e.g. for network access. Avoid triggering a large number of long running asynchronous subscriber methods at the same time to limit the number of concurrent threads. EventBus uses a thread pool to efficiently reuse threads from completed asynchronous subscriber notifications." />
     </histories>
     <option name="languageScores">
       <map>
