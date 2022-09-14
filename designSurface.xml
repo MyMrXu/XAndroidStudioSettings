@@ -159,8 +159,10 @@
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_close_selector.xml" value="0.26851851851851855" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_cloud_storage.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_penshape1_selector.xml" value="0.34629629629629627" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_thickness2_selector.xml" value="0.32222222222222224" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_thickness4_selector.xml" value="0.34629629629629627" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_lock.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_locked.xml" value="0.41770833333333335" />
