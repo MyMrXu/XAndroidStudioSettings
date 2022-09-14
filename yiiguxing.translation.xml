@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EMULATION" />
       <item value="The internal state associated with this pseudorandom number generator. (The specs for the methods in this class describe the ongoing computation of this value.)" />
       <item value="Finds out if there is any intersection between two rotated rectangles." />
       <item value="inds out if there is any intersection between two rotated rectangles." />
@@ -51,7 +52,6 @@
       <item value="Return the width to which this Layout is ellipsizing, or {@link getWidth} if it is not doing anything special." />
       <item value="decrease" />
       <item value="increase" />
-      <item value="Texture" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661761382383" />
+    <option name="lastTrimTime" value="1663143650168" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
