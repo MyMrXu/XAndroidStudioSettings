@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="REVERSE DIFFERENCE" />
+      <item value="XOR" />
+      <item value="UNION" />
+      <item value="INTERSECT" />
+      <item value="DIFFERENCE" />
       <item value="The x-coordinate of the control point on a quadratic curve" />
       <item value="Permit" />
       <item value="EMULATION" />
@@ -47,11 +52,6 @@
       <item value="but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
       <item value="A focus change request whose granting is delayed:" />
       <item value="Nack" />
-      <item value="Raw" />
-      <item value="Creates a new byte buffer whose content is a shared subsequence of this buffer's content." />
-      <item value="Obfucated" />
-      <item value="deduplicate" />
-      <item value="Return the width to which this Layout is ellipsizing, or {@link getWidth} if it is not doing anything special." />
     </histories>
     <option name="languageScores">
       <map>
