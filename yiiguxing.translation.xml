@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EMULATION" />
       <item value="Cornor" />
       <item value="end Update With Cornor" />
       <item value="threshold" />
@@ -15,7 +16,6 @@
       <item value="DIFFERENCE" />
       <item value="The x-coordinate of the control point on a quadratic curve" />
       <item value="Permit" />
-      <item value="EMULATION" />
       <item value="The internal state associated with this pseudorandom number generator. (The specs for the methods in this class describe the ongoing computation of this value.)" />
       <item value="Finds out if there is any intersection between two rotated rectangles." />
       <item value="inds out if there is any intersection between two rotated rectangles." />
