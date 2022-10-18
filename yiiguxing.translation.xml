@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="hierarchy" />
       <item value="REVERSE DIFFERENCE" />
       <item value="XOR" />
       <item value="UNION" />
@@ -51,7 +52,6 @@
       <item value="Specifying if haptic should be muted or not when playing audio-haptic coupled data. By default, haptic channels are disabled." />
       <item value="but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
       <item value="A focus change request whose granting is delayed:" />
-      <item value="Nack" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663915055005" />
+    <option name="lastTrimTime" value="1666098482880" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
