@@ -2,8 +2,6 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="count" />
-      <item value="he switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call {@link invalidate()}." />
       <item value="Minor" />
       <item value="Major" />
       <item value="get Touch Major" />
@@ -52,6 +50,8 @@
       <item value="expression" />
       <item value="Reads a sequence of bytes from this channel into the given buffer." />
       <item value="Reads a sequence of bytes from this channel into a subsequence of the given buffers." />
+      <item value="Resets the &lt;code&gt;count&lt;code&gt; field of this byte array output stream to zero, so that all currently accumulated output in the output stream is discarded. The output stream can be used again, reusing the already allocated buffer space." />
+      <item value="ACCUMULATING" />
     </histories>
     <option name="languageScores">
       <map>
