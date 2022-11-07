@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Universal" type="PLAIN_TEXT" />
@@ -18,9 +17,9 @@
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="jpg" approved="true" type="Image" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
