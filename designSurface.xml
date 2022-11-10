@@ -160,8 +160,10 @@
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_close_selector.xml" value="0.26851851851851855" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_cloud_storage.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_next_selector.xml" value="0.24427083333333333" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_penshape1_selector.xml" value="0.34629629629629627" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_prev_selector.xml" value="0.24427083333333333" />
         <entry key="doodle/src/main/res/drawable/doodle_video_tools_thickness2_selector.xml" value="0.32222222222222224" />
+        <entry key="doodle/src/main/res/drawable/doodle_video_tools_thickness4_selector.xml" value="0.34629629629629627" />
         <entry key="doodle/src/main/res/drawable/ic_laser_green.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_lock.xml" value="0.41770833333333335" />
         <entry key="doodle/src/main/res/drawable/ic_locked.xml" value="0.41770833333333335" />
@@ -291,6 +293,7 @@
         <entry key="session/src/main/res/layout/session_item_voice_call.xml" value="0.15476190476190477" />
         <entry key="session/src/main/res/layout/session_list_item_video.xml" value="1.0" />
         <entry key="session/src/main/res/layout/thread_activitiy_test.xml" value="0.36367753623188404" />
+        <entry key="signlibrary/src/main/res/layout/sign_activity_paint.xml" value="0.296195652173913" />
         <entry key="test/src/main/res/layout/activity_main.xml" value="0.3686594202898551" />
         <entry key="video/src/main/res/layout/video_activity_main.xml" value="0.20052083333333334" />
         <entry key="xlog/src/main/res/layout/activity_main.xml" value="0.28396739130434784" />

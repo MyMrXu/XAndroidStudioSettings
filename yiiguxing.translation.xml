@@ -2,6 +2,28 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Audio Source" />
+      <item value="Minor" />
+      <item value="Major" />
+      <item value="get Touch Major" />
+      <item value="AXIS PRESSURE" />
+      <item value="get Pressure" />
+      <item value="for the first pointer index (may be an arbitrary pointer identifier)." />
+      <item value="EMULATION" />
+      <item value="Cornor" />
+      <item value="end Update With Cornor" />
+      <item value="threshold" />
+      <item value="Gaussian Blur" />
+      <item value="cvt Color" />
+      <item value="hierarchy" />
+      <item value="REVERSE DIFFERENCE" />
+      <item value="XOR" />
+      <item value="UNION" />
+      <item value="INTERSECT" />
+      <item value="DIFFERENCE" />
+      <item value="The x-coordinate of the control point on a quadratic curve" />
+      <item value="Permit" />
+      <item value="The internal state associated with this pseudorandom number generator. (The specs for the methods in this class describe the ongoing computation of this value.)" />
       <item value="Finds out if there is any intersection between two rotated rectangles." />
       <item value="inds out if there is any intersection between two rotated rectangles." />
       <item value="Returns the correctly rounded positive square root of a {@code double} value." />
@@ -30,28 +52,6 @@
       <item value="Reads a sequence of bytes from this channel into the given buffer." />
       <item value="Reads a sequence of bytes from this channel into a subsequence of the given buffers." />
       <item value="Resets the &lt;code&gt;count&lt;code&gt; field of this byte array output stream to zero, so that all currently accumulated output in the output stream is discarded. The output stream can be used again, reusing the already allocated buffer space." />
-      <item value="ACCUMULATING" />
-      <item value="Symbol" />
-      <item value="requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
-      <item value="A focus change request whose granting is delayed: the request was successful, but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
-      <item value="Declare the intended behavior of the application with regards to audio ducking." />
-      <item value="Declare the intended behavior of the application with regards to audio ducking. See more details in the" />
-      <item value="Declare the intended behavior of the application with regards to audio ducking. See more details in the {@link AudioFocusRequest} class documentation. @param pauseOnDuck use {@code true} if the application intends to pause audio playback when losing focus with {@link AudioManagerAUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK}. If {@code true}, note that you must also set a focus listener to receive such an event, with {@link setOnAudioFocusChangeListener(OnAudioFocusChangeListener, Handler)}." />
-      <item value="a new unclaimed and unused audio session identifier, or {@link ERROR} when the system failed to generate a new session, a condition in which audio playback or recording will subsequently fail as well." />
-      <item value="Used to indicate a temporary request of audio focus, anticipated to last a short amount of time, during which no other applications, or system components, should play anything. Examples of exclusive and transient audio focus requests are voice memo recording and speech recognition, during which the system shouldn't play any notifications, and media playback should have paused." />
-      <item value="Specifying if haptic should be muted or not when playing audio-haptic coupled data. By default, haptic channels are disabled." />
-      <item value="but the requester will only be granted audio focus once the condition that prevented immediate granting has ended." />
-      <item value="A focus change request whose granting is delayed:" />
-      <item value="Nack" />
-      <item value="Raw" />
-      <item value="Creates a new byte buffer whose content is a shared subsequence of this buffer's content." />
-      <item value="Obfucated" />
-      <item value="deduplicate" />
-      <item value="Return the width to which this Layout is ellipsizing, or {@link getWidth} if it is not doing anything special." />
-      <item value="decrease" />
-      <item value="increase" />
-      <item value="Texture" />
-      <item value="Subscriber will be called in a separate thread. This is always independent from the posting thread and the main thread. Posting events never wait for subscriber methods using this mode. Subscriber methods should use this mode if their execution might take some time, e.g. for network access. Avoid triggering a large number of long running asynchronous subscriber methods at the same time to limit the number of concurrent threads. EventBus uses a thread pool to efficiently reuse threads from completed asynchronous subscriber notifications." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661761382383" />
+    <option name="lastTrimTime" value="1666929098765" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
