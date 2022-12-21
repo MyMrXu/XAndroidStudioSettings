@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Daemon" />
       <item value="SONIFICATION" />
       <item value="CONTENT TYPE SONIFICATION" />
       <item value="SPEECH" />
@@ -51,7 +52,6 @@
       <item value="STATE SETTLING" />
       <item value="The motion event that occurred during the context click." />
       <item value="Implement this method to handle generic motion events." />
-      <item value="get Voice Ratio" />
     </histories>
     <option name="languageScores">
       <map>
