@@ -86,12 +86,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="This is called when the overall system is running low on memory, and actively running processes should trim their memory usage. While the exact point at which this will be called is not defined, generally it will happen when all background process have been killed. That is, before reaching the point of killing processes hosting service and foreground UI that we would like to avoid killing. You should implement this method to release any caches or other unnecessary resources you may be holding on to. The system will perform a garbage collection for you after returning from this method. Preferably, you should implement ComponentCallbacks2.onTrimMemory from ComponentCallbacks2 to incrementally unload your resources based on various levels of memory demands. That API is available for API level 14 and higher, so you should only use this onLowMemory method as a fallback for older versions, which can be treated the same as ComponentCallbacks2.onTrimMemory with the ComponentCallbacks2.TRIM_MEMORY_COMPLETE level." />
       <item value="adjust" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
