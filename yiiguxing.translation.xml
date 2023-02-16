@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675392913931" />
+    <option name="lastTrimTime" value="1676541124492" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="eturns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
       <item value="concentus" />
       <item value="track" />
       <item value="LOW PERFORMANCE" />
@@ -96,7 +97,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
