@@ -86,6 +86,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="BATTERY STATUS FULL" />
+      <item value="BATTERY STATUS NOT CHARGING" />
+      <item value="BATTERY STATUS DISCHARGING" />
+      <item value="s Battery Status" />
+      <item value="s Battery Votage" />
+      <item value="s Battery Temperature" />
+      <item value="tmp" />
+      <item value="temp" />
+      <item value="Temp" />
+      <item value="battery Cur Temp" />
+      <item value="battery Throttling Temp" />
+      <item value="skin Throttling Temp" />
       <item value="eturns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
       <item value="concentus" />
       <item value="track" />
@@ -96,8 +108,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
