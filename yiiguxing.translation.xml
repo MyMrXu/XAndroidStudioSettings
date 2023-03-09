@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A hash map implementation of {@link IntObjectMap} that uses open addressing for keys. To minimize the memory footprint, this class uses open addressing rather than chaining. Collisions are resolved using linear probing. Deletions implement compaction, so cost of remove can approach O(N) for full maps, which makes a small loadFactor recommended." />
       <item value="Shifts this value left by the bitCount number of bits." />
       <item value="shuffle" />
       <item value="Broadcast Action: External media was removed from SD card slot, but mount point was not unmounted. The path to the mount point for the removed media is contained in the Intent.mData field" />
