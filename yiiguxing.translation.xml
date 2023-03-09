@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Shifts this value left by the bitCount number of bits." />
       <item value="shuffle" />
       <item value="Broadcast Action: External media was removed from SD card slot, but mount point was not unmounted. The path to the mount point for the removed media is contained in the Intent.mData field" />
       <item value="Returns the current capacity. The capacity is the amount of storage available for newly inserted characters, beyond which an allocation will occur. Returns: the current capacity" />
