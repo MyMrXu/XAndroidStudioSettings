@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A device type describing a headset, which is the combination of a headphones and microphone." />
+      <item value="A device type describing a pair of wired headphones." />
       <item value="ntent used to broadcast the headset's indicator status" />
       <item value="A hash map implementation of {@link IntObjectMap} that uses open addressing for keys. To minimize the memory footprint, this class uses open addressing rather than chaining. Collisions are resolved using linear probing. Deletions implement compaction, so cost of remove can approach O(N) for full maps, which makes a small loadFactor recommended." />
       <item value="Shifts this value left by the bitCount number of bits." />
@@ -114,8 +116,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
