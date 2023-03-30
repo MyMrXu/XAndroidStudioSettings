@@ -2,5 +2,19 @@
   <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
     <option name="email" value="qh13890177352@gmail.com" />
     <option name="password" value="qh13890177352" />
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="HTTP" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="7890" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
+    <option name="chatGptModel" value="gpt-4" />
+    <option name="gpt35Model" value="gpt-4" />
+    <option name="assistantApiKey" value="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" />
   </component>
 </application>
