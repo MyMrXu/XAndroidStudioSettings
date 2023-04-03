@@ -82,10 +82,12 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679887167546" />
+    <option name="lastTrimTime" value="1680490758199" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="插件专用Doodle View" />
+      <item value="Doodle Plugin Manager" />
       <item value="A device type describing a headset, which is the combination of a headphones and microphone." />
       <item value="A device type describing a pair of wired headphones." />
       <item value="ntent used to broadcast the headset's indicator status" />
@@ -116,8 +118,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="26" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
