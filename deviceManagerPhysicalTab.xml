@@ -5,12 +5,33 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RFCMA05SZML" />
+          </Key>
+        </key>
+        <name value="samsung SM-N9760" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="T1001111220810964" />
           </Key>
         </key>
         <name value="IFLYTEK CB-CTG2.0" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="2772e2dd" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
