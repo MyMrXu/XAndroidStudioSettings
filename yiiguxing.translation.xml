@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682567149456" />
+    <option name="lastTrimTime" value="1683863142649" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Square" />
       <item value="quality – Hint to the compressor, 0-100. The value is interpreted differently depending on the Bitmap.CompressFormat." />
       <item value="Write a compressed version of the bitmap to the specified outputstream. If this returns true, the bitmap can be reconstructed by passing a corresponding inputstream to BitmapFactory.decodeStream(). Note: not all Formats support all bitmap configs directly, so it is possible that the returned bitmap from BitmapFactory could be in a different bitdepth, andor may have lost per-pixel alpha (e.g. JPEG only supports opaque pixels)." />
       <item value="Sweep angle (in degrees) measured clockwise" />
