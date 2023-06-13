@@ -15,6 +15,8 @@
       <mapping ext="neunote" type="PLAIN_TEXT" />
       <mapping ext="jpg" type="PLAIN_TEXT" />
       <mapping ext="neulog" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="tck" type="PLAIN_TEXT" />
       <mapping ext="neukoclass_byte" type="PLAIN_TEXT" />
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
