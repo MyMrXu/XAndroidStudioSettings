@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685527231131" />
+    <option name="lastTrimTime" value="1688021670986" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="VALID" />
       <item value="This return value can be ignored as getOutputBuffers has been deprecated. Client should request a current buffer using on of the get-buffer or get-image methods each time one has been dequeued." />
       <item value="Additionally, this event signals that the video scaling mode may have been reset to the default." />
@@ -131,8 +132,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
