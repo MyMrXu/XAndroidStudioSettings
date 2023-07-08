@@ -82,10 +82,16 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682567149456" />
+    <option name="lastTrimTime" value="1688021670986" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
+      <item value="VALID" />
+      <item value="This return value can be ignored as getOutputBuffers has been deprecated. Client should request a current buffer using on of the get-buffer or get-image methods each time one has been dequeued." />
+      <item value="Additionally, this event signals that the video scaling mode may have been reset to the default." />
+      <item value="The output buffers have changed, the client must refer to the new set of output buffers returned by getOutputBuffers from this point on." />
+      <item value="Square" />
       <item value="quality – Hint to the compressor, 0-100. The value is interpreted differently depending on the Bitmap.CompressFormat." />
       <item value="Write a compressed version of the bitmap to the specified outputstream. If this returns true, the bitmap can be reconstructed by passing a corresponding inputstream to BitmapFactory.decodeStream(). Note: not all Formats support all bitmap configs directly, so it is possible that the returned bitmap from BitmapFactory could be in a different bitdepth, andor may have lost per-pixel alpha (e.g. JPEG only supports opaque pixels)." />
       <item value="Sweep angle (in degrees) measured clockwise" />
@@ -126,8 +132,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
