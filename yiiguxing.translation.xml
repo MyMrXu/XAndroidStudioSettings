@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Equipment Detection Activity" />
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="VALID" />
       <item value="This return value can be ignored as getOutputBuffers has been deprecated. Client should request a current buffer using on of the get-buffer or get-image methods each time one has been dequeued." />
