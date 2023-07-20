@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ACTION BTN INVERSE ROTATE" />
+      <item value="ACTION BTN ALONG ROTATE" />
       <item value="Operation not permitted" />
       <item value="op Not Permitted Start Time" />
       <item value="Equipment Detection Activity" />
@@ -135,8 +137,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
