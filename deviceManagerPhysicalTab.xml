@@ -88,6 +88,16 @@
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-YLV230509ZR8128K03621-RyYPd1._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
