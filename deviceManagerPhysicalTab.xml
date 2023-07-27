@@ -95,8 +95,9 @@
             <value value="adb-YLV230509ZR8128K03621-RyYPd1._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="seewo XTW31" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
