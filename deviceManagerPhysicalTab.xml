@@ -5,16 +5,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="2772e2dd" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="T1001111220810964" />
           </Key>
         </key>
@@ -48,6 +38,16 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="2772e2dd" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RFFNU19909101345" />
           </Key>
         </key>
@@ -65,39 +65,6 @@
         <name value="EEBBK S5" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="49c1adee" />
-          </Key>
-        </key>
-        <name value="OPPO PFJM10" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="RFCMA05SZML" />
-          </Key>
-        </key>
-        <name value="samsung SM-N9760" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-YLV230509ZR8128K03621-RyYPd1._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="seewo XTW31" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
