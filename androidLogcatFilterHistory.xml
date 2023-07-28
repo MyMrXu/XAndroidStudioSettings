@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine message:doodle" />
+        <option value="package:mine" />
         <option value="package:mine message:蓝牙 tag:NYCKAudioManagerWrap message:udp" />
         <option value="package:mine message:蓝牙 tag:NYCKAudioManagerWrap " />
         <option value="package:mine message:蓝牙" />
