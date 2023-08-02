@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:DoodleSignal" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:DoodleSignal" />
         <option value="package:mine " />
         <option value="package:mine tag:DoodleSignal tag:DoodleView(1) tag:DoodleView tag:xzwzz " />
         <option value="package:mine tag:DoodleSignal tag:DoodleView(1) tag:DoodleView " />
-        <option value="package:mine tag:DoodleSignal" />
         <option value="package:mine tag:DoodleSignal tag:YCKCommondParse tag:YCKCommandParse" />
         <option value="package:mine tag:DoodleSignal " />
-        <option value="package:mine" />
         <option value="package:mine tag" />
         <option value="package:mine tag:doodleSignal " />
         <option value="package:mine level:warn " />
