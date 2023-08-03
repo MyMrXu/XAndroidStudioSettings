@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:DoodleSignal " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:DoodleSignal " />
         <option value="package:mine " />
         <option value="tag:DoodleView " />
         <option value="tag:DoodleSignal" />
         <option value="tag:" />
-        <option value="package:mine" />
         <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:DoodleSignal  " />
         <option value="package:mine tag:YCKDoodleParse " />
