@@ -82,10 +82,12 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688021670986" />
+    <option name="lastTrimTime" value="1691147400670" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
+      <item value="Deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="VALID" />
       <item value="This return value can be ignored as getOutputBuffers has been deprecated. Client should request a current buffer using on of the get-buffer or get-image methods each time one has been dequeued." />
@@ -132,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
