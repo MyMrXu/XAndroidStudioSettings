@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NeuAccount " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine message:画板宽高和坐标系变化 message:pptWebViewSize = message:unification message:systemModel" />
@@ -13,7 +13,6 @@
         <option value="package:mine message:zoomView tag:DoodleView(9302) tag:DoodleView(9474) " />
         <option value="package:mine" />
         <option value="package:mine tag:DoodleSignal " />
-        <option value="package:mine " />
         <option value="tag:DoodleView " />
         <option value="tag:DoodleSignal" />
         <option value="tag:" />
