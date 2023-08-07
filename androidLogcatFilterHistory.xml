@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:画板宽高和坐标系变化 message:pptWebViewSize = message:unification message:systemModel" />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz" />
         <option value="package:mine message:画板宽高和坐标系变化 message:pptWebViewSize = message:unification message:systemModel" />
         <option value="package:mine message:画板宽高和坐标系变化 message:pptWebViewSize = message:unification" />
         <option value="package:mine message:画板宽高和坐标系变化 message:zoomWindow message:unification" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:YCKDoodleParse tag:YCKCommondParse message:receive" />
         <option value="package:mine tag:YCKDoodleParse tag:YCKCommondParse " />
         <option value="package:mine tag:YCKDoodleParse" />
-        <option value="package:mine tag:DoodleSignal tag:YCKDoodleParse " />
       </list>
     </option>
   </component>
