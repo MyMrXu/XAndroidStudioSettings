@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:DoodleSignal tag:DoodleView " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine tag:DoodleSignal tag:DoodleView " />
         <option value="package:mine tag:Doodle" />
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:app.neukoclass tag:yckcommondparse tag:xzwzz tag:DoodleSignal " />
         <option value="package:app.neukoclass tag:yckcommondparse tag:xzwzz " />
@@ -21,7 +23,6 @@
         <option value="package:mine message:画板宽高和坐标系变化 message:zoomWindow" />
         <option value="package:mine tag:DoodleView" />
         <option value="package:mine message:zoomView tag:DoodleView(9302) tag:DoodleView(9474) " />
-        <option value="tag:DoodleView " />
       </list>
     </option>
   </component>
