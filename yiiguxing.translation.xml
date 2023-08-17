@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Hitch Hike" />
+      <item value="Hitch Hike Space" />
       <item value="Slice Signal" />
       <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
       <item value="Deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
@@ -135,8 +137,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
