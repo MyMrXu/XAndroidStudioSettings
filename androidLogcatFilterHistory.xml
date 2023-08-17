@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Monitor " />
+    <option name="mostRecentlyUsed" value="package:mine tag:Metrix  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Metrix  " />
+        <option value="package:mine http " />
+        <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView tag:xzwzz " />
+        <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView(1) tag:xzwzz " />
+        <option value="package:mine level:warn " />
+        <option value="package:mine tag:doodlesignal tag:yckcommondparse tag:DoodleView(1) tag:xzwzz " />
+        <option value="package:mine tag:doodlesignal tag:yckcommondparse tag:DoodleView(1) " />
+        <option value="package:mine tag:doodlesignal tag:yckcommondparse " />
+        <option value="package:mine tag:YCKCommondParse tag:DoodleSignal " />
         <option value="package:mine tag:Monitor " />
         <option value="package:mine tag:Monitor" />
         <option value="package:mine" />
@@ -14,15 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine  tag:DoodleSignal tag:xzwzz tag:WhiteboardCommand" />
         <option value="package:mine  tag:DoodleSignal tag:xzwzz tag:WhiteboardCommand message:invalid" />
-        <option value="package:mine tag:DoodleSignal tag:xzwzz tag:WhiteboardCommand" />
-        <option value="package:mine tag:DoodleSignal tag:WhiteCommand tag:xzwzz tag:WhiteboardCommand" />
-        <option value="package:mine tag:DoodleSignal tag:WhiteCommand tag:xzwzz " />
-        <option value="package:mine tag:DoodleSignal tag:WhiteCommand" />
-        <option value="package:mine tag:DoodleSignal " />
-        <option value="package:mine tag:DoodleSignal tag:DoodleView tag:DoodleView(1) tag:xzwzz " />
-        <option value="package:mine tag:DoodleSignal tag:DoodleView tag:DoodleView(1) " />
-        <option value="package:mine tag:DoodleSignal tag:DoodleView " />
-        <option value="package:mine tag:Doodle" />
       </list>
     </option>
   </component>
