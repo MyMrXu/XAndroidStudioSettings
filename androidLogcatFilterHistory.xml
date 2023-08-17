@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Metrix  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:Metrix " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Metrix " />
         <option value="package:mine tag:Metrix  " />
         <option value="package:mine http " />
         <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView tag:xzwzz " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:xzwzz tag:DoodleSignal " />
         <option value="package:mine  " />
         <option value="package:mine  tag:DoodleSignal tag:xzwzz tag:WhiteboardCommand" />
-        <option value="package:mine  tag:DoodleSignal tag:xzwzz tag:WhiteboardCommand message:invalid" />
       </list>
     </option>
   </component>
