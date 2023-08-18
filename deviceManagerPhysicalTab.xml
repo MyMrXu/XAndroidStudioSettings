@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="T1001111220810964" />
+            <value value="RFFNU19909101345" />
           </Key>
         </key>
-        <name value="IFLYTEK CB-CTG2.0" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
+        <name value="HUAWEI BZT-W09" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -20,6 +20,17 @@
           </Key>
         </key>
         <name value="EEBBK S5" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="T1001111220810964" />
+          </Key>
+        </key>
+        <name value="IFLYTEK CB-CTG2.0" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
@@ -48,21 +59,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="RFFNU19909101345" />
+            <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <name value="HUAWEI BZT-W09" />
-        <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
+        <name value="EEBBK S5" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
+            <value value="R110CS0120CS000466" />
           </Key>
         </key>
-        <name value="EEBBK S5" />
+        <name value="BOE F1A600" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
