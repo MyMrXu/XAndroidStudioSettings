@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:Metrix  " />
+        <option value="package:mine http" />
         <option value="package:mine http " />
         <option value="package:mine tag:Metrix " />
-        <option value="package:mine http" />
         <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView tag:xzwzz " />
         <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView(1) tag:xzwzz " />
         <option value="package:mine level:warn " />
