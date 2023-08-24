@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.neukoclass" />
+    <option name="mostRecentlyUsed" value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
+        <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder tag:AudioSessionOut " />
+        <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder " />
         <option value="package:app.neukoclass" />
         <option value="tag:NeuApiUtils " />
         <option value="tag:" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:YCKCommondParse tag:DoodleSignal " />
         <option value="package:mine tag:Monitor " />
         <option value="package:mine tag:Monitor" />
-        <option value="package:mine" />
-        <option value="package:mine " />
-        <option value="package:mine tag:xzwzz " />
       </list>
     </option>
   </component>
