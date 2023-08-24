@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Metrix  " />
+    <option name="mostRecentlyUsed" value="tag:NeuApiUtils tag:AudioEngine " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NeuApiUtils tag:AudioEngine " />
         <option value="package:mine tag:Metrix  " />
         <option value="package:mine http" />
         <option value="package:mine http " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:MediaUdpSocket " />
         <option value="package:mine tag:mediaudpsocket " />
         <option value="package:mine tag:xzwzz tag:DoodleSignal " />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
