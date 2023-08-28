@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz " />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder tag:AudioSessionOut " />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:doodlesignal tag:yckcommondparse " />
         <option value="package:mine tag:YCKCommondParse tag:DoodleSignal " />
         <option value="package:mine tag:Monitor " />
-        <option value="package:mine tag:Monitor" />
       </list>
     </option>
   </component>
