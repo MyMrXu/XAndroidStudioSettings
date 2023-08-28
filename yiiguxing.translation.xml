@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692003235409" />
+    <option name="lastTrimTime" value="1693190419692" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="daemon" />
       <item value="op Not Permitted Start Time" />
       <item value="Hitch Hike" />
       <item value="Hitch Hike Space" />
@@ -138,8 +139,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
