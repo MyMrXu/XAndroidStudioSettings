@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:xzwzz" />
         <option value="package:mine " />
         <option value="package:mine gc" />
         <option value="package:mine audioTrack" />
@@ -9,7 +12,6 @@
         <option value="package:mine udpsignal" />
         <option value="package:mine commandclient" />
         <option value="package:mine tag:xzwzz " />
-        <option value="package:mine" />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder tag:AudioSessionOut " />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder " />
@@ -21,7 +23,6 @@
         <option value="package:mine http" />
         <option value="package:mine http " />
         <option value="package:mine tag:Metrix " />
-        <option value="package:mine  tag:doodlesignal tag:yckcommondparse tag:DoodleView tag:xzwzz " />
       </list>
     </option>
   </component>
