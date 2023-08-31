@@ -87,10 +87,19 @@
   <component name="Translation.States">
     <histories>
       <item value="Indicates that this network should be able to reach the internet." />
+      <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
+      <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data." />
+      <item value="ndicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching" />
+      <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
+      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
+      <item value="Indicates that this network is not a VPN. This capability is set by default and should be explicitly cleared for VPN networks." />
+      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default" />
+      <item value="ndicates this is a network that has the ability to reach a Wi-Fi direct peer." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
       <item value="Indicates that this network is unmetered." />
       <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
       <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data" />
-      <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
       <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
       <item value="Indicates that this network is not roaming." />
       <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
@@ -127,20 +136,11 @@
       <item value="Doodle Plugin Manager" />
       <item value="A device type describing a headset, which is the combination of a headphones and microphone." />
       <item value="A device type describing a pair of wired headphones." />
-      <item value="ntent used to broadcast the headset's indicator status" />
-      <item value="A hash map implementation of {@link IntObjectMap} that uses open addressing for keys. To minimize the memory footprint, this class uses open addressing rather than chaining. Collisions are resolved using linear probing. Deletions implement compaction, so cost of remove can approach O(N) for full maps, which makes a small loadFactor recommended." />
-      <item value="Shifts this value left by the bitCount number of bits." />
-      <item value="shuffle" />
-      <item value="Broadcast Action: External media was removed from SD card slot, but mount point was not unmounted. The path to the mount point for the removed media is contained in the Intent.mData field" />
-      <item value="Returns the current capacity. The capacity is the amount of storage available for newly inserted characters, beyond which an allocation will occur. Returns: the current capacity" />
-      <item value="BATTERY STATUS FULL" />
-      <item value="BATTERY STATUS NOT CHARGING" />
-      <item value="BATTERY STATUS DISCHARGING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
