@@ -86,6 +86,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
+      <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
+      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
       <item value="Indicates that this network should be able to reach the internet." />
       <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
       <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data." />
@@ -133,14 +136,11 @@
       <item value="Radians" />
       <item value="degree To Radians" />
       <item value="插件专用Doodle View" />
-      <item value="Doodle Plugin Manager" />
-      <item value="A device type describing a headset, which is the combination of a headphones and microphone." />
-      <item value="A device type describing a pair of wired headphones." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
