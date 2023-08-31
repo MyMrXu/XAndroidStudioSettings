@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine message:网络" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:网络" />
         <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine message:4089a4a message:callback" />
@@ -22,7 +23,6 @@
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder tag:AudioSessionOut " />
         <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder " />
         <option value="package:app.neukoclass" />
-        <option value="tag:NeuApiUtils " />
       </list>
     </option>
   </component>
