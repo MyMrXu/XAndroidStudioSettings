@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mineœ" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mineœ" />
+        <option value="package:mine tag:doodleview(1) tag:doodlesignal " />
         <option value="package:mine" />
         <option value="package:mine tag:SystemReceiver tag:NetWorkCallbackIml" />
         <option value="package:mine tag:SystemReceiver " />
@@ -21,8 +23,6 @@
         <option value="package:mine udpsignal" />
         <option value="package:mine commandclient" />
         <option value="package:mine tag:xzwzz " />
-        <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder" />
-        <option value="tag:NeuApiUtils tag:AudioEngine tag:AudioRecorder tag:AudioSessionOut " />
       </list>
     </option>
   </component>
