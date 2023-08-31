@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:SystemReceiver tag:NetWorkCallbackIml" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:SystemReceiver tag:NetWorkCallbackIml" />
         <option value="package:mine tag:SystemReceiver " />
         <option value="package:mine message:网络" />
@@ -13,7 +14,6 @@
         <option value="package:mine xzwzz" />
         <option value="package:mine tag:doodleview(1) " />
         <option value="package:mine trackId" />
-        <option value="package:mine" />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine gc" />
         <option value="package:mine audioTrack" />
