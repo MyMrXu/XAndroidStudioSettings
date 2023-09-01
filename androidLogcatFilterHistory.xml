@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Metrix " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:Metrix " />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine tag:DoodleView " />
         <option value="package:com.example.session " />
         <option value="tag:CommandClient tag:ClientForegroundService" />
