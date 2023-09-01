@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:VideoEngine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:VideoCapture tag:VideoEngine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:VideoEngine" />
+        <option value="package:mine tag:VideoCapture tag:VideoEngine " />
         <option value="package:mine " />
+        <option value="package:mine tag:VideoEngine" />
         <option value="package:mine tag:DoodleSignal " />
         <option value="package:mine [main" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:UdpSignal  " />
         <option value="package:mine tag:udpsignal  " />
         <option value="package:mine tag" />
-        <option value="package:mineœ" />
       </list>
     </option>
   </component>
