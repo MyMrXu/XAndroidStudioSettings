@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CommandClient tag:ClientForegroundService" />
+    <option name="mostRecentlyUsed" value="package:mine tag:DoodleView " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:DoodleView " />
         <option value="package:com.example.session " />
         <option value="tag:CommandClient tag:ClientForegroundService" />
         <option value="package:mine tag:CommandClient tag:ClientForegroundService" />
@@ -14,7 +15,6 @@
         <option value="package:mine tag:UdpSignal  tag:neuhtp" />
         <option value="package:mine tag:UdpSignal  " />
         <option value="package:mine tag:udpsignal  " />
-        <option value="package:mine tag:DoodleView " />
         <option value="package:mine tag" />
         <option value="package:mineœ" />
         <option value="package:mine tag:doodleview(1) tag:doodlesignal " />
