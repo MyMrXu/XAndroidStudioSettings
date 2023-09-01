@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:networkmanager tag:udpsignal " />
+    <option name="mostRecentlyUsed" value="package:com.example.session " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.session " />
         <option value="package:mine tag:networkmanager tag:udpsignal " />
         <option value="package:mine " />
         <option value="package:mine tag:UdpSignal " />
@@ -22,7 +23,6 @@
         <option value="package:mine message:4089a4a message:callback" />
         <option value="package:mine 4089a4a" />
         <option value="package:mine xzwzz" />
-        <option value="package:mine tag:doodleview(1) " />
       </list>
     </option>
   </component>
