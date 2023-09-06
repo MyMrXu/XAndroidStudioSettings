@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
         <option value="CommandClient" />
         <option value="package:mine" />
@@ -21,7 +22,6 @@
         <option value="package:mine tag:networkmanager tag:udpsignal " />
         <option value="package:mine tag:UdpSignal " />
         <option value="package:mine tag:UdpSignal  tag:neuhttp " />
-        <option value="package:mine tag:UdpSignal  tag:neuhtp" />
       </list>
     </option>
   </component>
