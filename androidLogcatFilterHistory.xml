@@ -3,6 +3,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:CommandClient" />
+        <option value="CommandClient" />
         <option value="package:mine" />
         <option value="package:mine level:warn " />
         <option value="package:mine leve" />
@@ -16,12 +18,10 @@
         <option value="package:com.example.session " />
         <option value="tag:CommandClient tag:ClientForegroundService" />
         <option value="package:mine tag:CommandClient tag:ClientForegroundService" />
-        <option value="package:mine tag:CommandClient" />
         <option value="package:mine tag:networkmanager tag:udpsignal " />
         <option value="package:mine tag:UdpSignal " />
         <option value="package:mine tag:UdpSignal  tag:neuhttp " />
         <option value="package:mine tag:UdpSignal  tag:neuhtp" />
-        <option value="package:mine tag:UdpSignal  " />
       </list>
     </option>
   </component>
