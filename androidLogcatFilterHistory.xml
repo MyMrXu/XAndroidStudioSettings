@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine level:warn " />
         <option value="package:mine leve" />
         <option value="package:mine " />
@@ -10,7 +11,6 @@
         <option value="package:mine tag:VideoEngine" />
         <option value="package:mine tag:DoodleSignal " />
         <option value="package:mine [main" />
-        <option value="package:mine" />
         <option value="package:mine tag:DoodleView tag:DoodleView(1) " />
         <option value="package:mine tag:Metrix " />
         <option value="package:mine tag:DoodleView " />
