@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693190419692" />
+    <option name="lastTrimTime" value="1693984141717" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
       <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
       <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
       <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
@@ -135,12 +136,11 @@
       <item value="Protractor" />
       <item value="Radians" />
       <item value="degree To Radians" />
-      <item value="插件专用Doodle View" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
