@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:PanelViewData" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PanelViewData" />
+        <option value="tag:PanelViewData " />
         <option value="package:mine " />
         <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
@@ -20,8 +23,6 @@
         <option value="tag:CommandClient tag:ClientForegroundService" />
         <option value="package:mine tag:CommandClient tag:ClientForegroundService" />
         <option value="package:mine tag:networkmanager tag:udpsignal " />
-        <option value="package:mine tag:UdpSignal " />
-        <option value="package:mine tag:UdpSignal  tag:neuhttp " />
       </list>
     </option>
   </component>
