@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.neukoclass " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag:PanelViewData " />
         <option value="package:app.neukoclass " />
         <option value="tag:PanelViewData" />
-        <option value="tag:PanelViewData " />
-        <option value="package:mine " />
         <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
         <option value="CommandClient" />
