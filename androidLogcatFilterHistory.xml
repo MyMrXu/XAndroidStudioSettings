@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine " />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:BaseAct" />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
@@ -18,7 +20,6 @@
         <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
         <option value="CommandClient" />
-        <option value="package:mine level:warn " />
         <option value="package:mine leve" />
         <option value="package:mine tag:VideoCapture tag:VideoEngine " />
         <option value="package:mine tag:VideoEngine" />
