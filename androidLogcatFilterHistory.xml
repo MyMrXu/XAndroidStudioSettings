@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient  tag:xzwzz tag:NeuVideoView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine VideoDecoder" />
+        <option value="package:mine tag:VideoDecoder" />
+        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient tag:vsessionin" />
+        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient tag:vsessionin:86151624397683813 tag:vsessionin:86186851719363285 " />
+        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient " />
+        <option value="package:mine" />
         <option value="package:mine tag:CommandClient  tag:xzwzz tag:NeuVideoView" />
         <option value="package:mine tag:CommandClient  tag:xzwzz " />
         <option value="package:mine tag:commandclient tag:xzwzz " />
@@ -10,19 +16,12 @@
         <option value="package:mine tag:CommandClient " />
         <option value="package:mine tag:NeuVideoView" />
         <option value="package:mine tag:CommandClient" />
-        <option value="package:mine" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:BaseAct" />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine  tag:xzwzz" />
         <option value="package:mine  " />
         <option value="package:mine tag:panelviewdata " />
-        <option value="tag:CommandClient" />
-        <option value="package:mine CommandClient" />
-        <option value="tag:PanelViewData " />
-        <option value="package:app.neukoclass " />
-        <option value="tag:PanelViewData" />
       </list>
     </option>
   </component>
