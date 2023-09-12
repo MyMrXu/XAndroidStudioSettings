@@ -1,27 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:app.neukoclass " />
     <option name="nonFavorites">
       <list>
+        <option value="package:app.neukoclass " />
+        <option value="tag:PanelViewData" />
+        <option value="tag:PanelViewData " />
         <option value="package:mine " />
-        <option value="package:mine VideoDecoder" />
-        <option value="package:mine tag:VideoDecoder" />
-        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient tag:vsessionin" />
-        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient tag:vsessionin:86151624397683813 tag:vsessionin:86186851719363285 " />
-        <option value="package:mine tag:NeuVideoView tag:xzwzz tag:CommandClient " />
-        <option value="package:mine" />
-        <option value="package:mine tag:CommandClient  tag:xzwzz tag:NeuVideoView" />
-        <option value="package:mine tag:CommandClient  tag:xzwzz " />
-        <option value="package:mine tag:commandclient tag:xzwzz " />
-        <option value="package:mine tag:xzwzz " />
-        <option value="package:mine tag:CommandClient " />
-        <option value="package:mine tag:NeuVideoView" />
+        <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
+        <option value="CommandClient" />
+        <option value="package:mine" />
         <option value="package:mine level:warn " />
-        <option value="package:mine tag:CommandClient tag:xzwzz tag:BaseAct" />
-        <option value="package:mine tag:CommandClient tag:xzwzz " />
-        <option value="package:mine  tag:xzwzz" />
-        <option value="package:mine  " />
-        <option value="package:mine tag:panelviewdata " />
+        <option value="package:mine leve" />
+        <option value="package:mine tag:VideoCapture tag:VideoEngine " />
+        <option value="package:mine tag:VideoEngine" />
+        <option value="package:mine tag:DoodleSignal " />
+        <option value="package:mine [main" />
+        <option value="package:mine tag:DoodleView tag:DoodleView(1) " />
+        <option value="package:mine tag:Metrix " />
+        <option value="package:mine tag:DoodleView " />
+        <option value="package:com.example.session " />
+        <option value="tag:CommandClient tag:ClientForegroundService" />
+        <option value="package:mine tag:CommandClient tag:ClientForegroundService" />
       </list>
     </option>
   </component>
