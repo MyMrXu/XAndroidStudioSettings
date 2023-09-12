@@ -1,12 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:app.neukoclass " />
+    <option name="mostRecentlyUsed" value="package:mine tag:VideoEngine tag:VideoCapture tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:VideoEngine tag:VideoCapture tag:xzwzz " />
+        <option value="package:mine tag:VideoEngine tag:VideoCapture " />
+        <option value="package:mine " />
+        <option value="package:mine tag:NeuVideoView tag:xzwzz " />
         <option value="package:app.neukoclass " />
         <option value="tag:PanelViewData" />
         <option value="tag:PanelViewData " />
-        <option value="package:mine " />
         <option value="package:mine Neu" />
         <option value="package:mine tag:CommandClient" />
         <option value="CommandClient" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:DoodleView tag:DoodleView(1) " />
         <option value="package:mine tag:Metrix " />
         <option value="package:mine tag:DoodleView " />
-        <option value="package:com.example.session " />
-        <option value="tag:CommandClient tag:ClientForegroundService" />
-        <option value="package:mine tag:CommandClient tag:ClientForegroundService" />
       </list>
     </option>
   </component>
