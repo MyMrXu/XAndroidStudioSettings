@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine videoCapture" />
+    <option name="mostRecentlyUsed" value="package:mine tag:VideoCapture tag:CameraTextureWrapper tag:yckvideocapture " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:VideoCapture tag:CameraTextureWrapper tag:yckvideocapture " />
+        <option value="package:mine tag:VideoCapture tag:CameraTextureWrapper" />
+        <option value="package:mine cameraOn" />
+        <option value="package:mine videoCaptureOu" />
         <option value="package:mine videoCapture" />
         <option value="package:mine tag:VideoCapture tag:YCKVideoCapture tag:videoengine " />
         <option value="package:mine camera" />
@@ -19,10 +23,6 @@
         <option value="tag:PanelViewData" />
         <option value="tag:PanelViewData " />
         <option value="package:mine Neu" />
-        <option value="package:mine tag:CommandClient" />
-        <option value="CommandClient" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine leve" />
       </list>
     </option>
   </component>
