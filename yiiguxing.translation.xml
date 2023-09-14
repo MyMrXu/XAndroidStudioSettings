@@ -82,10 +82,12 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1693984141717" />
+    <option name="lastTrimTime" value="1694662377000" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
+      <item value="is Add Sub Thread First Then Add Queue" />
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
       <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
       <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
@@ -134,13 +136,11 @@
       <item value="In the painting scene of the following two lines, the spacing should be set to be greater than or equal to 1, otherwise set to 0 and lift one of the fingers to zoom and still be able to move" />
       <item value="Http network request initiation class" />
       <item value="Protractor" />
-      <item value="Radians" />
-      <item value="degree To Radians" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
