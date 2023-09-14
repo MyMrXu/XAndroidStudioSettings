@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine cpu" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine cpu" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:CommandClient " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:VideoCapture tag:VideoEngine " />
         <option value="package:mine tag:VideoEngine" />
         <option value="package:mine tag:DoodleSignal " />
-        <option value="package:mine [main" />
       </list>
     </option>
   </component>
