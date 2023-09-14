@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine tag:CommandClient " />
         <option value="package:mine " />
+        <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine tag:CommandClient  " />
         <option value="package:mine tag:VideoEngine tag:VideoCapture tag:xzwzz " />
         <option value="package:mine tag:VideoEngine tag:VideoCapture " />
