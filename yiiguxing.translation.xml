@@ -86,6 +86,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Executes the given command at some time in the future. The command may execute in a new thread, in a pooled thread, or in the calling thread, at the discretion of the Executor implementation. Params: command – the runnable task Throws: RejectedExecutionException – if this task cannot be accepted for execution NullPointerException – if command is null" />
+      <item value="Deliver" />
+      <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread. Since: 1.5 Author: Doug Lea" />
       <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
       <item value="is Add Sub Thread First Then Add Queue" />
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
@@ -133,14 +136,11 @@
       <item value="quality – Hint to the compressor, 0-100. The value is interpreted differently depending on the Bitmap.CompressFormat." />
       <item value="Write a compressed version of the bitmap to the specified outputstream. If this returns true, the bitmap can be reconstructed by passing a corresponding inputstream to BitmapFactory.decodeStream(). Note: not all Formats support all bitmap configs directly, so it is possible that the returned bitmap from BitmapFactory could be in a different bitdepth, andor may have lost per-pixel alpha (e.g. JPEG only supports opaque pixels)." />
       <item value="Sweep angle (in degrees) measured clockwise" />
-      <item value="In the painting scene of the following two lines, the spacing should be set to be greater than or equal to 1, otherwise set to 0 and lift one of the fingers to zoom and still be able to move" />
-      <item value="Http network request initiation class" />
-      <item value="Protractor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
