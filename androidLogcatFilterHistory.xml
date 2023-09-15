@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient " />
+    <option name="mostRecentlyUsed" value="package:mine level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:warn " />
         <option value="package:mine tag:CommandClient " />
         <option value="package:mine " />
         <option value="package:mine tag:VideoCapture tag:CameraTextureWrapper tag:yckvideocapture " />
@@ -22,7 +23,6 @@
         <option value="package:app.neukoclass " />
         <option value="tag:PanelViewData" />
         <option value="tag:PanelViewData " />
-        <option value="package:mine Neu" />
       </list>
     </option>
   </component>
