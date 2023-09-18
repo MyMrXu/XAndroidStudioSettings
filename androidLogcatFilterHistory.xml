@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine tag:xzwzz" />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:doodleview(1) " />
         <option value="package:mine level:warn " />

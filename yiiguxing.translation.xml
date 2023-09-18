@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="Get the line number on which the specified text offset appears. If you ask for a position before 0, you get 0; if you ask for a position beyond the end of the text, you get the last line." />
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text. Params: useLineSpacingFromFallbacks – whether to expand linespacing based on fallback fonts Returns: this builder, useful for chaining" />
       <item value="justification Mode" />
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text" />
@@ -137,12 +138,11 @@
       <item value="The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
       <item value="Deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
-      <item value="VALID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
