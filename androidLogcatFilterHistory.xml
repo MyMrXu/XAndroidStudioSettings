@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:udpsignal  tag:RelayManager " />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz tag:udpsignal " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz tag:udpsignal " />
+        <option value="package:mine tag:xzwzz" />
+        <option value="package:mine tag:[NeuHttp] " />
+        <option value="package:mine tag:[neuhttp] " />
         <option value="package:mine tag:udpsignal  tag:RelayManager " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
@@ -10,7 +14,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine level:warn tag:xzwzz " />
         <option value="package:mine level:warn" />
-        <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:doodleview(1) " />
         <option value="package:mine tag:CommandClient " />
@@ -20,9 +23,6 @@
         <option value="package:mine videoCaptureOu" />
         <option value="package:mine videoCapture" />
         <option value="package:mine tag:VideoCapture tag:YCKVideoCapture tag:videoengine " />
-        <option value="package:mine camera" />
-        <option value="package:mine cpu" />
-        <option value="package:mine tag:CommandClient tag:xzwzz " />
       </list>
     </option>
   </component>
