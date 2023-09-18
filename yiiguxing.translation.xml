@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="445" />
     <histories>
+      <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text. Params: useLineSpacingFromFallbacks – whether to expand linespacing based on fallback fonts Returns: this builder, useful for chaining" />
       <item value="justification Mode" />
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text" />
       <item value="Set ellipsizing on the layout. Causes words that are longer than the view is wide, or exceeding the number of lines (see setMaxLines) in the case of TextUtils.TruncateAt.END or TextUtils.TruncateAt.MARQUEE, to be ellipsized instead of broken. The default is null, indicating no ellipsis is to be applied." />
@@ -137,12 +138,11 @@
       <item value="Deprecated The switch to hardware accelerated rendering in API 14 reduced the importance of the dirty rectangle. In API 21 the given rectangle is ignored entirely in favor of an internally-calculated area instead. Because of this, clients are encouraged to just call invalidate()." />
       <item value="Compute the bounds of the control points of the path, and write the answer into bounds. If the path contains 0 or 1 points, the bounds is set to (0,0,0,0)" />
       <item value="VALID" />
-      <item value="This return value can be ignored as getOutputBuffers has been deprecated. Client should request a current buffer using on of the get-buffer or get-image methods each time one has been dequeued." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
