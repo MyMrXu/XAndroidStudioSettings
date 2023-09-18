@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:warn tag:xzwzz " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:warn tag:xzwzz " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag:xzwzz " />
-        <option value="package:mine level:warn" />
         <option value="package:mine " />
+        <option value="package:mine tag:xzwzz " />
+        <option value="package:mine" />
+        <option value="package:mine level:warn " />
+        <option value="package:mine level:warn tag:xzwzz " />
+        <option value="package:mine level:warn" />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:doodleview(1) " />
@@ -20,7 +20,6 @@
         <option value="package:mine tag:VideoCapture tag:YCKVideoCapture tag:videoengine " />
         <option value="package:mine camera" />
         <option value="package:mine cpu" />
-        <option value="package:mine" />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine tag:CommandClient  " />
       </list>
