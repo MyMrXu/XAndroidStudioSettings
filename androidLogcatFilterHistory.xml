@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:xzwzz " />
+        <option value="package:mine level:warn" />
         <option value="package:mine " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag:commandclient " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine tag:CommandClient  " />
         <option value="package:mine tag:VideoEngine tag:VideoCapture tag:xzwzz " />
-        <option value="package:mine tag:VideoEngine tag:VideoCapture " />
       </list>
     </option>
   </component>
