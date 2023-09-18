@@ -86,8 +86,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
-    <option name="newTranslationDialogY" value="445" />
+    <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="The {@link LinkProperties} of the satisfying network." />
+      <item value="Whether access to the {@link Network} is blocked due to system policy." />
+      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
+      <item value="Describes the properties of a network link. A link represents a connection to a network. It may have multiple addresses and multiple gateways, multiple dns servers but only one http proxy and one network interface. Note that this is just a holder of data. Modifying it does not affect live networks" />
+      <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
+      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
       <item value="EMBEDDED BITMAP TEXT FLAG" />
       <item value="LINEAR TEXT FLAG" />
       <item value="STRIKE THRU TEXT FLAG" />
@@ -107,8 +113,6 @@
       <item value="is Add Sub Thread First Then Add Queue" />
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
       <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
-      <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
-      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
       <item value="Indicates that this network should be able to reach the internet." />
       <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
       <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data." />
@@ -134,15 +138,11 @@
       <item value="Returns a transport-specific information container. The application may cast this container to a concrete sub-class based on its knowledge of the network request. The application should be able to deal with a null return value or an invalid case, e.g. use instanceof operator to verify expected type." />
       <item value="Gets the optional bearer specific network specifier. May be null if not set." />
       <item value="Tests for the presence of a transport on this instance." />
-      <item value="daemon" />
-      <item value="op Not Permitted Start Time" />
-      <item value="Hitch Hike" />
-      <item value="Hitch Hike Space" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
