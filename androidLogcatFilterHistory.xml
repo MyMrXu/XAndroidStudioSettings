@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:commandclient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:xzwzz tag:networkmanager tag:NetWorkCallbackIml  " />
         <option value="package:mine tag:xzwzz tag:udpsignal " />
@@ -11,7 +11,6 @@
         <option value="package:mine tag:[neuhttp] " />
         <option value="package:mine tag:udpsignal  tag:RelayManager " />
         <option value="package:mine tag:xzwzz " />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine level:warn " />
         <option value="package:mine level:warn tag:xzwzz " />
