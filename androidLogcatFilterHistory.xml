@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:[AppManager] tag:neuaccount tag:[sdkinit] " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:[AppManager] tag:neuaccount tag:[sdkinit] " />
         <option value="package:mine " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:xzwzz tag:networkmanager tag:NetWorkCallbackIml  " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:VideoCapture tag:CameraTextureWrapper" />
         <option value="package:mine cameraOn" />
         <option value="package:mine videoCaptureOu" />
-        <option value="package:mine videoCapture" />
       </list>
     </option>
   </component>
