@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:commandclient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:udpsignal tag:[NeuHttp] " />
         <option value="package:mine tag:udpsignal " />
-        <option value="package:mine " />
         <option value="package:mine tag:CommandClient" />
         <option value="package:mine tag:[neuhttp] " />
         <option value="package:mine tag" />
