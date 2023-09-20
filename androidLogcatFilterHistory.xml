@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap " />
         <option value="package:mine speaker" />
@@ -12,7 +12,6 @@
         <option value="package:mine" />
         <option value="package:mine receive" />
         <option value="package:mine level:warn " />
-        <option value="package:mine " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:udpsignal tag:[NeuHttp] " />
         <option value="package:mine tag:udpsignal " />
