@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity " />
+    <option name="mostRecentlyUsed" value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:xzwzz  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:xzwzz  " />
+        <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity tag:udpsignal  " />
+        <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity tag:xzwzz " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils" />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap " />
@@ -20,9 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine tag:udpsignal tag:[NeuHttp] " />
         <option value="package:mine tag:udpsignal " />
-        <option value="package:mine tag:CommandClient" />
-        <option value="package:mine tag:[neuhttp] " />
-        <option value="package:mine tag" />
       </list>
     </option>
   </component>
