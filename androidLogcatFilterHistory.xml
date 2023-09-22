@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:xzwzz  " />
+    <option name="mostRecentlyUsed" value="package:mine tag:RelayManager tag:sdwan  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:RelayManager tag:sdwan  " />
+        <option value="package:mine tag:RelayManager tag:udpsignal " />
+        <option value="package:mine tag:RelayManager " />
+        <option value="package:mine tag:relaymanager " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:xzwzz  " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity tag:udpsignal  " />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity tag:xzwzz " />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:NYCKAudioManagerWrap" />
         <option value="package:mine tag:" />
         <option value="package:mine tag:NYC" />
-        <option value="package:mine receive" />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag:udpsignal tag:[NeuHttp] " />
-        <option value="package:mine tag:udpsignal " />
       </list>
     </option>
   </component>
