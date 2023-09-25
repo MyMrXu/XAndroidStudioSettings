@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz tag:Script " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CommandClient tag:xzwzz tag:Script " />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine tag:CommandClient " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:NYCKAudioManagerWrap " />
         <option value="package:mine speaker" />
-        <option value="package:mine tag:NYCKAudioManagerWrap" />
       </list>
     </option>
   </component>
