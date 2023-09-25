@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:commandclient " />
+        <option value="package:mine level:warn " />
         <option value="package:mine tag:c " />
         <option value="package:mine" />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:Script " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils" />
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap " />
         <option value="package:mine NeuApiUtils" />
-        <option value="package:mine tag:NYCKAudioManagerWrap " />
       </list>
     </option>
   </component>
