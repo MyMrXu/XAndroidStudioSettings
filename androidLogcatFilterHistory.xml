@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:commandclient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CommandClient tag:xzwzz " />
+        <option value="package:mine tag:CommandClient " />
+        <option value="package:mine " />
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine tag:RelayManager tag:sdwan  " />
         <option value="package:mine tag:RelayManager tag:udpsignal " />
@@ -16,13 +20,9 @@
         <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap " />
         <option value="package:mine NeuApiUtils" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine tag:NYCKAudioManagerWrap " />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine speaker" />
         <option value="package:mine tag:NYCKAudioManagerWrap" />
-        <option value="package:mine tag:" />
-        <option value="package:mine tag:NYC" />
       </list>
     </option>
   </component>
