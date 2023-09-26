@@ -82,12 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695288462708" />
+    <option name="lastTrimTime" value="1695721007867" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
+      <item value="An ordered list of 32 bit ABIs supported by this device. The most preferred ABI is the first element in the list. See SUPPORTED_ABIS and SUPPORTED_64_BIT_ABIS." />
       <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
       <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods" />
       <item value="The {@link LinkProperties} of the satisfying network." />
@@ -136,13 +138,11 @@
       <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
       <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
       <item value="The Wi-Fi Aware-specific network information include the peer's scoped link-local IPv6 address for the Wi-Fi Aware link, as well as (optionally) the port and transport protocol specified by the peer. The scoped link-local IPv6, port, and transport protocol can then be used to create a java.net.Socket connection to the peer." />
-      <item value="Wi-Fi Aware-specific network information." />
-      <item value="Returns a transport-specific information container. The application may cast this container to a concrete sub-class based on its knowledge of the network request. The application should be able to deal with a null return value or an invalid case, e.g. use instanceof operator to verify expected type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
