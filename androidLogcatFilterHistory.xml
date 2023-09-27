@@ -1,11 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine cameraOn" />
+    <option name="mostRecentlyUsed" value="package:mine encoder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine encoder" />
+        <option value="package:mine decoder" />
+        <option value="package:mine " />
+        <option value="package:mine tag:VideoEngine " />
+        <option value="package:mine tag:VId" />
+        <option value="package:mine tag:xzwzz tag:CallManager tag:okhttp.OkHttpClient " />
+        <option value="package:mine tag:xzwzz tag:CallManager " />
+        <option value="package:mine tag:xzwzz tag:" />
+        <option value="package:mine tag:CallManager " />
+        <option value="package:mine tg" />
+        <option value="package:mine session" />
         <option value="package:mine cameraOn" />
         <option value="package:mine metrix" />
-        <option value="package:mine " />
         <option value="package:mine tag:YCKLogger " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:xzwzz" />
@@ -13,16 +23,6 @@
         <option value="package:mine level:warn " />
         <option value="package:mine tag:c " />
         <option value="package:mine" />
-        <option value="package:mine tag:CommandClient tag:xzwzz tag:Script " />
-        <option value="package:mine tag:CommandClient tag:xzwzz " />
-        <option value="package:mine tag:CommandClient " />
-        <option value="package:mine tag:xzwzz " />
-        <option value="package:mine tag:RelayManager tag:sdwan  " />
-        <option value="package:mine tag:RelayManager tag:udpsignal " />
-        <option value="package:mine tag:RelayManager " />
-        <option value="package:mine tag:relaymanager " />
-        <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:xzwzz  " />
-        <option value="package:mine tag:ClassManager tag:NYCKAudioManagerWrap tag:NeuApiUtils tag:videoaroundclassactivity tag:udpsignal  " />
       </list>
     </option>
   </component>
