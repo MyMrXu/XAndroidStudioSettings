@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine encoder" />
+        <option value="package:mine" />
         <option value="package:mine decoder" />
         <option value="package:mine " />
         <option value="package:mine tag:VideoEngine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:commandclient " />
         <option value="package:mine level:warn " />
         <option value="package:mine tag:c " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
