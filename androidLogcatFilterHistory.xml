@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CommandClient" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine CommandClient" />
         <option value="package:mine " />
+        <option value="package:mine CommandClient" />
         <option value="package:mine Comma" />
         <option value="package:mine encoder" />
         <option value="package:mine" />
