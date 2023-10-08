@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine encoder" />
+    <option name="mostRecentlyUsed" value="package:mine CommandClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CommandClient" />
+        <option value="package:mine " />
+        <option value="package:mine Comma" />
         <option value="package:mine encoder" />
         <option value="package:mine" />
         <option value="package:mine decoder" />
-        <option value="package:mine " />
         <option value="package:mine tag:VideoEngine " />
         <option value="package:mine tag:VId" />
         <option value="package:mine tag:xzwzz tag:CallManager tag:okhttp.OkHttpClient " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag:commandclient " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag:c " />
       </list>
     </option>
   </component>
