@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine CommandClient" />
         <option value="package:mine Comma" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:YCKLogger " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:xzwzz" />
-        <option value="package:mine tag:commandclient " />
       </list>
     </option>
   </component>
