@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:xzwzz " />
+        <option value="package:mine tag:CommandClient tag:xzwzz" />
+        <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient tag:monitorconstant " />
+        <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient " />
         <option value="package:mine " />
+        <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine CommandClient" />
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine Comma" />
         <option value="package:mine encoder" />
         <option value="package:mine" />
@@ -19,10 +23,6 @@
         <option value="package:mine tg" />
         <option value="package:mine session" />
         <option value="package:mine cameraOn" />
-        <option value="package:mine metrix" />
-        <option value="package:mine tag:YCKLogger " />
-        <option value="package:mine level:error " />
-        <option value="package:mine tag:xzwzz" />
       </list>
     </option>
   </component>
