@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager tag:okhttp.OkHttpClient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz tag:commandclient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz tag:commandclient " />
         <option value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager " />
         <option value="package:mine tag:xzwzz tag:MediaViewModel" />
@@ -22,7 +23,6 @@
         <option value="package:mine decoder" />
         <option value="package:mine tag:VideoEngine " />
         <option value="package:mine tag:VId" />
-        <option value="package:mine tag:xzwzz tag:CallManager tag:okhttp.OkHttpClient " />
       </list>
     </option>
   </component>
