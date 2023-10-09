@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandClient tag:xzwzz" />
+    <option name="mostRecentlyUsed" value="package:mine cpurate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine cpurate" />
+        <option value="package:mine " />
         <option value="package:mine tag:CommandClient tag:xzwzz" />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient tag:monitorconstant " />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient " />
-        <option value="package:mine " />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine CommandClient" />
         <option value="package:mine tag:xzwzz " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:CallManager " />
         <option value="package:mine tg" />
         <option value="package:mine session" />
-        <option value="package:mine cameraOn" />
       </list>
     </option>
   </component>
