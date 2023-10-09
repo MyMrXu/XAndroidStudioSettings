@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine cpurate" />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine cpurate" />
+        <option value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager " />
+        <option value="package:mine tag:xzwzz tag:MediaViewModel" />
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
+        <option value="package:mine tag:xzwzz tag:CallManager " />
+        <option value="package:mine tag:okhttp.OkHttpClient " />
+        <option value="package:mine cpurate" />
         <option value="package:mine tag:CommandClient tag:xzwzz" />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient tag:monitorconstant " />
         <option value="package:mine tag:CommandClient tag:xzwzz tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:CommandClient tag:xzwzz " />
         <option value="package:mine CommandClient" />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine Comma" />
         <option value="package:mine encoder" />
         <option value="package:mine" />
@@ -18,11 +22,7 @@
         <option value="package:mine tag:VideoEngine " />
         <option value="package:mine tag:VId" />
         <option value="package:mine tag:xzwzz tag:CallManager tag:okhttp.OkHttpClient " />
-        <option value="package:mine tag:xzwzz tag:CallManager " />
         <option value="package:mine tag:xzwzz tag:" />
-        <option value="package:mine tag:CallManager " />
-        <option value="package:mine tg" />
-        <option value="package:mine session" />
       </list>
     </option>
   </component>
