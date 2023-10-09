@@ -5,8 +5,8 @@
       <list>
         <option value="package:mine tag:commandclient " />
         <option value="package:mine " />
-        <option value="package:mine level:error " />
         <option value="package:mine" />
+        <option value="package:mine level:error " />
         <option value="package:mine tag:commandclient tag:videosessionout tag:yckvideocapture " />
         <option value="package:mine tag:commandclient tag:videosessionout " />
         <option value="package:mine tag:commandclient tag:callmanager " />
