@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz" />
+    <option name="mostRecentlyUsed" value="package:mine  tag:CommandSocket tag:commandclient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:CommandSocket tag:commandclient" />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz" />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz tag:neuaccount " />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:commandclient tag:xzwzz " />
         <option value="package:mine tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:xzwzz tag:commandclient " />
-        <option value="package:mine tag:xzwzz tag:MediaViewModel tag:CallManager tag:okhttp.OkHttpClient " />
       </list>
     </option>
   </component>
