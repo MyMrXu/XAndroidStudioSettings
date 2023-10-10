@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:command" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Command" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Command" />
         <option value="package:mine tag:command" />
         <option value="package:mine" />
         <option value="package:mine tag:commandclient " />
         <option value="package:mine " />
         <option value="package:mine matrix" />
-        <option value="package:mine tag:Command" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:commandclient tag:videosessionout tag:yckvideocapture " />
         <option value="package:mine tag:commandclient tag:videosessionout " />
