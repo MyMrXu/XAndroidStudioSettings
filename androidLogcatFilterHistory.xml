@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine videoCapture" />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandSocket " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CommandSocket " />
+        <option value="package:mine " />
         <option value="package:mine videoCapture" />
         <option value="package:mine  level:warn " />
         <option value="package:mine  " />
@@ -11,13 +13,11 @@
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz tag:neuaccount " />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz " />
         <option value="package:mine  tag:CommandSocket tag:commandclient " />
-        <option value="package:mine tag:CommandSocket " />
         <option value="package:mine tag:Command" />
         <option value="package:mine tag:Command tag:xzwzz " />
         <option value="package:mine tag:command" />
         <option value="package:mine" />
         <option value="package:mine tag:commandclient " />
-        <option value="package:mine " />
         <option value="package:mine matrix" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:commandclient tag:videosessionout tag:yckvideocapture " />
