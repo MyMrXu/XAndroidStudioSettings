@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:Command" />
+        <option value="package:mine tag:Command tag:xzwzz " />
         <option value="package:mine tag:command" />
         <option value="package:mine" />
         <option value="package:mine tag:commandclient " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:xzwzz tag:CallManager " />
         <option value="package:mine cpurate" />
-        <option value="package:mine tag:CommandClient tag:xzwzz" />
       </list>
     </option>
   </component>
