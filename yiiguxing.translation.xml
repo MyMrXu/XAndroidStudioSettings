@@ -88,11 +88,14 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
+      <item value="ALL CODECS" />
+      <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods." />
+      <item value="REGULAR CODECS" />
       <item value="is Hardware Accelerated" />
       <item value="complexity Range" />
       <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
       <item value="An ordered list of 32 bit ABIs supported by this device. The most preferred ABI is the first element in the list. See SUPPORTED_ABIS and SUPPORTED_64_BIT_ABIS." />
-      <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
       <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods" />
       <item value="The {@link LinkProperties} of the satisfying network." />
       <item value="Whether access to the {@link Network} is blocked due to system policy." />
@@ -135,14 +138,11 @@
       <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data" />
       <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
       <item value="Indicates that this network is not roaming." />
-      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's DUN or tethering gateway." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="114" />
+        <entry key="ENGLISH" value="115" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
