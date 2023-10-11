@@ -82,12 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695721007867" />
+    <option name="lastTrimTime" value="1697007662432" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="is Hardware Accelerated" />
+      <item value="complexity Range" />
       <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
       <item value="An ordered list of 32 bit ABIs supported by this device. The most preferred ABI is the first element in the list. See SUPPORTED_ABIS and SUPPORTED_64_BIT_ABIS." />
       <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
@@ -136,13 +138,11 @@
       <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
       <item value="Indicates this is a network that has the ability to reach the carrier's DUN or tethering gateway." />
       <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
-      <item value="The Wi-Fi Aware-specific network information include the peer's scoped link-local IPv6 address for the Wi-Fi Aware link, as well as (optionally) the port and transport protocol specified by the peer. The scoped link-local IPv6, port, and transport protocol can then be used to create a java.net.Socket connection to the peer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="107" />
-        <entry key="ENGLISH" value="108" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
