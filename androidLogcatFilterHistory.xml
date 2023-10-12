@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn " />
+    <option name="mostRecentlyUsed" value="tag:System.err tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:System.err tag:xzwzz " />
+        <option value="System.err" />
+        <option value="package:mine " />
         <option value="level:warn " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity" />
         <option value="package:mine tag:ActivityManager " />
-        <option value="package:mine " />
         <option value="package:mine level:warn " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:CommandSocket " />
@@ -21,8 +23,6 @@
         <option value="package:mine  tag:CommandSocket tag:commandclient " />
         <option value="package:mine tag:Command" />
         <option value="package:mine tag:Command tag:xzwzz " />
-        <option value="package:mine tag:command" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
