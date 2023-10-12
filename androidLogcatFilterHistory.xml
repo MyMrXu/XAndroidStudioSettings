@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity" />
         <option value="package:mine tag:ActivityManager " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:Command tag:xzwzz " />
         <option value="package:mine tag:command" />
         <option value="package:mine" />
-        <option value="package:mine tag:commandclient " />
       </list>
     </option>
   </component>
