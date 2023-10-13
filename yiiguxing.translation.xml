@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Returns the number of milliseconds this process has return." />
+      <item value="elapsed milliseconds of the time this process has run." />
       <item value="architecture" />
       <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
       <item value="ALL CODECS" />
@@ -136,13 +138,11 @@
       <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
       <item value="Indicates that this network is unmetered." />
       <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
-      <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data" />
-      <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
