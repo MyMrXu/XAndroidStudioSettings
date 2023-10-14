@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ScriptManager tag:commandsocket tag:commandclient " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:ScriptManager tag:commandsocket tag:commandclient tag:Script " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:ScriptManager tag:commandsocket tag:commandclient tag:Script " />
+        <option value="package:mine tag:ScriptManager tag:commandsocket tag:commandclient tag:Script " />
         <option value="package:mine tag:ScriptManager tag:commandsocket tag:commandclient " />
         <option value="package:mine tag:ScriptManager tag:commandsocket " />
         <option value="package:mine tag:ScriptManager tag:commandclient  " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:CommandSocket " />
         <option value="package:mine videoCapture" />
         <option value="package:mine  level:warn " />
-        <option value="package:mine  " />
-        <option value="package:mine  tag:CommandSocket tag:commandclient" />
       </list>
     </option>
   </component>
