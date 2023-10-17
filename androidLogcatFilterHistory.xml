@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:[YCK tag:[neuhttp] " />
+    <option name="mostRecentlyUsed" value="package:mine tag:CommandSocket " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:CommandSocket " />
+        <option value="package:mine 86185302945737661" />
         <option value="package:mine tag:[YCK tag:[neuhttp] " />
         <option value="package:mine " />
         <option value="package:mine xzwzz" />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine ycklogger" />
         <option value="package:mine tag:CommandSocket tag:xzwzz" />
-        <option value="package:mine tag:CommandSocket " />
         <option value="tag:System.err tag:xzwzz " />
         <option value="System.err" />
         <option value="level:warn " />
@@ -22,7 +23,6 @@
         <option value="package:mine  " />
         <option value="package:mine  tag:CommandSocket tag:commandclient" />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz" />
-        <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz tag:neuaccount " />
       </list>
     </option>
   </component>
