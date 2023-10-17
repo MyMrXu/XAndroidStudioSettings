@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:CommandSocket tag:xzwzz" />
+    <option name="mostRecentlyUsed" value="package:mine tag:[YCK tag:[neuhttp] " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:[YCK tag:[neuhttp] " />
+        <option value="package:mine " />
+        <option value="package:mine xzwzz" />
+        <option value="package:mine tag:xzwzz " />
+        <option value="package:mine ycklogger" />
         <option value="package:mine tag:CommandSocket tag:xzwzz" />
         <option value="package:mine tag:CommandSocket " />
         <option value="tag:System.err tag:xzwzz " />
         <option value="System.err" />
-        <option value="package:mine " />
         <option value="level:warn " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity" />
         <option value="package:mine tag:ActivityManager " />
         <option value="package:mine level:warn " />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine videoCapture" />
         <option value="package:mine  level:warn " />
         <option value="package:mine  " />
         <option value="package:mine  tag:CommandSocket tag:commandclient" />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz" />
         <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz tag:neuaccount " />
-        <option value="package:mine  tag:CommandSocket tag:commandclient tag:xzwzz " />
-        <option value="package:mine  tag:CommandSocket tag:commandclient " />
-        <option value="package:mine tag:Command" />
       </list>
     </option>
   </component>
