@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:CommandSocket tag:scriptmanager tag:xzwzz " />
+        <option value="package:mine " />
         <option value="package:mine tag:CommandSocket tag:scriptmanager " />
         <option value="package:mine tag:CommandSocket " />
         <option value="package:mine 86185302945737661" />
         <option value="package:mine tag:[YCK tag:[neuhttp] " />
-        <option value="package:mine " />
         <option value="package:mine xzwzz" />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine ycklogger" />
