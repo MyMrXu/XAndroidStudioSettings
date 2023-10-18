@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:System.err tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz " />
         <option value="tag:System.err tag:xzwzz " />
         <option value="System.err" />
         <option value="package:mine " />
@@ -11,7 +12,6 @@
         <option value="package:mine tag:ActivityManager tag:HomeActivity" />
         <option value="package:mine tag:ActivityManager " />
         <option value="package:mine level:warn " />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:CommandSocket " />
         <option value="package:mine videoCapture" />
         <option value="package:mine  level:warn " />
