@@ -82,12 +82,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697007662432" />
+    <option name="lastTrimTime" value="1697598015002" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Active" />
       <item value="Returns the number of milliseconds this process has return." />
       <item value="elapsed milliseconds of the time this process has run." />
       <item value="architecture" />
@@ -137,12 +138,11 @@
       <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
       <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
       <item value="Indicates that this network is unmetered." />
-      <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
