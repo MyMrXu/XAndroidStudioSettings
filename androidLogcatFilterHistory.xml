@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:commandclient tag:xzwzz tag:commandsocket " />
+    <option name="mostRecentlyUsed" value="package:mine tag:script " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:script " />
+        <option value="package:mine tag:script tag:commandclient tag:Script " />
+        <option value="package:mine tag:script tag:commandclient tag:xzwzz " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout tag:commandclient tag:xzwzz " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout tag:commandclient " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout tag:signalmanager tag:statemachine tag:xzwzz " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout tag:signalmanager tag:statemachine " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout tag:signalmanager " />
+        <option value="package:mine tag:script  tag:videocapture tag:videosessionout " />
+        <option value="package:mine uid" />
+        <option value="package:mine " />
+        <option value="package:mine tag:commandclient tag:commandsocket " />
         <option value="package:mine tag:commandclient tag:xzwzz tag:commandsocket " />
         <option value="package:mine tag:commandclient tag:xzwzz " />
-        <option value="package:mine " />
         <option value="package:mine tag:script tag:CommandClient " />
         <option value="package:mine tag:xzwzz tag:task " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine message:reBuildScriptMulti message:rootTask tag:xzwzz tag:script " />
         <option value="package:mine message:reBuildScriptMulti message:rootTask tag:xzwzz " />
         <option value="package:mine message:reBuildScriptMulti message:rootTask" />
-        <option value="package:mine message:reBuildScriptMulti" />
-        <option value="package:mine tag:ScriptManager tag:Script tag:CommandSocket   " />
-        <option value="package:mine tag:ScriptManager tag:Script tag:commandsocket  " />
-        <option value="package:mine tag:ScriptManager tag:xzwzz tag:Script " />
-        <option value="package:mine tag:ScriptManager tag:xzwzz tag:Script tag:CommandSocket tag:CommandClient tag:Task" />
-        <option value="package:mine tag:ScriptManager tag:xzwzz tag:Script tag:CommandSocket tag:CommandClient " />
-        <option value="package:mine tag:ScriptManager tag:xzwzz tag:Script tag:CommandSocket " />
-        <option value="package:mine tag:ScriptManager tag:xzwzz" />
-        <option value="package:mine tag:CommandSocket tag:ScriptManager tag:xzwzz tag:Script " />
-        <option value="package:mine tag:CommandSocket tag:ScriptManager tag:xzwzz" />
-        <option value="package:mine tag:CommandSocket tag:scriptmanager" />
       </list>
     </option>
   </component>
