@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:script tag:xzwzz tag:commandclient " />
+    <option name="mostRecentlyUsed" value="package:mine encoder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine encoder" />
         <option value="package:mine tag:script tag:xzwzz tag:commandclient " />
         <option value="package:mine deviceId" />
         <option value="package:mine " />
@@ -13,7 +14,6 @@
         <option value="package:mine uid" />
         <option value="package:mine tag:VideoSessionOut tag:videocapture " />
         <option value="package:mine tag:VideoSessionOut" />
-        <option value="package:mine encoder" />
         <option value="package:mine tag:VideoCapture" />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:CommandClient tag:Task tag:xzwzz tag:Script " />
