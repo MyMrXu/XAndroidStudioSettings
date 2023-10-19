@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Constant" />
       <item value="Active" />
       <item value="Returns the number of milliseconds this process has return." />
       <item value="elapsed milliseconds of the time this process has run." />
@@ -137,12 +138,11 @@
       <item value="ndicates this is a network that has the ability to reach a Wi-Fi direct peer." />
       <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
       <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
-      <item value="Indicates that this network is unmetered." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
