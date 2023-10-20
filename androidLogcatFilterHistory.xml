@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine encoder" />
+    <option name="mostRecentlyUsed" value="package:mine message:encoder " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:encoder " />
         <option value="package:mine encoder" />
+        <option value="package:mine tag:MediaViewModel  " />
         <option value="package:mine tag:script tag:xzwzz tag:commandclient " />
         <option value="package:mine deviceId" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="System.err" />
         <option value="level:warn " />
         <option value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
-        <option value="package:mine tag:ActivityManager tag:HomeActivity" />
-        <option value="package:mine tag:ActivityManager " />
       </list>
     </option>
   </component>
