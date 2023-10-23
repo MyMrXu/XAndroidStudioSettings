@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout " />
+        <option value="package:mine  tag:xzwzz " />
+        <option value="package:mine  " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout tag:xzwzz tag:videocapture " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout tag:xzwzz " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:xzwzz " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:commandsocket tag:script tag:xzwzz " />
         <option value="package:mine tag:commandsocket tag:script " />
         <option value="package:mine tag:neuapiutils " />
-        <option value="package:mine uid" />
-        <option value="package:mine tag:VideoSessionOut tag:videocapture " />
       </list>
     </option>
   </component>
