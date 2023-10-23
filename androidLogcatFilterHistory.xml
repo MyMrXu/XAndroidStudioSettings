@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:Script tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:Script tag:xzwzz tag:mediaviewmodel " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:Script tag:xzwzz tag:mediaviewmodel " />
         <option value="package:mine  tag:Script tag:xzwzz " />
         <option value="package:mine  tag:Script " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout " />
@@ -22,7 +23,6 @@
         <option value="package:mine deviceId" />
         <option value="package:mine " />
         <option value="package:mine tag:commandsocket tag:script" />
-        <option value="package:mine tag:commandsocket tag:script tag:xzwzz " />
       </list>
     </option>
   </component>
