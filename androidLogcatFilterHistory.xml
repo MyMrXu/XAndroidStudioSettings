@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout tag:xzwzz tag:videocapture " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout tag:xzwzz tag:videocapture " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout tag:xzwzz " />
-        <option value="package:mine  tag:Script tag:mediaviewmodel tag:videosessionout " />
         <option value="package:mine  tag:Script tag:mediaviewmodel tag:xzwzz " />
         <option value="package:mine tag:Script tag:mediaviewmodel tag:xzwzz " />
         <option value="package:mine tag:videosessionout tag:mediaviewmodel tag:xzwzz " />
