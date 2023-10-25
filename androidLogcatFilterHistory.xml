@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz tag:doodleview " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz tag:doodleview " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine tag:Script " />
@@ -22,7 +23,6 @@
         <option value="package:mine key-frame:" />
         <option value="package:mine 每秒发送" />
         <option value="package:mine tag:xzwzz tag:mediaviewmodel   " />
-        <option value="package:mine tag:xzwzz tag:sessionviewmodel  " />
       </list>
     </option>
   </component>
