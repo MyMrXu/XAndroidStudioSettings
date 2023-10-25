@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Script " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:Script " />
         <option value="package:mine tag:MediaViewModel  tag:xzwzz tag:videosessionout " />
         <option value="package:mine tag:Script tag:xzwzz tag:videosessionout " />
@@ -12,7 +12,6 @@
         <option value="package:mine  level:warn " />
         <option value="package:mine  tag:xzwzz" />
         <option value="package:mine tag:xzwzz" />
-        <option value="package:mine " />
         <option value="package:mine onMessageStopScript" />
         <option value="package:mine message:key-frame message:视频I" />
         <option value="package:mine message:key-frame message:每秒发送" />
