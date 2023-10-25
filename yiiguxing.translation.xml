@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="If the specified rectangle intersects this rectangle, return true and set this rectangle to that intersection, otherwise return false and do not change this rectangle. No check is performed to see if either rectangle is empty. To just test for intersection, use intersects()" />
       <item value="Buffer flags associated with the buffer. A combination of BUFFER_FLAG_KEY_FRAME and BUFFER_FLAG_END_OF_STREAM. Encoded buffers that are key frames are marked with BUFFER_FLAG_KEY_FRAME. The last output buffer corresponding to the input buffer marked with BUFFER_FLAG_END_OF_STREAM will also be marked with BUFFER_FLAG_END_OF_STREAM. In some cases this could be an empty buffer, whose sole purpose is to carry the end-of-stream marker." />
       <item value="Request that the encoder produce a sync frame &quot;soon&quot;. Provide an Integer with the value 0." />
       <item value="Constant" />
@@ -137,12 +138,11 @@
       <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
       <item value="Indicates that this network is not a VPN. This capability is set by default and should be explicitly cleared for VPN networks." />
       <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default" />
-      <item value="ndicates this is a network that has the ability to reach a Wi-Fi direct peer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
