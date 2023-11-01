@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:StateMachine tag:callmanager " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:StateMachine tag:callmanager " />
+        <option value="package:mine statemachine" />
         <option value="package:mine " />
         <option value="package:mine tag:xzwzz  tag:Script tag:commandsocket tag:neuaccount " />
         <option value="package:mine tag:xzwzz  tag:Script tag:commandsocket " />
@@ -20,8 +23,6 @@
         <option value="package:mine tag:xzwzz tag:doodleview tag" />
         <option value="package:mine tag:xzwzz tag:doodleview " />
         <option value="package:mine tag:xzwzz tag:DoodleView " />
-        <option value="package:mine tag:xzwzz  tag:DoodleView " />
-        <option value="package:mine tag:comm" />
       </list>
     </option>
   </component>
