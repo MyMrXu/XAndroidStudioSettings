@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:DoodleView tag:xzwzz " />
+        <option value="package:mine tag:DoodleView tag:xzwzz tag:" />
         <option value="package:mine tag:DoodleView " />
         <option value="package:mine" />
         <option value="package:mine tag:task tag:Script " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:xzwzz tag:doodleview tag:doodlesignal" />
         <option value="package:mine tag:xzwzz tag:DoodleView tag:DoodleSignal tag:statemachine" />
         <option value="package:mine tag:xzwzz tag:DoodleView tag:DoodleSignal tag:statemachine " />
-        <option value="package:mine tag:xzwzz tag:DoodleView tag:DoodleSignal " />
       </list>
     </option>
   </component>
