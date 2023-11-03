@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="55qwvg9pzdvwo7tk" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 8 Pro" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RFFNU19909101345" />
           </Key>
         </key>
