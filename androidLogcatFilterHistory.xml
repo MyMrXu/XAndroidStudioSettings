@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz tag:neuenvironment " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NeuAccount " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz tag:neuenvironment " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] " />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:DoodleView tag:xzwzz tag:" />
         <option value="package:mine tag:DoodleView " />
-        <option value="package:mine tag:task tag:Script " />
       </list>
     </option>
   </component>
