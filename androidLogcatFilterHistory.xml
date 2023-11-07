@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:Script " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Script " />
         <option value="package:mine " />
         <option value="package:mine tag:acra " />
         <option value="package:mine tag:NeuAccount " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:DoodleView tag:xzwzz tag" />
         <option value="package:mine tag:DoodleView tag:xzwzz " />
         <option value="package:mine" />
-        <option value="package:mine tag:DoodleView tag:xzwzz tag:" />
       </list>
     </option>
   </component>
