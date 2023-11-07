@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ACRA " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NeuAccount  tag:[neuhttp] " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NeuAccount  tag:[neuhttp] " />
+        <option value="package:mine tag:NeuAccount  " />
+        <option value="package:mine tag:DoodleView tag:xzwzz tag:DoodleStackUtil " />
         <option value="package:mine tag:ACRA " />
         <option value="package:mine " />
         <option value="package:mine tag:xzwzz tag:script" />
@@ -12,7 +15,6 @@
         <option value="package:mine tag:xzwzz tag:script tag:commandclient  tag:okhttp" />
         <option value="package:mine tag:xzwzz tag:script tag:commandclient  " />
         <option value="package:mine tag:xzwzz " />
-        <option value="package:mine tag:DoodleView tag:xzwzz tag:DoodleStackUtil " />
         <option value="package:mine tag:DoodleView tag:xzwzz tag" />
         <option value="package:mine tag:DoodleView tag:xzwzz " />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:task tag:Script " />
         <option value="package:mine tag:task " />
         <option value="package:mine tag:StateMachine tag:callmanager " />
-        <option value="package:mine statemachine" />
-        <option value="package:mine tag:xzwzz  tag:Script tag:commandsocket tag:neuaccount " />
       </list>
     </option>
   </component>
