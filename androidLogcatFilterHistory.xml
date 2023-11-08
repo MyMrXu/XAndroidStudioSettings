@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:script tag:commandclient " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NeuAccount " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:script tag:commandclient " />
         <option value="package:mine " />
         <option value="package:mine tag:Script " />
         <option value="package:mine tag:acra " />
-        <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz tag:neuenvironment " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] " />
