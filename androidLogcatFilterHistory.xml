@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:script tag:commandsocket " />
+        <option value="package:mine " />
         <option value="package:mine tag:script" />
         <option value="package:mine tag:DoodleSignal tag:xzwzz " />
         <option value="package:mine tag:DoodleSignal tag:xzwzz tag:DoodleView " />
@@ -11,7 +12,6 @@
         <option value="package:mine tag:NeuAccount tag:PanelViewData" />
         <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:script tag:commandclient " />
-        <option value="package:mine " />
         <option value="package:mine tag:Script " />
         <option value="package:mine tag:acra " />
         <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz tag:neuenvironment " />
