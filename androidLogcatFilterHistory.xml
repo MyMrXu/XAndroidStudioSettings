@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:script tag:commandsocket " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:script tag:commandsocket " />
         <option value="package:mine " />
+        <option value="package:mine tag:script tag:commandsocket " />
         <option value="package:mine tag:script" />
         <option value="package:mine tag:DoodleSignal tag:xzwzz " />
         <option value="package:mine tag:DoodleSignal tag:xzwzz tag:DoodleView " />
