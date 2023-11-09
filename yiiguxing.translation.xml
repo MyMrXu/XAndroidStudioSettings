@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Detects scaling transformation gestures using the supplied {@link MotionEvent}s. The {@link android.view.ScaleGestureDetector.OnScaleGestureListener} callback will notify users when a particular gesture event has occurred. This class should only be used with {@link MotionEvent}s reported via touch. To use this class: &lt;ul&gt; &lt;li&gt;Create an instance of the {@code ScaleGestureDetectorApi27} for your {@link View} &lt;li&gt;In the {@link ViewonTouchEvent(MotionEvent)} method ensure you call {@link onTouchEvent(MotionEvent)}. The methods defined in your callback will be executed when the events occur. &lt;ul&gt;" />
       <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
       <item value="Interaction" />
       <item value="DECODE THRESHOLD TIME" />
@@ -137,12 +138,11 @@
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
       <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
       <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
