@@ -88,6 +88,8 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Query if the codec is hardware accelerated. This attribute is provided by the device manufacturer. Note that it cannot be tested for correctness." />
+      <item value="REGULAR CODECS" />
       <item value="accurate" />
       <item value="Detects scaling transformation gestures using the supplied {@link MotionEvent}s. The {@link android.view.ScaleGestureDetector.OnScaleGestureListener} callback will notify users when a particular gesture event has occurred. This class should only be used with {@link MotionEvent}s reported via touch. To use this class: &lt;ul&gt; &lt;li&gt;Create an instance of the {@code ScaleGestureDetectorApi27} for your {@link View} &lt;li&gt;In the {@link ViewonTouchEvent(MotionEvent)} method ensure you call {@link onTouchEvent(MotionEvent)}. The methods defined in your callback will be executed when the events occur. &lt;ul&gt;" />
       <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
@@ -107,7 +109,6 @@
       <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
       <item value="ALL CODECS" />
       <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods." />
-      <item value="REGULAR CODECS" />
       <item value="is Hardware Accelerated" />
       <item value="complexity Range" />
       <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
@@ -137,12 +138,11 @@
       <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
       <item value="is Add Sub Thread First Then Add Queue" />
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
-      <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
