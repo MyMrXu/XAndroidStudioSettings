@@ -82,16 +82,33 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697007662432" />
+    <option name="lastTrimTime" value="1699241246775" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Query if the codec is hardware accelerated. This attribute is provided by the device manufacturer. Note that it cannot be tested for correctness." />
+      <item value="REGULAR CODECS" />
+      <item value="accurate" />
+      <item value="Detects scaling transformation gestures using the supplied {@link MotionEvent}s. The {@link android.view.ScaleGestureDetector.OnScaleGestureListener} callback will notify users when a particular gesture event has occurred. This class should only be used with {@link MotionEvent}s reported via touch. To use this class: &lt;ul&gt; &lt;li&gt;Create an instance of the {@code ScaleGestureDetectorApi27} for your {@link View} &lt;li&gt;In the {@link ViewonTouchEvent(MotionEvent)} method ensure you call {@link onTouchEvent(MotionEvent)}. The methods defined in your callback will be executed when the events occur. &lt;ul&gt;" />
+      <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
+      <item value="Interaction" />
+      <item value="DECODE THRESHOLD TIME" />
+      <item value="The timestamp to associate with this buffer when it is sent to the Surface." />
+      <item value="add Decode Delta" />
+      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
+      <item value="If the specified rectangle intersects this rectangle, return true and set this rectangle to that intersection, otherwise return false and do not change this rectangle. No check is performed to see if either rectangle is empty. To just test for intersection, use intersects()" />
+      <item value="Buffer flags associated with the buffer. A combination of BUFFER_FLAG_KEY_FRAME and BUFFER_FLAG_END_OF_STREAM. Encoded buffers that are key frames are marked with BUFFER_FLAG_KEY_FRAME. The last output buffer corresponding to the input buffer marked with BUFFER_FLAG_END_OF_STREAM will also be marked with BUFFER_FLAG_END_OF_STREAM. In some cases this could be an empty buffer, whose sole purpose is to carry the end-of-stream marker." />
+      <item value="Request that the encoder produce a sync frame &quot;soon&quot;. Provide an Integer with the value 0." />
+      <item value="Constant" />
+      <item value="Active" />
+      <item value="Returns the number of milliseconds this process has return." />
+      <item value="elapsed milliseconds of the time this process has run." />
+      <item value="architecture" />
       <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
       <item value="ALL CODECS" />
       <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods." />
-      <item value="REGULAR CODECS" />
       <item value="is Hardware Accelerated" />
       <item value="complexity Range" />
       <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
@@ -121,28 +138,11 @@
       <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
       <item value="is Add Sub Thread First Then Add Queue" />
       <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
-      <item value="Called when the network the framework connected to for this request returns from a NetworkInfo.State.SUSPENDED state. This should always be preceded by a matching onNetworkSuspended call. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
-      <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Indicates that this network is not congested. When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
-      <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data." />
-      <item value="ndicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching" />
-      <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
-      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
-      <item value="Indicates that this network is not a VPN. This capability is set by default and should be explicitly cleared for VPN networks." />
-      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default" />
-      <item value="ndicates this is a network that has the ability to reach a Wi-Fi direct peer." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
-      <item value="Indicates that this network is unmetered." />
-      <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
-      <item value="Indicates that this network is not currently suspended. When a network is suspended, the network's IP addresses and any connections established on the network remain valid, but the network is temporarily unable to transfer data. This can happen, for example, if a cellular network experiences a temporary loss of signal, such as when driving through a tunnel, etc. A network with this capability is not suspended, so is expected to be able to transfer data" />
-      <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
-      <item value="Indicates that this network is not roaming." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="LATIN" value="1" />
       </map>
     </option>

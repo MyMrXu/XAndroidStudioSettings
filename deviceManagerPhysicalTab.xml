@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="55qwvg9pzdvwo7tk" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 8 Pro" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="RFFNU19909101345" />
           </Key>
         </key>
@@ -76,6 +87,28 @@
         <name value="BOE F1A600" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="M9YBB19118151360" />
+          </Key>
+        </key>
+        <name value="HUAWEI AGS2-W09HN" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="49c1adee" />
+          </Key>
+        </key>
+        <name value="OPPO PFJM10" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
