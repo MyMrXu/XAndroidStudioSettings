@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:NeuLive|xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:NeuLive|xzwzz|RtmpPusher" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:NeuLive|xzwzz|RtmpPusher" />
         <option value="package:mine tag~:NeuLive|xzwzz " />
         <option value="package:mine tag:NeuLive " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NeuAccount tag:PanelViewData" />
         <option value="package:mine tag:NeuAccount " />
         <option value="package:mine tag:script tag:commandclient " />
-        <option value="package:mine tag:Script " />
       </list>
     </option>
   </component>
