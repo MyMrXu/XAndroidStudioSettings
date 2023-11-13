@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz|NeuLive" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz|NeuLive" />
         <option value="package:mine " />
-        <option value="package:mine  " />
         <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz|NeuLive|YCSDK" />
         <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz" />
         <option value="package:mine tag~:CameraRecorder|RtmpPusher|xzwzz" />
