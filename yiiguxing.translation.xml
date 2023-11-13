@@ -82,12 +82,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699241246775" />
+    <option name="lastTrimTime" value="1699864952870" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
       <item value="Query if the codec is hardware accelerated. This attribute is provided by the device manufacturer. Note that it cannot be tested for correctness." />
       <item value="REGULAR CODECS" />
       <item value="accurate" />
@@ -137,12 +138,11 @@
       <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread. Since: 1.5 Author: Doug Lea" />
       <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
       <item value="is Add Sub Thread First Then Add Queue" />
-      <item value="The stroke projects out as a semicircle, with the center at the end of the path." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
