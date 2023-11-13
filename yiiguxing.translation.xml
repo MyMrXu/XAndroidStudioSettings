@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="2305" />
     <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="This indicates that the buffer contains non-media data for the muxer to process. All muxer data should start with a FOURCC header that determines the type of data. For example, when it contains Exif data sent to a MediaMuxer track of MediaFormat.MIMETYPE_IMAGE_ANDROID_HEIC type, the data must start with Exif header (&quot;Exif\0\0&quot;), followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
       <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
       <item value="Query if the codec is hardware accelerated. This attribute is provided by the device manufacturer. Note that it cannot be tested for correctness." />
       <item value="REGULAR CODECS" />
@@ -137,12 +138,11 @@
       <item value="Deliver" />
       <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread. Since: 1.5 Author: Doug Lea" />
       <item value="Executes the given task in a fixed thread pool at fix rate. @param size The size of thread in the fixed thread pool. @param task The task to execute. @param initialDelay The time to delay first execution. @param period The period between successive executions. @param unit The time unit of the initialDelay and period parameters. @param priority The priority of thread in the poll. @param &lt;T&gt; The type of the task's result." />
-      <item value="is Add Sub Thread First Then Add Queue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
