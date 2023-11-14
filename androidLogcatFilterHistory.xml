@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:rtmppusher " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:neulive tag:rtmppusher " />
+        <option value="package:mine tag:neulive " />
         <option value="package:mine " />
         <option value="package:mine tag" />
         <option value="package:mine tag:neulive tag:rtmppusher tag:xzwzz tag:ScreenRecorder " />
@@ -20,8 +23,6 @@
         <option value="package:mine tag:Doodle tag:xzwzz " />
         <option value="package:mine tag:Doodle " />
         <option value="package:mine tag:script tag:commandsocket " />
-        <option value="package:mine tag:script" />
-        <option value="package:mine tag:DoodleSignal tag:xzwzz " />
       </list>
     </option>
   </component>
