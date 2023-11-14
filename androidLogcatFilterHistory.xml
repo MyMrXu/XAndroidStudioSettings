@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Script|xzwzz" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  " />
-        <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz|NeuLive" />
-        <option value="package:mine " />
-        <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz|NeuLive|YCSDK" />
-        <option value="package:mine  tag~:CameraRecorder|RtmpPusher|xzwzz" />
-        <option value="package:mine tag~:CameraRecorder|RtmpPusher|xzwzz" />
-        <option value="package:mine tag~:CameraRecorder|RtmpPusher" />
-        <option value="package:mine tag:CameraRecorder" />
-        <option value="package:mine tag~:NeuLive|xzwzz|RtmpPusher" />
-        <option value="package:mine okhttp" />
-        <option value="package:mine tag~:NeuLive|xzwzz " />
-        <option value="package:mine tag:NeuLive " />
-        <option value="package:mine" />
         <option value="package:mine tag~:Script|xzwzz" />
         <option value="package:mine tag~:Script " />
+        <option value="package:mine " />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag" />
+        <option value="package:mine" />
         <option value="package:mine tag:Doodle tag:xzwzz " />
         <option value="package:mine tag:Doodle " />
+        <option value="package:mine tag:script tag:commandsocket " />
+        <option value="package:mine tag:script" />
+        <option value="package:mine tag:DoodleSignal tag:xzwzz " />
+        <option value="package:mine tag:DoodleSignal tag:xzwzz tag:DoodleView " />
+        <option value="package:mine tag:DoodleSignal " />
+        <option value="package:mine tag:NeuAccount tag:PanelViewData" />
+        <option value="package:mine tag:NeuAccount " />
+        <option value="package:mine tag:script tag:commandclient " />
+        <option value="package:mine tag:Script " />
+        <option value="package:mine tag:acra " />
+        <option value="package:mine tag:NeuAccount  tag:[neuhttp] tag:xzwzz tag:neuenvironment " />
       </list>
     </option>
   </component>
