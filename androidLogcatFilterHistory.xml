@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder tag:ycsdk_log " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
+        <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder " />
+        <option value="package:mine " />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher " />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:xzwzz  " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:neulive tag:RtmpPusher " />
         <option value="package:mine  tag:neuLive tag:RtmpPusher " />
         <option value="package:mine" />
-        <option value="package:mine tag:neuLive" />
       </list>
     </option>
   </component>
