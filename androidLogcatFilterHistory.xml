@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
+        <option value="package:mine tag:neulive " />
         <option value="package:mine " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine" />
@@ -20,8 +23,6 @@
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:xzwzz  " />
         <option value="package:mine tag:logreportproducer " />
-        <option value="package:mine tag" />
-        <option value="package:mine tag:script tag:xzwzz tag:CCML" />
       </list>
     </option>
   </component>
