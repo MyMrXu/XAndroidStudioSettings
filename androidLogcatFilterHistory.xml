@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
+        <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:rtmppusher " />
         <option value="package:mine " />
