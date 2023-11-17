@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine battery" />
         <option value="package:mine message:电量" />
         <option value="package:mine message:CCML" />
@@ -10,7 +11,6 @@
         <option value="package:mine tag~:Script|http|MonitorApiSer" />
         <option value="package:mine tag~:Script|http|CCML" />
         <option value="package:mine tag~:Script|http" />
-        <option value="package:mine" />
         <option value="package:mine tag~:xzwzz|Neulive|ScreenRecorder" />
         <option value="package:mine tag~:xzwzz|Neulive|Scree" />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder tag:ycsdk_log " />
