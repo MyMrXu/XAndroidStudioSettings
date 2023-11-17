@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
+    <option name="mostRecentlyUsed" value="package:mine tag:NeuLive tag:rtmppusher tag:okhttp.OkHttpClient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:NeuLive tag:rtmppusher tag:okhttp.OkHttpClient " />
+        <option value="package:mine tag:NeuLive tag:rtmppusher " />
+        <option value="package:mine " />
+        <option value="package:mine tag:NeuLive " />
+        <option value="package:mine tag:NeuLive tag:rtmppusher tag:ScreenRecorder " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive " />
-        <option value="package:mine " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine" />
         <option value="package:mine battery" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag~:xzwzz|Neulive|Scree" />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ScreenRecorder " />
-        <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher " />
-        <option value="package:mine tag:neulive tag:xzwzz  tag:rtmppusher tag:ycsdk_log " />
-        <option value="package:mine tag:neulive tag:xzwzz  " />
-        <option value="package:mine tag:logreportproducer " />
       </list>
     </option>
   </component>
