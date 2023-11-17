@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:xzwzz" />
         <option value="package:mine" />
         <option value="package:mine battery" />
         <option value="package:mine message:电量" />
@@ -21,7 +22,6 @@
         <option value="package:mine tag:logreportproducer " />
         <option value="package:mine tag" />
         <option value="package:mine tag:script tag:xzwzz tag:CCML" />
-        <option value="package:mine tag:script tag:xzwzz " />
       </list>
     </option>
   </component>
