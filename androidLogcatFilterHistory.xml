@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:videocapture " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:videocapture " />
         <option value="package:mine " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
@@ -21,7 +23,6 @@
         <option value="package:mine message:CCML" />
         <option value="package:mine tag~:BatteryInfoReport" />
         <option value="package:mine tag~:Script|http|MonitorApiSer" />
-        <option value="package:mine tag~:Script|http|CCML" />
       </list>
     </option>
   </component>
