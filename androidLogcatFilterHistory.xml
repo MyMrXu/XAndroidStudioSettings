@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:ScriptManager tag:commandsocket tag:commandclient tag:Script tag:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine tag:videocapture " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  tag:ScriptManager tag:commandsocket tag:commandclient tag:Script tag:xzwzz " />
-        <option value="package:mine  tag:ScriptManager tag:commandsocket tag:commandclient tag:Script " />
-        <option value="package:mine tag:ScriptManager tag:commandsocket tag:commandclient tag:Script " />
-        <option value="package:mine tag:ScriptManager tag:commandsocket tag:commandclient " />
-        <option value="package:mine tag:ScriptManager tag:commandsocket " />
-        <option value="package:mine tag:ScriptManager tag:commandclient  " />
-        <option value="package:mine tag:CommandClient " />
-        <option value="package:mine tag:ScriptManager tag:commandclient tag:commandsocket " />
-        <option value="package:mine tag:ScriptManager" />
+        <option value="package:mine tag:videocapture " />
         <option value="package:mine " />
-        <option value="tag:System.err tag:xzwzz " />
-        <option value="System.err" />
-        <option value="level:warn " />
-        <option value="package:mine tag:ActivityManager tag:HomeActivity tag:neuaccount " />
-        <option value="package:mine tag:ActivityManager tag:HomeActivity" />
-        <option value="package:mine tag:ActivityManager " />
-        <option value="package:mine level:warn " />
-        <option value="package:mine tag:xzwzz " />
-        <option value="package:mine tag:CommandSocket " />
-        <option value="package:mine videoCapture" />
+        <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
+        <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
+        <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log tag:ycsdk_log " />
+        <option value="package:mine tag:neulive tag:rtmppusher " />
+        <option value="package:mine tag:ycsdk_log " />
+        <option value="package:mine" />
+        <option value="package:mine tag:NeuLive tag:rtmppusher tag:ycsdk_log " />
+        <option value="package:mine tag:NeuLive tag:rtmppusher tag:okhttp.OkHttpClient " />
+        <option value="package:mine tag:NeuLive tag:rtmppusher " />
+        <option value="package:mine tag:NeuLive " />
+        <option value="package:mine tag:NeuLive tag:rtmppusher tag:ScreenRecorder " />
+        <option value="package:mine tag:neulive " />
+        <option value="package:mine tag:xzwzz" />
+        <option value="package:mine battery" />
+        <option value="package:mine message:电量" />
+        <option value="package:mine message:CCML" />
+        <option value="package:mine tag~:BatteryInfoReport" />
+        <option value="package:mine tag~:Script|http|MonitorApiSer" />
       </list>
     </option>
   </component>
