@@ -22,7 +22,6 @@
       <mapping ext="xlog" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="jpg" approved="true" type="Image" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
@@ -31,6 +30,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
