@@ -82,12 +82,12 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699864952870" />
+    <option name="lastTrimTime" value="1718766753250" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="2305" />
-    <option name="newTranslationDialogY" value="538" />
     <histories>
+      <item value="incognito" />
+      <item value="tween" />
       <item value="Extra for Intent.ACTION_BATTERY_CHANGED: integer containing the current battery temperature." />
       <item value="This indicates that the buffer contains non-media data for the muxer to process. All muxer data should start with a FOURCC header that determines the type of data. For example, when it contains Exif data sent to a MediaMuxer track of MediaFormat.MIMETYPE_IMAGE_ANDROID_HEIC type, the data must start with Exif header (&quot;Exif\0\0&quot;), followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
       <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
@@ -136,13 +136,11 @@
       <item value="Set the text direction heuristic. The text direction heuristic is used to resolve text direction per-paragraph based on the input text. The default is TextDirectionHeuristics.FIRSTSTRONG_LTR. Params: textDir – text direction heuristic for resolving bidi behavior. Returns: this builder, useful for chaining" />
       <item value="Set line spacing parameters. Each line will have its line spacing multiplied by spacingMult and then increased by spacingAdd. The default is 0.0 for spacingAdd and 1.0 for spacingMult. Params: spacingAdd – the amount of line spacing addition spacingMult – the line spacing multiplier Returns: this builder, useful for chaining See Also: android.widget.TextView.setLineSpacing" />
       <item value="Executes the given command at some time in the future. The command may execute in a new thread, in a pooled thread, or in the calling thread, at the discretion of the Executor implementation. Params: command – the runnable task Throws: RejectedExecutionException – if this task cannot be accepted for execution NullPointerException – if command is null" />
-      <item value="Deliver" />
-      <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread. Since: 1.5 Author: Doug Lea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
