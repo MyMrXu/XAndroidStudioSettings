@@ -1,0 +1,150 @@
+<application>
+  <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
+    <histories>
+      <item value="Daemon" />
+      <item value="SONIFICATION" />
+      <item value="CONTENT TYPE SONIFICATION" />
+      <item value="SPEECH" />
+      <item value="CONTENT TYPE SPEECH" />
+      <item value="draw Rect.left" />
+      <item value="get Audio Source" />
+      <item value="Minor" />
+      <item value="Major" />
+      <item value="get Touch Major" />
+      <item value="AXIS PRESSURE" />
+      <item value="get Pressure" />
+      <item value="for the first pointer index (may be an arbitrary pointer identifier)." />
+      <item value="EMULATION" />
+      <item value="Cornor" />
+      <item value="end Update With Cornor" />
+      <item value="threshold" />
+      <item value="Gaussian Blur" />
+      <item value="cvt Color" />
+      <item value="hierarchy" />
+      <item value="REVERSE DIFFERENCE" />
+      <item value="XOR" />
+      <item value="UNION" />
+      <item value="INTERSECT" />
+      <item value="DIFFERENCE" />
+      <item value="The x-coordinate of the control point on a quadratic curve" />
+      <item value="Permit" />
+      <item value="The internal state associated with this pseudorandom number generator. (The specs for the methods in this class describe the ongoing computation of this value.)" />
+      <item value="Finds out if there is any intersection between two rotated rectangles." />
+      <item value="inds out if there is any intersection between two rotated rectangles." />
+      <item value="Returns the correctly rounded positive square root of a {@code double} value." />
+      <item value="Ellipse" />
+      <item value="Accumulator threshold parameter. Only those lines are returned that get enough" />
+      <item value="Angle resolution of the accumulator in radians." />
+      <item value="RETR CCOMP" />
+      <item value="The function computes a curve length or a closed contour perimeter." />
+      <item value="cosfi" />
+      <item value="Sets the left position of this view relative to its parent. This method is meant to be called by the layout system and should not generally be called otherwise, because the property may be changed at any time by the layout." />
+      <item value="Determine if the supplied view is under the given point in the parent view's coordinate system. @param view Child view of the parent to hit test @param x X position to test in the parent's coordinate system @param y Y position to test in the parent's coordinate system @return true if the supplied view is under the given point, false otherwise" />
+      <item value="ID of the pointer that is dragging the captured child view" />
+      <item value="Capture a specific child view for dragging within the parent. The callback will be notified but {@link CallbacktryCaptureView(android.view.View, int)} will not be asked permission to capture this view. @param childView Child view to capture @param activePointerId ID of the pointer that is dragging the captured child view" />
+      <item value="@return The minimum distance in pixels that the user must travel to initiate a drag" />
+      <item value="Called to determine the Z-order of child views. @param index the ordered position to query for @return index of the view that should be ordered at position &lt;code&gt;index&lt;code&gt;" />
+      <item value="Enable edge tracking for the selected edges of the parent view. The callback's {@link CallbackonEdgeTouched(int, int)} and {@link CallbackonEdgeDragStarted(int, int)} methods will only be invoked for edges for which edge tracking has been enabled." />
+      <item value="A combination of edge flags describing the edge(s) locked" />
+      <item value="Called when the given edge may become locked. This can happen if an edge drag was preliminarily rejected before beginning, but after {@link onEdgeTouched(int, int)} was called. This method should return true to lock this edge or false to leave it unlocked. The default behavior is to leave edges unlocked." />
+      <item value="STATE IDLE" />
+      <item value="STATE SETTLING" />
+      <item value="The motion event that occurred during the context click." />
+      <item value="Implement this method to handle generic motion events." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="153" />
+        <entry key="POLISH" value="1" />
+        <entry key="MALTESE" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1671454477328" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190520000299422" />
+      </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1699864952870" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="2305" />
+    <option name="newTranslationDialogY" value="538" />
+    <histories>
+      <item value="Extra for Intent.ACTION_BATTERY_CHANGED: integer containing the current battery temperature." />
+      <item value="This indicates that the buffer contains non-media data for the muxer to process. All muxer data should start with a FOURCC header that determines the type of data. For example, when it contains Exif data sent to a MediaMuxer track of MediaFormat.MIMETYPE_IMAGE_ANDROID_HEIC type, the data must start with Exif header (&quot;Exif\0\0&quot;), followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
+      <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
+      <item value="Query if the codec is hardware accelerated. This attribute is provided by the device manufacturer. Note that it cannot be tested for correctness." />
+      <item value="REGULAR CODECS" />
+      <item value="accurate" />
+      <item value="Detects scaling transformation gestures using the supplied {@link MotionEvent}s. The {@link android.view.ScaleGestureDetector.OnScaleGestureListener} callback will notify users when a particular gesture event has occurred. This class should only be used with {@link MotionEvent}s reported via touch. To use this class: &lt;ul&gt; &lt;li&gt;Create an instance of the {@code ScaleGestureDetectorApi27} for your {@link View} &lt;li&gt;In the {@link ViewonTouchEvent(MotionEvent)} method ensure you call {@link onTouchEvent(MotionEvent)}. The methods defined in your callback will be executed when the events occur. &lt;ul&gt;" />
+      <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
+      <item value="Interaction" />
+      <item value="DECODE THRESHOLD TIME" />
+      <item value="The timestamp to associate with this buffer when it is sent to the Surface." />
+      <item value="add Decode Delta" />
+      <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
+      <item value="If the specified rectangle intersects this rectangle, return true and set this rectangle to that intersection, otherwise return false and do not change this rectangle. No check is performed to see if either rectangle is empty. To just test for intersection, use intersects()" />
+      <item value="Buffer flags associated with the buffer. A combination of BUFFER_FLAG_KEY_FRAME and BUFFER_FLAG_END_OF_STREAM. Encoded buffers that are key frames are marked with BUFFER_FLAG_KEY_FRAME. The last output buffer corresponding to the input buffer marked with BUFFER_FLAG_END_OF_STREAM will also be marked with BUFFER_FLAG_END_OF_STREAM. In some cases this could be an empty buffer, whose sole purpose is to carry the end-of-stream marker." />
+      <item value="Request that the encoder produce a sync frame &quot;soon&quot;. Provide an Integer with the value 0." />
+      <item value="Constant" />
+      <item value="Active" />
+      <item value="Returns the number of milliseconds this process has return." />
+      <item value="elapsed milliseconds of the time this process has run." />
+      <item value="architecture" />
+      <item value="Use in MediaCodecList to enumerate all codecs, even ones that are not suitable for regular (buffer-to-buffer) decoding or encoding. These include codecs, for example, that only work with special input or output surfaces, such as secure-only or tunneled-only codecs." />
+      <item value="ALL CODECS" />
+      <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods." />
+      <item value="is Hardware Accelerated" />
+      <item value="complexity Range" />
+      <item value="The name of the instruction set (CPU type + ABI convention) of native code. Deprecated Use SUPPORTED_ABIS instead." />
+      <item value="An ordered list of 32 bit ABIs supported by this device. The most preferred ABI is the first element in the list. See SUPPORTED_ABIS and SUPPORTED_64_BIT_ABIS." />
+      <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods" />
+      <item value="The {@link LinkProperties} of the satisfying network." />
+      <item value="Whether access to the {@link Network} is blocked due to system policy." />
+      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object." />
+      <item value="Describes the properties of a network link. A link represents a connection to a network. It may have multiple addresses and multiple gateways, multiple dns servers but only one http proxy and one network interface. Note that this is just a holder of data. Modifying it does not affect live networks" />
+      <item value="Called when the network corresponding to this request changes LinkProperties. Starting with Build.VERSION_CODES.O this method is guaranteed to be called immediately after onAvailable. Do NOT call getNetworkCapabilities(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose link properties have changed. linkProperties – The new LinkProperties for this network." />
+      <item value="Called when access to the specified network is blocked or unblocked. Do NOT call getNetworkCapabilities(Network) or getLinkProperties(Network) or other synchronous ConnectivityManager methods in this callback as this is prone to race conditions : calling these methods while in a callback may return an outdated or even a null object. Params: network – The Network whose blocked status has changed. blocked – The blocked status of this Network." />
+      <item value="EMBEDDED BITMAP TEXT FLAG" />
+      <item value="LINEAR TEXT FLAG" />
+      <item value="STRIKE THRU TEXT FLAG" />
+      <item value="text – the text start – the start of the line end – the end of the line spanstartv – the start of the span lineHeight – the line height fm – font metrics of the paint, in integers" />
+      <item value="Get the line number on which the specified text offset appears. If you ask for a position before 0, you get 0; if you ask for a position beyond the end of the text, you get the last line." />
+      <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text. Params: useLineSpacingFromFallbacks – whether to expand linespacing based on fallback fonts Returns: this builder, useful for chaining" />
+      <item value="justification Mode" />
+      <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text" />
+      <item value="Set ellipsizing on the layout. Causes words that are longer than the view is wide, or exceeding the number of lines (see setMaxLines) in the case of TextUtils.TruncateAt.END or TextUtils.TruncateAt.MARQUEE, to be ellipsized instead of broken. The default is null, indicating no ellipsis is to be applied." />
+      <item value="et break strategy, useful for selecting high quality or balanced paragraph layout options. The default is Layout.BREAK_STRATEGY_SIMPLE. Params: breakStrategy – break strategy for paragraph layout Returns: this builder, useful for chaining See Also: android.widget.TextView.setBreakStrategy" />
+      <item value="Set the text direction heuristic. The text direction heuristic is used to resolve text direction per-paragraph based on the input text. The default is TextDirectionHeuristics.FIRSTSTRONG_LTR. Params: textDir – text direction heuristic for resolving bidi behavior. Returns: this builder, useful for chaining" />
+      <item value="Set line spacing parameters. Each line will have its line spacing multiplied by spacingMult and then increased by spacingAdd. The default is 0.0 for spacingAdd and 1.0 for spacingMult. Params: spacingAdd – the amount of line spacing addition spacingMult – the line spacing multiplier Returns: this builder, useful for chaining See Also: android.widget.TextView.setLineSpacing" />
+      <item value="Executes the given command at some time in the future. The command may execute in a new thread, in a pooled thread, or in the calling thread, at the discretion of the Executor implementation. Params: command – the runnable task Throws: RejectedExecutionException – if this task cannot be accepted for execution NullPointerException – if command is null" />
+      <item value="Deliver" />
+      <item value="The Executor implementations provided in this package implement ExecutorService, which is a more extensive interface. The ThreadPoolExecutor class provides an extensible thread pool implementation. The Executors class provides convenient factory methods for these Executors. Memory consistency effects: Actions in a thread prior to submitting a Runnable object to an Executor happen-before its execution begins, perhaps in another thread. Since: 1.5 Author: Doug Lea" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
+        <entry key="LATIN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>

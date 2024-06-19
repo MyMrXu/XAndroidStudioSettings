@@ -1,0 +1,10 @@
+<templateSet group="Kotlin">
+  <template name="loge" value="android.util.Log.e(&quot;xzwzz&quot;, &quot;$METHOD_NAME$: $content$&quot;, $exception$)" description="print message to control" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
