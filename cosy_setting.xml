@@ -38,6 +38,10 @@
             <list>
               <option value="如何做到微信加载一万条消息" />
               <option value="从代码方面来讲，如何做到加载一万条消息不卡顿" />
+              <option value="android IM消息页面如何加载一万条数据不卡顿" />
+              <option value="如何做到像微信那样无延迟加载" />
+              <option value="基于上上一条回答这个问题" />
+              <option value="/explain code" />
             </list>
           </value>
         </entry>

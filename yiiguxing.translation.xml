@@ -86,6 +86,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="registration failed" />
+      <item value="is invalid" />
+      <item value="is traditional chinese" />
+      <item value="reword" />
       <item value="incognito" />
       <item value="tween" />
       <item value="Extra for Intent.ACTION_BATTERY_CHANGED: integer containing the current battery temperature." />
@@ -132,15 +136,11 @@
       <item value="justification Mode" />
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text" />
       <item value="Set ellipsizing on the layout. Causes words that are longer than the view is wide, or exceeding the number of lines (see setMaxLines) in the case of TextUtils.TruncateAt.END or TextUtils.TruncateAt.MARQUEE, to be ellipsized instead of broken. The default is null, indicating no ellipsis is to be applied." />
-      <item value="et break strategy, useful for selecting high quality or balanced paragraph layout options. The default is Layout.BREAK_STRATEGY_SIMPLE. Params: breakStrategy – break strategy for paragraph layout Returns: this builder, useful for chaining See Also: android.widget.TextView.setBreakStrategy" />
-      <item value="Set the text direction heuristic. The text direction heuristic is used to resolve text direction per-paragraph based on the input text. The default is TextDirectionHeuristics.FIRSTSTRONG_LTR. Params: textDir – text direction heuristic for resolving bidi behavior. Returns: this builder, useful for chaining" />
-      <item value="Set line spacing parameters. Each line will have its line spacing multiplied by spacingMult and then increased by spacingAdd. The default is 0.0 for spacingAdd and 1.0 for spacingMult. Params: spacingAdd – the amount of line spacing addition spacingMult – the line spacing multiplier Returns: this builder, useful for chaining See Also: android.widget.TextView.setLineSpacing" />
-      <item value="Executes the given command at some time in the future. The command may execute in a new thread, in a pooled thread, or in the calling thread, at the discretion of the Executor implementation. Params: command – the runnable task Throws: RejectedExecutionException – if this task cannot be accepted for execution NullPointerException – if command is null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="CHINESE" value="141" />
+        <entry key="ENGLISH" value="142" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
