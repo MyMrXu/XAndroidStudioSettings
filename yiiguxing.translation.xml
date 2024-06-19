@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="To set it up with the default style, call this method in your Activity's onCreate method:" />
       <item value="registration failed" />
       <item value="is invalid" />
       <item value="is traditional chinese" />
@@ -135,12 +136,11 @@
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text. Params: useLineSpacingFromFallbacks – whether to expand linespacing based on fallback fonts Returns: this builder, useful for chaining" />
       <item value="justification Mode" />
       <item value="Set whether to respect the ascent and descent of the fallback fonts that are used in displaying the text (which is needed to avoid text from consecutive lines running into each other). If set, fallback fonts that end up getting used can increase the ascent and descent of the lines that they are used on. For backward compatibility reasons, the default is false, but setting this to true is strongly recommended. It is required to be true if text could be in languages like Burmese or Tibetan where text is typically much taller or deeper than Latin text" />
-      <item value="Set ellipsizing on the layout. Causes words that are longer than the view is wide, or exceeding the number of lines (see setMaxLines) in the case of TextUtils.TruncateAt.END or TextUtils.TruncateAt.MARQUEE, to be ellipsized instead of broken. The default is null, indicating no ellipsis is to be applied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="LATIN" value="1" />
       </map>
     </option>

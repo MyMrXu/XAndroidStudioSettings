@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
