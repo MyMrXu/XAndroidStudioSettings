@@ -1,5 +1,6 @@
 <application>
   <component name="CosySettings">
+    <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
         <option name="allowReportUsage" value="true" />
@@ -23,12 +24,24 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="false" />
+            <option name="enable" value="true" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
         </option>
       </ChangeUserSettingParams>
+    </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="UCOO|1812318604044868">
+          <value>
+            <list>
+              <option value="如何做到微信加载一万条消息" />
+              <option value="从代码方面来讲，如何做到加载一万条消息不卡顿" />
+            </list>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </application>
