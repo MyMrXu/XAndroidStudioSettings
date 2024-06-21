@@ -1,5 +1,7 @@
 <application>
   <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="$USER_HOME$/.lingma" />
     <option name="manualOpenLocalModel" value="true" />
     <option name="parameter">
       <ChangeUserSettingParams>
@@ -13,7 +15,7 @@
                 <option name="modelLevel" value="large" />
               </CloudModelAutoTrigger>
             </option>
-            <option name="enable" value="true" />
+            <option name="enable" value="false" />
             <option name="manualTrigger">
               <CloudModelManualTrigger>
                 <option name="generateLength" value="level_2" />
@@ -24,7 +26,7 @@
         </option>
         <option name="local">
           <LocalModelParam>
-            <option name="enable" value="true" />
+            <option name="enable" value="false" />
             <option name="inferenceMode" value="auto" />
             <option name="maxCandidateNum" value="3" />
           </LocalModelParam>
@@ -62,5 +64,6 @@
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="upgradeStrategy" value="forbid" />
   </component>
 </application>
