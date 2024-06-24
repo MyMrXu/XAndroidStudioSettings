@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718766753250" />
+    <option name="lastTrimTime" value="1719199300426" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="apply group description" />
       <item value="switch join audit" />
       <item value="解散群聊" />
       <item value="reduce" />
@@ -135,12 +136,11 @@
       <item value="ALL CODECS" />
       <item value="Use in MediaCodecList to enumerate only codecs that are suitable for regular (buffer-to-buffer) decoding or encoding. NOTE: These are the codecs that are returned prior to API 21, using the now deprecated static methods." />
       <item value="is Hardware Accelerated" />
-      <item value="complexity Range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
