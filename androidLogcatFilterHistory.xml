@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.qyqy.ucoo " />
+        <option value="package:com.qyqy.ucoo level:error " />
         <option value="package:com.qyqy.ucoo tag:xzwzz" />
         <option value="package:mine tag:xzwzz " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:neulive " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine battery" />
-        <option value="package:mine message:电量" />
       </list>
     </option>
   </component>
