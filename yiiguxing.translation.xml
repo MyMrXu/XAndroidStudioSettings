@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Spirit" />
       <item value="overseas" />
       <item value="inclusive" />
       <item value="group request decline" />
@@ -135,12 +136,11 @@
       <item value="Constant" />
       <item value="Active" />
       <item value="Returns the number of milliseconds this process has return." />
-      <item value="elapsed milliseconds of the time this process has run." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
