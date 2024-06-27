@@ -9,11 +9,11 @@
               <candidates>
                 <CandidateBitRate>
                   <option name="bitRate" value="1000000" />
-                  <option name="score" value="668" />
+                  <option name="score" value="636" />
                 </CandidateBitRate>
                 <CandidateBitRate>
                   <option name="bitRate" value="500000" />
-                  <option name="score" value="334" />
+                  <option name="score" value="302" />
                 </CandidateBitRate>
               </candidates>
             </BitRateTracker>
