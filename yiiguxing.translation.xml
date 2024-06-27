@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Sets the host's ViewModelStore used by the NavController to store ViewModels at the navigation graph level. This is required to call [getViewModelStoreOwner] and should generally be called for you by your [NavHost]." />
       <item value="Accusate" />
       <item value="report" />
       <item value="report accusate" />
@@ -135,12 +136,11 @@
       <item value="Distance in pixels a touch can wander before we think the user is scrolling" />
       <item value="If the specified rectangle intersects this rectangle, return true and set this rectangle to that intersection, otherwise return false and do not change this rectangle. No check is performed to see if either rectangle is empty. To just test for intersection, use intersects()" />
       <item value="Buffer flags associated with the buffer. A combination of BUFFER_FLAG_KEY_FRAME and BUFFER_FLAG_END_OF_STREAM. Encoded buffers that are key frames are marked with BUFFER_FLAG_KEY_FRAME. The last output buffer corresponding to the input buffer marked with BUFFER_FLAG_END_OF_STREAM will also be marked with BUFFER_FLAG_END_OF_STREAM. In some cases this could be an empty buffer, whose sole purpose is to carry the end-of-stream marker." />
-      <item value="Request that the encoder produce a sync frame &quot;soon&quot;. Provide an Integer with the value 0." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
