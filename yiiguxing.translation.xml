@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="opposite sex flow" />
       <item value="Segment" />
       <item value="on segment success" />
       <item value="sonLiteral is deprecated for public use and no longer available. Please use JsonPrimitive instead" />
@@ -135,12 +136,11 @@
       <item value="Detects scaling transformation gestures using the supplied {@link MotionEvent}s. The {@link android.view.ScaleGestureDetector.OnScaleGestureListener} callback will notify users when a particular gesture event has occurred. This class should only be used with {@link MotionEvent}s reported via touch. To use this class: &lt;ul&gt; &lt;li&gt;Create an instance of the {@code ScaleGestureDetectorApi27} for your {@link View} &lt;li&gt;In the {@link ViewonTouchEvent(MotionEvent)} method ensure you call {@link onTouchEvent(MotionEvent)}. The methods defined in your callback will be executed when the events occur. &lt;ul&gt;" />
       <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
       <item value="Interaction" />
-      <item value="DECODE THRESHOLD TIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
