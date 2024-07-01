@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1719199300426" />
+    <option name="lastTrimTime" value="1719802143978" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Segment" />
       <item value="on segment success" />
       <item value="sonLiteral is deprecated for public use and no longer available. Please use JsonPrimitive instead" />
       <item value="Creates a [JsonPrimitive] from the given number." />
@@ -135,12 +136,11 @@
       <item value="Restarts the last activity immediately after a crash. If an activity is restarted, the org.acra.scheduler.RestartingAdministrator.EXTRA_ACTIVITY_RESTART_AFTER_CRASH extra will contain a boolean true. Note that this might interact badly with the crash dialog." />
       <item value="Interaction" />
       <item value="DECODE THRESHOLD TIME" />
-      <item value="The timestamp to associate with this buffer when it is sent to the Surface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
