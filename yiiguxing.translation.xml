@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="welfare center navigator" />
       <item value="URL UNION AGREEMENT" />
       <item value="URL COMMITMENT LETTER" />
       <item value="URL COOPERATION AGREEMENT" />
@@ -135,12 +136,11 @@
       <item value="similar" />
       <item value="cause the entirety of the content to be recomposed instead of just the places where in the composition the local value is used." />
       <item value="tracked" />
-      <item value="are not tracked by the composer and changing the value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
