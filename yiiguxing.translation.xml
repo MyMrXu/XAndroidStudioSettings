@@ -86,6 +86,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="URL UNION AGREEMENT" />
+      <item value="URL COMMITMENT LETTER" />
+      <item value="URL COOPERATION AGREEMENT" />
       <item value="Returns a new persistent list of the specified elements." />
       <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
       <item value="A generic immutable ordered collection of elements. Methods in this interface support only read-only access to the immutable list. Modification operations are supported through the [PersistentList] interface. Implementors of this interface take responsibility to be immutable. Once constructed they must contain the same elements in the same order. @param E the type of elements contained in the list. The immutable list is covariant on its element type." />
@@ -133,14 +136,11 @@
       <item value="cause the entirety of the content to be recomposed instead of just the places where in the composition the local value is used." />
       <item value="tracked" />
       <item value="are not tracked by the composer and changing the value" />
-      <item value="Create a [CompositionLocal] key that can be provided using [CompositionLocalProvider]. Unlike [compositionLocalOf], reads of a [staticCompositionLocalOf] are not tracked by the composer and changing the value provided in the [CompositionLocalProvider] call will cause the entirety of the content to be recomposed instead of just the places where in the composition the local value is used. This lack of tracking, however, makes a [staticCompositionLocalOf] more efficient when the value provided is highly unlikely to or will never change. For example, the android context, font loaders, or similar shared values, are unlikely to change for the components in the content of a the [CompositionLocalProvider] and should consider using a [staticCompositionLocalOf]. A color, or other theme like value, might change or even be animated therefore a [compositionLocalOf] should be used. [staticCompositionLocalOf] creates a [ProvidableCompositionLocal] which can be used in a a call to [CompositionLocalProvider]. Similar to [MutableList] vs. [List], if the key is made public as [CompositionLocal] instead of [ProvidableCompositionLocal], it can be read using [CompositionLocal.current] but not re-provided. @param defaultFactory a value factory to supply a value when a value is not provided. This factory is called when no value is provided through a [CompositionLocalProvider] of the caller of the component using [CompositionLocal.current]. If no reasonable default can be provided then consider throwing an exception." />
-      <item value="Schedule [effect] to run when the current composition completes successfully and applies changes. [SideEffect] can be used to apply side effects to objects managed by the composition that are not backed by [snapshots][androidx.compose.runtime.snapshots.Snapshot] so as not to leave those objects in an inconsistent state if the current composition operation fails. [effect] will always be run on the composition's apply dispatcher and appliers are never run concurrent with themselves, one another, applying changes to the composition tree, or running [RememberObserver] event callbacks. [SideEffect]s are always run after [RememberObserver] event callbacks. A [SideEffect] runs after every recomposition. To launch an ongoing task spanning potentially many recompositions, see [LaunchedEffect]. To manage an event subscription or other object lifecycle, see [DisposableEffect]." />
-      <item value="[Immutable] can be used to mark class as producing immutable instances. The immutability of the class is not validated and is a promise by the type that all publicly accessible properties and fields will not change after the instance is constructed. This is a stronger promise than `val` as it promises that the value will never change not only that values cannot be changed through a setter. [Immutable] is used by composition which enables composition optimizations that can be performed based on the assumption that values read from the type will not change. See [StableMarker] for additional details. `data` classes that only contain `val` properties that do not have custom getters can safely be marked as [Immutable] if the types of properties are either primitive types or also [Immutable]: @sample androidx.compose.runtime.samples.simpleImmutableClass Marking `Person` immutable allows calls the `PersonView` [Composable] function to be skipped if it is the same `person` as it was during the last composition. @see StableMarker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
