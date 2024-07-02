@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Do not pay for dispatch here, it's never necessary" />
+      <item value="UNDISPATCHED" />
       <item value="relative three children" />
       <item value="A high-priority mutation that can only be interrupted by other [PreventUserInput] priority operations. [PreventUserInput] priority should be used for operations that user input should not be able to interrupt." />
       <item value="Expansion" />
@@ -134,13 +136,11 @@
       <item value="incognito" />
       <item value="tween" />
       <item value="Extra for Intent.ACTION_BATTERY_CHANGED: integer containing the current battery temperature." />
-      <item value="This indicates that the buffer contains non-media data for the muxer to process. All muxer data should start with a FOURCC header that determines the type of data. For example, when it contains Exif data sent to a MediaMuxer track of MediaFormat.MIMETYPE_IMAGE_ANDROID_HEIC type, the data must start with Exif header (&quot;Exif\0\0&quot;), followed by the TIFF header (See JEITA CP-3451C Section 4.5.2.)" />
-      <item value="Control whether a fragment instance is retained across Activity re-creation (such as from a configuration change). If set, the fragment lifecycle will be slightly different when an activity is recreated:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
