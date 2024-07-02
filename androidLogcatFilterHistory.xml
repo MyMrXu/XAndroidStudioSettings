@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.qyqy.ucoo /upload" />
+    <option name="mostRecentlyUsed" value="package:com.qyqy.ucoo tag~:AppAsrManager|retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.qyqy.ucoo tag~:AppAsrManager|retrofit " />
         <option value="package:com.qyqy.ucoo /upload" />
         <option value="package:com.qyqy.ucoo " />
         <option value="package:com.qyqy.ucoo tag:xzwzz " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:NeuLive tag:rtmppusher tag:okhttp.OkHttpClient " />
         <option value="package:mine tag:NeuLive tag:rtmppusher " />
         <option value="package:mine tag:NeuLive " />
-        <option value="package:mine tag:NeuLive tag:rtmppusher tag:ScreenRecorder " />
       </list>
     </option>
   </component>
