@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.qyqy.ucoo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.qyqy.ucoo" />
         <option value="package:com.qyqy.ucoo tag~:retrofit " />
         <option value="package:com.qyqy.ucoo tag~:AppAsrManager|retrofit " />
@@ -12,7 +12,6 @@
         <option value="package:com.qyqy.ucoo tag:xzwzz" />
         <option value="package:com.qyqy.ucoo level:error " />
         <option value="package:mine tag:xzwzz " />
-        <option value="package:mine " />
         <option value="package:mine tag:videocapture " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
