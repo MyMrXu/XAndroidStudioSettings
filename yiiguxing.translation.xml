@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Called whenever the widget configuration changes. If the parent widget rebuilds and requests that this location in the tree update to display a new widget with the same [runtimeType] and [Widget.key], the framework will update the [widget] property of this [State] object to refer to the new widget and then call this method with the previous widget as an argument. Override this method to respond when the [widget] changes (e.g., to start implicit animations). The framework always calls [build] after calling [didUpdateWidget], which means any calls to [setState] in [didUpdateWidget] are redundant. {@macro flutter.widgets.State.initState} Implementations of this method should start with a call to the inherited method, as in `super.didUpdateWidget(oldWidget)`. _See the discussion at [Element.rebuild] for more information on when this method is called._" />
       <item value="[MutableScatterMap] is a container with a [Map]-like interface based on a flat hash table implementation (the keyvalue mappings are not stored by nodes but directly into arrays). The underlying implementation is designed to avoid all allocations on insertion, removal, retrieval, and iteration. Allocations may still happen on insertion when the underlying storage needs to grow to accommodate newly added entries to the table. In addition, this implementation minimizes memory usage by avoiding the use of separate objects to hold keyvalue pairs." />
       <item value="Make this drawable mutable. This operation cannot be reversed. A mutable drawable is guaranteed to not share its state with any other drawable. This is especially useful when you need to modify properties of drawables loaded from resources. By default, all drawables instances loaded from the same resource share a common state; if you modify the state of one instance, all the other instances will receive the same modification. Calling this method on a mutable Drawable will have no effect. @return This drawable. @see ConstantState @see getConstantState()" />
       <item value="welfare center navigator" />
@@ -135,7 +136,6 @@
       <item value="The list of current entries in the backstack. The last item in this list is the item that will be displayed by [NavHost]. May become empty if you pop all the items off the backstack." />
       <item value="is wider screen" />
       <item value="are unlikely to change for the components in the content of a the [CompositionLocalProvider] and should consider using a [staticCompositionLocalOf]." />
-      <item value="similar" />
     </histories>
     <option name="languageScores">
       <map>
