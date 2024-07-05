@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="captcha" />
       <item value="consult the PlatformDispatcher directly" />
       <item value="Look up the current FlutterView from the context via View.of(context) or consult the PlatformDispatcher directly instead." />
       <item value="opaque" />
@@ -135,12 +136,11 @@
       <item value="reduce" />
       <item value="展開" />
       <item value="Pops all destinations off the backstack up to the destination that meets the condition of the [predicate] and replaces them with [newDestinations]." />
-      <item value="Creates and sets a new backstack filled with [entries]. You should use existing entries from [backstack] to preserve their identities and associated components (lifecycles, saved states, view models). New entries can be created with [navEntry] method. Any new rearrangement, duplication and removal of existing entries is a valid change. Use this method when none of the built-in extension methods ([navigate], [pop], [replaceLast] and their variations) suits your need. This function does not guarantee thread-safety and is intended to be called only from the main thread. @param action an optional parameter, used as a hint for [AnimatedNavHost] to select a transition animation. In all other cases it doesn't affect anything. Existing types of actions may be used: [NavAction.Navigate], [NavAction.Replace] or [NavAction.Pop]. You may also extend [NavAction] interface to create new actions appropriate for your use case." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
