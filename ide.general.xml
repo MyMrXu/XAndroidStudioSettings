@@ -4,14 +4,15 @@
     <option name="reopenLastProject" value="false" />
     <option name="searchInBackground" value="true" />
     <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="-1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
   </component>
   <component name="Registry">
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="ide.images.show.chessboard" value="true" />
-    <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
     <entry key="ide.experimental.ui" value="true" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
