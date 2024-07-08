@@ -1,7 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
+        <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
+        <option value="package:mine tag:FlutterBoost_java" />
         <option value="package:mine " />
         <option value="package:com.qyqy.ucoo" />
         <option value="package:com.qyqy.ucoo tag~:retrofit " />
@@ -18,10 +23,6 @@
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:rtmppusher " />
         <option value="package:mine tag:ycsdk_log " />
-        <option value="package:mine" />
-        <option value="package:mine tag:NeuLive tag:rtmppusher tag:ycsdk_log " />
-        <option value="package:mine tag:NeuLive tag:rtmppusher tag:okhttp.OkHttpClient " />
-        <option value="package:mine tag:NeuLive tag:rtmppusher " />
       </list>
     </option>
   </component>
