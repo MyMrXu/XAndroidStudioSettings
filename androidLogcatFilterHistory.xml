@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AccountManager|MMKVManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:AccountManager|MMKVManager" />
+        <option value="package:mine tag~:AccountManager|MMKVManagerx" />
+        <option value="package:mine tag~:AccountManager " />
         <option value="package:mine" />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:videocapture " />
         <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
         <option value="package:mine tag:neulive tag:rtmppusher tag~:ycsdk_log|xzwzz " />
-        <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log tag:ycsdk_log " />
-        <option value="package:mine tag:neulive tag:rtmppusher " />
-        <option value="package:mine tag:ycsdk_log " />
       </list>
     </option>
   </component>
