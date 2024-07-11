@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Regular" />
       <item value="experimental material 3 api" />
       <item value="Diagonal" />
       <item value="Subtracts the other value from this value" />
@@ -135,7 +136,6 @@
       <item value="Spirit" />
       <item value="overseas" />
       <item value="inclusive" />
-      <item value="group request decline" />
     </histories>
     <option name="languageScores">
       <map>
