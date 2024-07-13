@@ -6,6 +6,12 @@
           <value>
             <BitRateTracker>
               <option name="bitRate" value="2000000" />
+              <candidates>
+                <CandidateBitRate>
+                  <option name="bitRate" value="1000000" />
+                  <option name="score" value="334" />
+                </CandidateBitRate>
+              </candidates>
             </BitRateTracker>
           </value>
         </entry>
