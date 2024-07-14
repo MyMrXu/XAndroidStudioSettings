@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="no Relation" />
       <item value="安全" />
       <item value="WK Sensitive Words Provider" />
       <item value="Regular" />
@@ -135,7 +136,6 @@
       <item value="Accusate" />
       <item value="report" />
       <item value="report accusate" />
-      <item value="Spirit" />
     </histories>
     <option name="languageScores">
       <map>
