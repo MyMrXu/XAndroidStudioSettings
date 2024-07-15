@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="check box" />
       <item value="80 ff 000000" />
       <item value="user capaid" />
       <item value="certification number" />
@@ -135,7 +136,6 @@
       <item value="Creating a literal unquoted value of `null` (as in, `value == &quot;null&quot;`) is forbidden. If you want to create JSON null literal, use [JsonNull] object, otherwise, use [JsonPrimitive]." />
       <item value="Sets the host's ViewModelStore used by the NavController to store ViewModels at the navigation graph level. This is required to call [getViewModelStoreOwner] and should generally be called for you by your [NavHost]." />
       <item value="Accusate" />
-      <item value="report" />
     </histories>
     <option name="languageScores">
       <map>
