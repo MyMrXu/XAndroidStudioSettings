@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1720403272741" />
+    <option name="lastTrimTime" value="1721015803682" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="certification number" />
       <item value="WK Sensitive Words Provider" />
       <item value="Regular" />
       <item value="experimental material 3 api" />
@@ -135,12 +136,11 @@
       <item value="report" />
       <item value="report accusate" />
       <item value="Spirit" />
-      <item value="overseas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
       </map>
