@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="user capaid" />
       <item value="certification number" />
       <item value="WK Sensitive Words Provider" />
       <item value="Regular" />
@@ -135,14 +136,14 @@
       <item value="Accusate" />
       <item value="report" />
       <item value="report accusate" />
-      <item value="Spirit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="209" />
         <entry key="ENGLISH" value="209" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>
   </component>
