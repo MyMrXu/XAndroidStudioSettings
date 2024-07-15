@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping pattern="244023349-112978196" type="AUTO_DETECTED" />
+      <mapping pattern="244023349-2053529072" type="AUTO_DETECTED" />
       <mapping pattern="android-monitor" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
