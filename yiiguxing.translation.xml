@@ -82,12 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1720403272741" />
+    <option name="lastTrimTime" value="1721015803682" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="no Relation" />
-      <item value="安全" />
+      <item value="check box" />
+      <item value="80 ff 000000" />
+      <item value="user capaid" />
+      <item value="certification number" />
       <item value="WK Sensitive Words Provider" />
       <item value="Regular" />
       <item value="experimental material 3 api" />
@@ -134,15 +136,14 @@
       <item value="Creating a literal unquoted value of `null` (as in, `value == &quot;null&quot;`) is forbidden. If you want to create JSON null literal, use [JsonNull] object, otherwise, use [JsonPrimitive]." />
       <item value="Sets the host's ViewModelStore used by the NavController to store ViewModels at the navigation graph level. This is required to call [getViewModelStoreOwner] and should generally be called for you by your [NavHost]." />
       <item value="Accusate" />
-      <item value="report" />
-      <item value="report accusate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>
   </component>
