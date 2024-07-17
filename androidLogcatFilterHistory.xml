@@ -1,17 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:xzwzz " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine" />
+        <option value="package:mine tag~:xzwzz " />
+        <option value="package:mine " />
         <option value="package:mine tag~:AccountManager|MMKVManager" />
         <option value="package:mine tag~:AccountManager|MMKVManagerx" />
         <option value="package:mine tag~:AccountManager " />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
         <option value="package:mine tag:FlutterBoost_java" />
-        <option value="package:mine " />
         <option value="package:com.qyqy.ucoo" />
         <option value="package:com.qyqy.ucoo tag~:retrofit " />
         <option value="package:com.qyqy.ucoo tag~:AppAsrManager|retrofit " />
