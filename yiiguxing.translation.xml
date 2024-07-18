@@ -86,6 +86,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="&lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. The Iterator provided in method {@link iterator()} is &lt;em&gt;not&lt;em&gt; guaranteed to traverse the elements of the PriorityBlockingQueue in any particular order. If you need ordered traversal, consider using {@code Arrays.sort(pq.toArray())}. Also, method {@code drainTo} can be used to &lt;em&gt;remove&lt;em&gt; some or all elements in priority order and place them in another collection." />
+      <item value="A priority queue relying on {@linkplain Comparable natural ordering} also does not permit insertion of non-comparable objects (doing so results in {@code ClassCastException})." />
+      <item value="This class does not permit {@code null} elements." />
+      <item value="attempted additions may fail due to resource exhaustion (causing {@code OutOfMemoryError})." />
+      <item value="While this queue is logically unbounded," />
+      <item value="Compares this object with the specified object for order. Returns zero if this object is equal to the specified [other] object, a negative number if it's less than [other], or a positive number if it's greater than [other]." />
       <item value="WK REDPACKET" />
       <item value="Creates a [State] object whose [State.value] is the result of [calculation]. The result of calculation will be cached in such a way that calling [State.value] repeatedly will not cause [calculation] to be executed multiple times, but reading [State.value] will cause all [State] objects that got read during the [calculation] to be read in the current [Snapshot], meaning that this will correctly subscribe to the derived state objects if the value is being read in an observed context such as a [Composable] function. Derived states without mutation policy trigger updates on each dependency change. To avoid invalidation on update, provide suitable [SnapshotMutationPolicy] through [derivedStateOf] overload." />
       <item value="check box" />
@@ -130,17 +136,11 @@
       <item value="set expansion" />
       <item value="message expansion change listener" />
       <item value="set message expansion listener" />
-      <item value="opposite sex flow" />
-      <item value="Segment" />
-      <item value="on segment success" />
-      <item value="sonLiteral is deprecated for public use and no longer available. Please use JsonPrimitive instead" />
-      <item value="Creates a [JsonPrimitive] from the given number." />
-      <item value="Creating a literal unquoted value of `null` (as in, `value == &quot;null&quot;`) is forbidden. If you want to create JSON null literal, use [JsonNull] object, otherwise, use [JsonPrimitive]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
