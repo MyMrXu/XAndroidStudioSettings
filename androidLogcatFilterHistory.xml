@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine Destination" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Destination" />
+        <option value="package:mine " />
+        <option value="package:mine tag~:xzwzz|Destination" />
         <option value="package:mine" />
         <option value="package:mine tag~:xzwzz " />
-        <option value="package:mine " />
         <option value="package:mine tag~:AccountManager|MMKVManager" />
         <option value="package:mine tag~:AccountManager|MMKVManagerx" />
         <option value="package:mine tag~:AccountManager " />
@@ -21,8 +23,6 @@
         <option value="package:com.qyqy.ucoo tag:xzwzz" />
         <option value="package:com.qyqy.ucoo level:error " />
         <option value="package:mine tag:xzwzz " />
-        <option value="package:mine tag:videocapture " />
-        <option value="package:mine tag:neulive tag:rtmppusher tag:ycsdk_log " />
       </list>
     </option>
   </component>
