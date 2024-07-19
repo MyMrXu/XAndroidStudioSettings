@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine attach" />
         <option value="package:mine Destination" />
         <option value="package:mine tag~:xzwzz|Destination" />
-        <option value="package:mine" />
-        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine tag~:AccountManager|MMKVManager" />
         <option value="package:mine tag~:AccountManager|MMKVManagerx" />
         <option value="package:mine tag~:AccountManager " />
