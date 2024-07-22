@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager">
-    <laf themeId="ExperimentalLightWithLightHeader" />
+    <laf themeId="JetBrainsLightTheme" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="Solarized Light (Alternate)" />
       <laf-to-scheme laf="ExperimentalLightWithLightHeader" scheme="Solarized Light (Alternate)" />
