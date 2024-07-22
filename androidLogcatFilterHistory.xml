@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.qyqy.keya tag~:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.qyqy.keya tag~:xzwzz " />
+        <option value="package:com.qyqy.ucoo tag~:xzwzz" />
+        <option value="package:com.qyqy.ucoo" />
+        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine O" />
         <option value="package:mine" />
-        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine attach" />
         <option value="package:mine Destination" />
         <option value="package:mine tag~:xzwzz|Destination" />
@@ -15,13 +19,10 @@
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
         <option value="package:mine tag:FlutterBoost_java" />
-        <option value="package:com.qyqy.ucoo" />
         <option value="package:com.qyqy.ucoo tag~:retrofit " />
         <option value="package:com.qyqy.ucoo tag~:AppAsrManager|retrofit " />
         <option value="package:com.qyqy.ucoo /upload" />
         <option value="package:com.qyqy.ucoo " />
-        <option value="package:com.qyqy.ucoo tag:xzwzz " />
-        <option value="package:com.qyqy.ucoo tag:xzwzz" />
       </list>
     </option>
   </component>
