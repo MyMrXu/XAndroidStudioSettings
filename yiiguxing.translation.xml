@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
+      <item value="SCROLL STATE SETTLING" />
       <item value="Some device read data very slow with uri, but fast with file path. &lt;br&gt; Reference: &lt;a href='https:github.combumptechglideissues4174'&gt;https:github.combumptechglideissues4174&lt;a&gt; &lt;p&gt; When setting android:requestLegacyExternalStorage=&quot;true&quot;&lt;br&gt; and Build.VERSION.SDK_INT &lt;= Build.VERSION_CODES.Q, The app can read media with File API (like FileInputStream). &lt;p&gt; Note: When get an uri from file, use 'uri.getPath()' rather than 'uri.toString()' to File API." />
       <item value="[Key] for previous page if more data can be loaded in that direction, `null` otherwise." />
       <item value="otherwise" />
@@ -134,13 +136,11 @@
       <item value="You can set the annotation processor argument (`room.schemaLocation`) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When `room.schemaLocation` is set, Room will check this variable and if it is set to `true`, the database schema will be exported into the given folder. Value of `exportSchema` is `true` by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). @return Whether the schema should be exported to the given folder when the `room.schemaLocation` argument is set. Defaults to `true`." />
       <item value="Do not pay for dispatch here, it's never necessary" />
       <item value="UNDISPATCHED" />
-      <item value="relative three children" />
-      <item value="A high-priority mutation that can only be interrupted by other [PreventUserInput] priority operations. [PreventUserInput] priority should be used for operations that user input should not be able to interrupt." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
