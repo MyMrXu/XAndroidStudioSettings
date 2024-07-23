@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721015803682" />
+    <option name="lastTrimTime" value="1721703512755" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Some device read data very slow with uri, but fast with file path. &lt;br&gt; Reference: &lt;a href='https:github.combumptechglideissues4174'&gt;https:github.combumptechglideissues4174&lt;a&gt; &lt;p&gt; When setting android:requestLegacyExternalStorage=&quot;true&quot;&lt;br&gt; and Build.VERSION.SDK_INT &lt;= Build.VERSION_CODES.Q, The app can read media with File API (like FileInputStream). &lt;p&gt; Note: When get an uri from file, use 'uri.getPath()' rather than 'uri.toString()' to File API." />
       <item value="[Key] for previous page if more data can be loaded in that direction, `null` otherwise." />
       <item value="otherwise" />
       <item value="[Key] for next page if more data can be loaded in that direction, `null` otherwise." />
@@ -135,12 +136,11 @@
       <item value="UNDISPATCHED" />
       <item value="relative three children" />
       <item value="A high-priority mutation that can only be interrupted by other [PreventUserInput] priority operations. [PreventUserInput] priority should be used for operations that user input should not be able to interrupt." />
-      <item value="Expansion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
