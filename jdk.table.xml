@@ -106,7 +106,9 @@
           </root>
         </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root url="file://$USER_HOME$/Env/sdk/sources/android-34" type="simple" />
+          </root>
         </sourcePath>
       </roots>
       <additional sdk="android-34" />
