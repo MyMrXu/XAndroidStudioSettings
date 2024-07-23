@@ -64,6 +64,7 @@
       </map>
     </option>
     <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
     <option name="showInlineNextTips" value="false" />
     <option name="upgradeStrategy" value="forbid" />
   </component>
