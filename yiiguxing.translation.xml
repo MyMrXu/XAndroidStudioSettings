@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="true if the callback consumed the long click, false otherwise." />
       <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
       <item value="Compares if this State is greater or equal to the given `state`. @param state State to compare with @return true if this State is greater or equal to the given `state`" />
       <item value="launchWhenCreated is deprecated as it can lead to wasted resources &quot; + &quot;in some cases. Replace with suspending repeatOnLifecycle to run the block whenever &quot; + &quot;the Lifecycle state is at least Lifecycle.State.CREATED." />
@@ -135,7 +136,6 @@
       <item value="persistent" />
       <item value="Returns an empty persistent list." />
       <item value="adjust" />
-      <item value="User implemented custom auto migration spec. @return The auto migration specification or none if the user has not implemented a spec" />
     </histories>
     <option name="languageScores">
       <map>
