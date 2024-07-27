@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="if true gone the load more view" />
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation restarts from the beginning." />
       <item value="Sets how many times the animation should be repeated. If the repeat count is 0, the animation is never repeated. If the repeat count is greater than 0 or {@link LottieDrawableINFINITE}, the repeat mode will be taken into account. The repeat count is 0 by default." />
       <item value="true if the callback consumed the long click, false otherwise." />
@@ -135,7 +136,6 @@
       <item value="Returns a new persistent list of the specified elements." />
       <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
       <item value="A generic immutable ordered collection of elements. Methods in this interface support only read-only access to the immutable list. Modification operations are supported through the [PersistentList] interface. Implementors of this interface take responsibility to be immutable. Once constructed they must contain the same elements in the same order. @param E the type of elements contained in the list. The immutable list is covariant on its element type." />
-      <item value="persistent" />
     </histories>
     <option name="languageScores">
       <map>
