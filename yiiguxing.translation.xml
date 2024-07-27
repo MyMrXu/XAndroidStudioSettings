@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Partition" />
       <item value="request withdrawal widget" />
       <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
       <item value="Compares if this State is greater or equal to the given `state`. @param state State to compare with @return true if this State is greater or equal to the given `state`" />
@@ -135,12 +136,11 @@
       <item value="A generic immutable ordered collection of elements. Methods in this interface support only read-only access to the immutable list. Modification operations are supported through the [PersistentList] interface. Implementors of this interface take responsibility to be immutable. Once constructed they must contain the same elements in the same order. @param E the type of elements contained in the list. The immutable list is covariant on its element type." />
       <item value="persistent" />
       <item value="Returns an empty persistent list." />
-      <item value="adjust" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="223" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="CHINESE" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
