@@ -397,7 +397,7 @@
         </classPath>
         <javadocPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Env/sdk/docs/reference" type="simple" />
+            <root url="http://developer.android.com/reference/" type="simple" />
           </root>
         </javadocPath>
         <sourcePath>
@@ -424,13 +424,11 @@
         </classPath>
         <javadocPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Env/sdk/docs/reference" type="simple" />
+            <root url="http://developer.android.com/reference/" type="simple" />
           </root>
         </javadocPath>
         <sourcePath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/Env/sdk/sources/android-29" type="simple" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
       <additional sdk="android-29" />
