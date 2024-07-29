@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine xzwzz" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine xzwzz" />
         <option value="package:mine tag~:WKConnection" />
-        <option value="package:mine " />
         <option value="package:mine WKConnection" />
         <option value="package:mine" />
         <option value="level:error " />
