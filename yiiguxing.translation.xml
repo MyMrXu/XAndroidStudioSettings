@@ -86,6 +86,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="inclusive" />
+      <item value="Pop up to a given destination before navigating. This pops all non-matching destinations from the back stack until this destination is found." />
+      <item value="Whether the `popUpTo` destination should be popped from the back stack." />
       <item value="Attempts to pop the controller's back stack. Analogous to when the user presses the system [Back][android.view.KeyEvent.KEYCODE_BACK] button when the associated navigation host has focus. @return true if the stack was popped at least once and the user has been navigated to another destination, false otherwise" />
       <item value="Pop up to a given destination before navigating. This pops all non-matching destinations from the back stack until this destination is found. @param destinationId The destination to pop up to, clearing all intervening destinations. @param inclusive true to also pop the given destination from the back stack. @param saveState true if the back stack and the state of all destinations between the current destination and [destinationId] should be saved for later restoration via [setRestoreState] or the `restoreState` attribute using the same ID as [popUpToId] (note: this matching ID is true whether [inclusive] is true or false). @return this Builder @see NavOptions.popUpToId @see NavOptions.isPopUpToInclusive" />
       <item value="stage" />
@@ -133,14 +136,11 @@
       <item value="welfare center navigator" />
       <item value="URL UNION AGREEMENT" />
       <item value="URL COMMITMENT LETTER" />
-      <item value="URL COOPERATION AGREEMENT" />
-      <item value="Returns a new persistent list of the specified elements." />
-      <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
