@@ -3,7 +3,7 @@
     <jdk version="2">
       <name value="jbr-17" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 17.0.10 - aarch64" />
+      <version value="JetBrains Runtime 17.0.10" />
       <homePath value="$APPLICATION_HOME_DIR$/jbr/Contents/Home" />
       <roots>
         <annotationsPath>
@@ -49,6 +49,8 @@
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.internal.le" type="simple" />
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.internal.opt" type="simple" />
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.internal.vm.compiler.management" type="simple" />
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.jartool" type="simple" />
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.javadoc" type="simple" />
             <root url="jrt://$APPLICATION_HOME_DIR$/jbr/Contents/Home!/jdk.jcmd" type="simple" />
