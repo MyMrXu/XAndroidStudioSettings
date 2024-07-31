@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Receipt" />
       <item value="is Mutual Deleted" />
       <item value="if true gone the load more view" />
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation restarts from the beginning." />
@@ -135,7 +136,6 @@
       <item value="URL COMMITMENT LETTER" />
       <item value="URL COOPERATION AGREEMENT" />
       <item value="Returns a new persistent list of the specified elements." />
-      <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
     </histories>
     <option name="languageScores">
       <map>
