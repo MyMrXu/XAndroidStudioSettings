@@ -82,18 +82,15 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1722310431866" />
+    <option name="lastTrimTime" value="1721703512755" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="inclusive" />
-      <item value="Pop up to a given destination before navigating. This pops all non-matching destinations from the back stack until this destination is found." />
-      <item value="Whether the `popUpTo` destination should be popped from the back stack." />
-      <item value="Attempts to pop the controller's back stack. Analogous to when the user presses the system [Back][android.view.KeyEvent.KEYCODE_BACK] button when the associated navigation host has focus. @return true if the stack was popped at least once and the user has been navigated to another destination, false otherwise" />
-      <item value="Pop up to a given destination before navigating. This pops all non-matching destinations from the back stack until this destination is found. @param destinationId The destination to pop up to, clearing all intervening destinations. @param inclusive true to also pop the given destination from the back stack. @param saveState true if the back stack and the state of all destinations between the current destination and [destinationId] should be saved for later restoration via [setRestoreState] or the `restoreState` attribute using the same ID as [popUpToId] (note: this matching ID is true whether [inclusive] is true or false). @return this Builder @see NavOptions.popUpToId @see NavOptions.isPopUpToInclusive" />
-      <item value="stage" />
-      <item value="Partition" />
-      <item value="request withdrawal widget" />
+      <item value="is Mutual Deleted" />
+      <item value="if true gone the load more view" />
+      <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation restarts from the beginning." />
+      <item value="Sets how many times the animation should be repeated. If the repeat count is 0, the animation is never repeated. If the repeat count is greater than 0 or {@link LottieDrawableINFINITE}, the repeat mode will be taken into account. The repeat count is 0 by default." />
+      <item value="true if the callback consumed the long click, false otherwise." />
       <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
       <item value="Compares if this State is greater or equal to the given `state`. @param state State to compare with @return true if this State is greater or equal to the given `state`" />
       <item value="launchWhenCreated is deprecated as it can lead to wasted resources &quot; + &quot;in some cases. Replace with suspending repeatOnLifecycle to run the block whenever &quot; + &quot;the Lifecycle state is at least Lifecycle.State.CREATED." />
@@ -136,11 +133,14 @@
       <item value="welfare center navigator" />
       <item value="URL UNION AGREEMENT" />
       <item value="URL COMMITMENT LETTER" />
+      <item value="URL COOPERATION AGREEMENT" />
+      <item value="Returns a new persistent list of the specified elements." />
+      <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
