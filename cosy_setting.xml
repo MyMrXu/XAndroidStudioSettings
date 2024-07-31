@@ -58,6 +58,7 @@
               <option value="如何做到像微信那样无延迟加载" />
               <option value="基于上上一条回答这个问题" />
               <option value="/explain code" />
+              <option value="/generate unit test" />
             </list>
           </value>
         </entry>
