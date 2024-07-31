@@ -82,10 +82,11 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1721703512755" />
+    <option name="lastTrimTime" value="1722419260688" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="PKCE code_verifier for getting the access_token andor id_token" />
       <item value="is Mutual Deleted" />
       <item value="if true gone the load more view" />
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation restarts from the beginning." />
@@ -135,12 +136,11 @@
       <item value="URL COMMITMENT LETTER" />
       <item value="URL COOPERATION AGREEMENT" />
       <item value="Returns a new persistent list of the specified elements." />
-      <item value="A generic persistent ordered collection of elements that supports adding and removing elements. Modification operations return new instances of the persistent list with the modification applied. @param E the type of elements contained in the list. The persistent list is covariant on its element type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="222" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
