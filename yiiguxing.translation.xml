@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Return a thread pool that creates new threads as needed, but will reuse previously constructed threads when they are available." />
       <item value="Receipt" />
       <item value="is Mutual Deleted" />
       <item value="if true gone the load more view" />
@@ -135,7 +136,6 @@
       <item value="URL UNION AGREEMENT" />
       <item value="URL COMMITMENT LETTER" />
       <item value="URL COOPERATION AGREEMENT" />
-      <item value="Returns a new persistent list of the specified elements." />
     </histories>
     <option name="languageScores">
       <map>
