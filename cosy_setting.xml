@@ -59,6 +59,8 @@
               <option value="基于上上一条回答这个问题" />
               <option value="/explain code" />
               <option value="/generate unit test" />
+              <option value="日語完成怎麼說" />
+              <option value="日語選擇完畢怎麼說" />
             </list>
           </value>
         </entry>
