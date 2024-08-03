@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:com.sunny.firefly" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.sunny.firefly" />
+        <option value="package:com.sunny.firefly tag:message" />
         <option value="package:mine " />
-        <option value="package:mine tag:xzwzz " />
+        <option value="package:mine tag:message " />
         <option value="package:mine" />
+        <option value="package:mine tag:xzwzz " />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine  tag:xzwzz" />
         <option value="package:com.sunny.firefly  " />
@@ -19,9 +23,6 @@
         <option value="package:mine tag~:AccountManager|MMKVManager" />
         <option value="package:mine tag~:AccountManager|MMKVManagerx" />
         <option value="package:mine tag~:AccountManager " />
-        <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
-        <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
-        <option value="package:mine tag:FlutterBoost_java" />
       </list>
     </option>
   </component>
