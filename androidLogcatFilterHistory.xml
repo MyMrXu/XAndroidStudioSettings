@@ -1,11 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.sunny.firefly" />
+    <option name="mostRecentlyUsed" value="package:com.sunny.firefly tag~:firebase|WKConnect|im" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.sunny.firefly" />
-        <option value="package:com.sunny.firefly message~:firebase" />
+        <option value="package:com.sunny.firefly tag~:firebase|WKConnect|im" />
+        <option value="package:com.sunny.firefly tag~:firebase|WKConnect" />
+        <option value="package:com.sunny.firefly tag:firebase tag:WKIM" />
+        <option value="package:com.sunny.firefly tag:firebase " />
         <option value="package:com.sunny.firefly tag:message " />
+        <option value="package:com.sunny.firefly" />
+        <option value="package:com.sunny.firefly tag:xzwzz" />
+        <option value="package:com.sunny.firefly message~:firebase" />
         <option value="package:com.sunny.firefly tag:message" />
         <option value="package:mine " />
         <option value="package:mine tag:message " />
@@ -18,11 +23,6 @@
         <option value="package:mine level:error tag:xzwzz " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:wkHttpLog" />
-        <option value="package:mine attach" />
-        <option value="package:mine Destination" />
-        <option value="package:mine tag~:xzwzz|Destination" />
-        <option value="package:mine tag~:xzwzz " />
-        <option value="package:mine tag~:AccountManager|MMKVManager" />
       </list>
     </option>
   </component>
