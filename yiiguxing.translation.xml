@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Repeatable" />
       <item value="This type is not supported when configuration caching is enabled." />
       <item value="evaluated" />
       <item value="Adds a listener to this build, to receive notifications as projects are evaluated." />
@@ -138,12 +139,11 @@
       <item value="compaction strategy" />
       <item value="Protocol" />
       <item value="captcha" />
-      <item value="consult the PlatformDispatcher directly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
