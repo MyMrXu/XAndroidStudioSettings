@@ -89,6 +89,9 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="This type is not supported when configuration caching is enabled." />
+      <item value="evaluated" />
+      <item value="Adds a listener to this build, to receive notifications as projects are evaluated." />
       <item value="Whether this navigation action should restore any state previously saved by [Builder.setPopUpTo] or the `popUpToSaveState` attribute." />
       <item value="Whether this navigation action should launch as single-top (i.e., there will be at most one copy of a given destination on the top of the back stack). This functions similarly to how [android.content.Intent.FLAG_ACTIVITY_SINGLE_TOP] works with activities." />
       <item value="NavDeepLink encapsulates the parsing and matching of a navigation deep link. This should be added to a [NavDestination] using [NavDestination.addDeepLink]." />
@@ -136,14 +139,11 @@
       <item value="Protocol" />
       <item value="captcha" />
       <item value="consult the PlatformDispatcher directly" />
-      <item value="Look up the current FlutterView from the context via View.of(context) or consult the PlatformDispatcher directly instead." />
-      <item value="opaque" />
-      <item value="Called whenever the widget configuration changes. If the parent widget rebuilds and requests that this location in the tree update to display a new widget with the same [runtimeType] and [Widget.key], the framework will update the [widget] property of this [State] object to refer to the new widget and then call this method with the previous widget as an argument. Override this method to respond when the [widget] changes (e.g., to start implicit animations). The framework always calls [build] after calling [didUpdateWidget], which means any calls to [setState] in [didUpdateWidget] are redundant. {@macro flutter.widgets.State.initState} Implementations of this method should start with a call to the inherited method, as in `super.didUpdateWidget(oldWidget)`. _See the discussion at [Element.rebuild] for more information on when this method is called._" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="229" />
-        <entry key="ENGLISH" value="230" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
