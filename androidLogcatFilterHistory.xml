@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:Glide " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:Glide " />
         <option value="package:mine" />
         <option value="package:mine tag~:xzwzz" />
         <option value="package:mine tag:xzwzz" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:AccountManager|MMKVManagerx" />
         <option value="package:mine tag~:AccountManager " />
         <option value="package:mine tag:FlutterBoost_java tag:xzwzz tag:flutter " />
-        <option value="package:mine tag:FlutterBoost_java tag:xzwzz " />
       </list>
     </option>
   </component>
