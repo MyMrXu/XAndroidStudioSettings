@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:xzwzz " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine tag~:Glide " />
-        <option value="package:mine" />
         <option value="package:mine tag~:xzwzz" />
         <option value="package:mine tag:xzwzz" />
         <option value="package:mine tag~:xzwzz " />
         <option value="package:mine tag" />
         <option value="package:com.sunny.firefly  " />
-        <option value="package:mine tag:xzwzz " />
         <option value="package:mine level:error" />
         <option value="package:mine level:error tag:xzwzz " />
         <option value="package:mine level:error " />
