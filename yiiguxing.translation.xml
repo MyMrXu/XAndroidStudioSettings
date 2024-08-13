@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="show msg reaction" />
       <item value="immediately show" />
       <item value="Repeatable" />
       <item value="This type is not supported when configuration caching is enabled." />
@@ -138,12 +139,11 @@
       <item value="profile" />
       <item value="profiler" />
       <item value="compaction strategy" />
-      <item value="Protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="236" />
         <entry key="ITALIAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
