@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.sunny.firefly " />
+    <option name="mostRecentlyUsed" value="package:com.sunny.firefly  tag~:CallStateMachine|xzwzz|CallEngine|Call" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.sunny.firefly " />
-        <option value="package:com.sunny.firefly tag~:xzwzz" />
+        <option value="package:com.sunny.firefly  tag~:CallStateMachine|xzwzz|CallEngine|Call" />
+        <option value="package:com.sunny.firefly  tag~:CallStateMachine|xzwzz|CallEngine" />
         <option value="package:com.sunny.firefly  tag~:CallStateMachine|xzwzz" />
+        <option value="package:com.sunny.firefly tag~:xzwzz" />
+        <option value="package:com.sunny.firefly " />
         <option value="package:com.sunny.firefly  " />
         <option value="package:com.sunny.firefly  tag~:CallStateMachine" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine tag:wkHttpLog" />
         <option value="package:mine attach" />
-        <option value="package:mine Destination" />
-        <option value="package:mine tag~:xzwzz|Destination" />
       </list>
     </option>
   </component>
