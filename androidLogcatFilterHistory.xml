@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.qyqy.ucoo " />
+        <option value="package:com.qyqy.ucoo tag~:xzwzz " />
         <option value="package:com.qyqy.ucoo \" />
         <option value="package:com.qyqy.ucoo tag~:xzwzz" />
         <option value="package:mine tag~:xzwzz " />
