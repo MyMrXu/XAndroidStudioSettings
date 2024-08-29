@@ -64,6 +64,8 @@
               <option value="Android 代码 判断今天是否执行过" />
               <option value="Android获取指定日期是星期几" />
               <option value="使用long类型获取" />
+              <option value="写一段compose代码" />
+              <option value="android compose" />
             </list>
           </value>
         </entry>
