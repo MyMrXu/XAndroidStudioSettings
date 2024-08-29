@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="collapse" />
       <item value="確認する" />
       <item value="フォロワー" />
       <item value="フォロー" />
@@ -138,12 +139,11 @@
       <item value="This class does not permit {@code null} elements." />
       <item value="attempted additions may fail due to resource exhaustion (causing {@code OutOfMemoryError})." />
       <item value="While this queue is logically unbounded," />
-      <item value="Compares this object with the specified object for order. Returns zero if this object is equal to the specified [other] object, a negative number if it's less than [other], or a positive number if it's greater than [other]." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="249" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
         <entry key="LATIN" value="1" />
