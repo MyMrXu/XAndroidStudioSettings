@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="@param annotatedString the text to be rendered. @param selection the selection range. If the selection is collapsed, it represents cursor location. When selection range is out of bounds, it is constrained with the text length. @param composition the composition range, null means empty composition or apply if a composition exists on the text. Owned by IME, and if you have an instance of [TextFieldValue] please use [copy] functions if you do not want to intentionally change the value of this field." />
       <item value="Admin" />
       <item value="Adminer" />
       <item value="collapse" />
@@ -138,13 +139,12 @@
       <item value="[Key] for next page if more data can be loaded in that direction, `null` otherwise." />
       <item value="&lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. The Iterator provided in method {@link iterator()} is &lt;em&gt;not&lt;em&gt; guaranteed to traverse the elements of the PriorityBlockingQueue in any particular order. If you need ordered traversal, consider using {@code Arrays.sort(pq.toArray())}. Also, method {@code drainTo} can be used to &lt;em&gt;remove&lt;em&gt; some or all elements in priority order and place them in another collection." />
       <item value="A priority queue relying on {@linkplain Comparable natural ordering} also does not permit insertion of non-comparable objects (doing so results in {@code ClassCastException})." />
-      <item value="This class does not permit {@code null} elements." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
         <entry key="LATIN" value="1" />
