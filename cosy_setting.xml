@@ -1,0 +1,79 @@
+<application>
+  <component name="CosySettings">
+    <option name="dedicatedDomainUrl" value="" />
+    <option name="localStoragePath" value="$USER_HOME$/.lingma" />
+    <option name="manualOpenLocalModel" value="true" />
+    <option name="parameter">
+      <ChangeUserSettingParams>
+        <option name="allowReportUsage" value="true" />
+        <option name="cloud">
+          <CloudModelParam>
+            <option name="autoTrigger">
+              <CloudModelAutoTrigger>
+                <option name="enable" value="true" />
+                <option name="generateLength" value="level_1" />
+                <option name="modelLevel" value="large" />
+              </CloudModelAutoTrigger>
+            </option>
+            <option name="enable" value="true" />
+            <option name="manualTrigger">
+              <CloudModelManualTrigger>
+                <option name="generateLength" value="level_2" />
+                <option name="modelLevel" value="large" />
+              </CloudModelManualTrigger>
+            </option>
+          </CloudModelParam>
+        </option>
+        <option name="local">
+          <LocalModelParam>
+            <option name="enable" value="true" />
+            <option name="inferenceMode" value="auto" />
+            <option name="maxCandidateNum" value="3" />
+          </LocalModelParam>
+        </option>
+      </ChangeUserSettingParams>
+    </option>
+    <option name="recentQueries">
+      <map>
+        <entry key="ComposeCookBook|1812318604044868">
+          <value>
+            <list>
+              <option value="/generate unit test" />
+            </list>
+          </value>
+        </entry>
+        <entry key="ComposeSamples|1812318604044868">
+          <value>
+            <list>
+              <option value="没睡好咋办" />
+            </list>
+          </value>
+        </entry>
+        <entry key="UCOO|1812318604044868">
+          <value>
+            <list>
+              <option value="如何做到微信加载一万条消息" />
+              <option value="从代码方面来讲，如何做到加载一万条消息不卡顿" />
+              <option value="android IM消息页面如何加载一万条数据不卡顿" />
+              <option value="如何做到像微信那样无延迟加载" />
+              <option value="基于上上一条回答这个问题" />
+              <option value="/explain code" />
+              <option value="/generate unit test" />
+              <option value="日語完成怎麼說" />
+              <option value="日語選擇完畢怎麼說" />
+              <option value="Android 代码 判断今天是否执行过" />
+              <option value="Android获取指定日期是星期几" />
+              <option value="使用long类型获取" />
+              <option value="写一段compose代码" />
+              <option value="android compose" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="showInlineAcceptTips" value="false" />
+    <option name="showInlineCancelTips" value="false" />
+    <option name="showInlineNextTips" value="false" />
+    <option name="upgradeStrategy" value="forbid" />
+  </component>
+</application>

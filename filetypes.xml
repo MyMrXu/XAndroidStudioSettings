@@ -1,0 +1,44 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern="244023349-112978196" type="AUTO_DETECTED" />
+      <mapping pattern="244023349-2053529072" type="AUTO_DETECTED" />
+      <mapping pattern="android-monitor" type="AUTO_DETECTED" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="sss" type="PLAIN_TEXT" />
+      <mapping pattern="Universal" type="PLAIN_TEXT" />
+      <mapping pattern="item_video_module_headerxml" type="PLAIN_TEXT" />
+      <mapping pattern="gitk" type="PLAIN_TEXT" />
+      <mapping pattern="1656950400000" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="1645459200000" type="PLAIN_TEXT" />
+      <mapping pattern="Kerguelen" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="wav" type="PLAIN_TEXT" />
+      <mapping ext="moon" type="PLAIN_TEXT" />
+      <mapping ext="neunote" type="PLAIN_TEXT" />
+      <mapping ext="neulog" type="PLAIN_TEXT" />
+      <mapping ext="neukoclass_byte" type="PLAIN_TEXT" />
+      <mapping ext="tck" type="PLAIN_TEXT" />
+      <mapping ext="jpg" type="PLAIN_TEXT" />
+      <mapping ext="xlog" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="jpg" approved="true" type="Image" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="svg" approved="true" type="XML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+    </extensionMap>
+  </component>
+</application>
