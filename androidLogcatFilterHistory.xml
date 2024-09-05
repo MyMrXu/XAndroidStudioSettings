@@ -4,18 +4,6 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:xzwzz " />
-        <option value="package:mine" />
-        <option value="package:mine " />
-        <option value="package:mine tag~:xzwzz" />
-        <option value="package:com.qyqy.ucoo" />
-        <option value="package:com.qyqy.ucoo tag~:xzwzz " />
-        <option value="package:com.qyqy.ucoo tag" />
-        <option value="package:com.qyqy.ucoo " />
-        <option value="package:com.qyqy.ucoo \" />
-        <option value="package:com.qyqy.ucoo tag~:xzwzz" />
-        <option value="package:com.sunny.firefly" />
-        <option value="package:com.sunny.firefly tag~:xzwzz" />
-        <option value="package:com.sunny.firefly " />
       </list>
     </option>
   </component>
