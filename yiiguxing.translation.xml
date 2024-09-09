@@ -89,9 +89,9 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Performs subcomposition of the provided [content] with given [slotId]. @param slotId unique id which represents the slot we are composing into. If you have fixed amount or slots you can use enums as slot ids, or if you have a list of items maybe an index in the list or some other unique key can work. To be able to correctly match the content between remeasures you should provide the object which is equals to the one you used during the previous measuring. @param content the composable content which defines the slot. It could emit multiple layouts, in this case the returned list of [Measurable]s will have multiple elements. Note: When a [SubcomposeLayout] is in a [LookaheadScope], the subcomposition only happens during the lookahead pass. In the post-lookaheadmain pass, [subcompose] will return the list of [Measurable]s that were subcomposed during the lookahead pass. If the structure of the subtree emitted from [content] is dependent on incoming constraints, consider using constraints received from the lookahead pass for both passes." />
       <item value="Returns a [Map] containing key-value pairs provided by [transform] function applied to elements of the given collection. If any of two pairs would have the same key the last one gets added to the map. The returned map preserves the entry iteration order of the original collection. @sample samples.collections.Collections.Transformations.associate" />
       <item value="Dependent" />
-      <item value="Performs subcomposition of the provided [content] with given [slotId]. @param slotId unique id which represents the slot we are composing into. If you have fixed amount or slots you can use enums as slot ids, or if you have a list of items maybe an index in the list or some other unique key can work. To be able to correctly match the content between remeasures you should provide the object which is equals to the one you used during the previous measuring. @param content the composable content which defines the slot. It could emit multiple layouts, in this case the returned list of [Measurable]s will have multiple elements. Note: When a [SubcomposeLayout] is in a [LookaheadScope], the subcomposition only happens during the lookahead pass. In the post-lookaheadmain pass, [subcompose] will return the list of [Measurable]s that were subcomposed during the lookahead pass. If the structure of the subtree emitted from [content] is dependent on incoming constraints, consider using constraints received from the lookahead pass for both passes." />
       <item value="Pendant" />
       <item value="size to intrinsics" />
       <item value="@param annotatedString the text to be rendered. @param selection the selection range. If the selection is collapsed, it represents cursor location. When selection range is out of bounds, it is constrained with the text length. @param composition the composition range, null means empty composition or apply if a composition exists on the text. Owned by IME, and if you have an instance of [TextFieldValue] please use [copy] functions if you do not want to intentionally change the value of this field." />
@@ -143,8 +143,8 @@
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
