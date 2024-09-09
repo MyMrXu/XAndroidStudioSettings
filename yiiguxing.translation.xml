@@ -82,13 +82,15 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1725433875612" />
+    <option name="lastTrimTime" value="1725882333668" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Creates a [TweenSpec] configured with the given duration, delay and easing curve. @param durationMillis duration of the animation spec @param delayMillis the amount of time in milliseconds that animation waits before starting @param easing the easing curve that will be used to interpolate between start and end" />
+      <item value="remember infinite transition" />
       <item value="observe" />
       <item value="observer" />
       <item value="Performs subcomposition of the provided [content] with given [slotId]. @param slotId unique id which represents the slot we are composing into. If you have fixed amount or slots you can use enums as slot ids, or if you have a list of items maybe an index in the list or some other unique key can work. To be able to correctly match the content between remeasures you should provide the object which is equals to the one you used during the previous measuring. @param content the composable content which defines the slot. It could emit multiple layouts, in this case the returned list of [Measurable]s will have multiple elements. Note: When a [SubcomposeLayout] is in a [LookaheadScope], the subcomposition only happens during the lookahead pass. In the post-lookaheadmain pass, [subcompose] will return the list of [Measurable]s that were subcomposed during the lookahead pass. If the structure of the subtree emitted from [content] is dependent on incoming constraints, consider using constraints received from the lookahead pass for both passes." />
@@ -137,14 +139,12 @@
       <item value="true if the callback consumed the long click, false otherwise." />
       <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
       <item value="Compares if this State is greater or equal to the given `state`. @param state State to compare with @return true if this State is greater or equal to the given `state`" />
-      <item value="launchWhenCreated is deprecated as it can lead to wasted resources &quot; + &quot;in some cases. Replace with suspending repeatOnLifecycle to run the block whenever &quot; + &quot;the Lifecycle state is at least Lifecycle.State.CREATED." />
-      <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="259" />
-        <entry key="ENGLISH" value="260" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
