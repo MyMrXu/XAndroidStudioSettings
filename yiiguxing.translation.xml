@@ -82,13 +82,22 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1724658146204" />
+    <option name="lastTrimTime" value="1725882333668" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Creates a [TweenSpec] configured with the given duration, delay and easing curve. @param durationMillis duration of the animation spec @param delayMillis the amount of time in milliseconds that animation waits before starting @param easing the easing curve that will be used to interpolate between start and end" />
+      <item value="remember infinite transition" />
+      <item value="observe" />
+      <item value="observer" />
+      <item value="Performs subcomposition of the provided [content] with given [slotId]. @param slotId unique id which represents the slot we are composing into. If you have fixed amount or slots you can use enums as slot ids, or if you have a list of items maybe an index in the list or some other unique key can work. To be able to correctly match the content between remeasures you should provide the object which is equals to the one you used during the previous measuring. @param content the composable content which defines the slot. It could emit multiple layouts, in this case the returned list of [Measurable]s will have multiple elements. Note: When a [SubcomposeLayout] is in a [LookaheadScope], the subcomposition only happens during the lookahead pass. In the post-lookaheadmain pass, [subcompose] will return the list of [Measurable]s that were subcomposed during the lookahead pass. If the structure of the subtree emitted from [content] is dependent on incoming constraints, consider using constraints received from the lookahead pass for both passes." />
+      <item value="Returns a [Map] containing key-value pairs provided by [transform] function applied to elements of the given collection. If any of two pairs would have the same key the last one gets added to the map. The returned map preserves the entry iteration order of the original collection. @sample samples.collections.Collections.Transformations.associate" />
+      <item value="Dependent" />
+      <item value="Pendant" />
+      <item value="size to intrinsics" />
       <item value="@param annotatedString the text to be rendered. @param selection the selection range. If the selection is collapsed, it represents cursor location. When selection range is out of bounds, it is constrained with the text length. @param composition the composition range, null means empty composition or apply if a composition exists on the text. Owned by IME, and if you have an instance of [TextFieldValue] please use [copy] functions if you do not want to intentionally change the value of this field." />
       <item value="Admin" />
       <item value="Adminer" />
@@ -130,21 +139,13 @@
       <item value="true if the callback consumed the long click, false otherwise." />
       <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
       <item value="Compares if this State is greater or equal to the given `state`. @param state State to compare with @return true if this State is greater or equal to the given `state`" />
-      <item value="launchWhenCreated is deprecated as it can lead to wasted resources &quot; + &quot;in some cases. Replace with suspending repeatOnLifecycle to run the block whenever &quot; + &quot;the Lifecycle state is at least Lifecycle.State.CREATED." />
-      <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
-      <item value="SCROLL STATE SETTLING" />
-      <item value="Some device read data very slow with uri, but fast with file path. &lt;br&gt; Reference: &lt;a href='https:github.combumptechglideissues4174'&gt;https:github.combumptechglideissues4174&lt;a&gt; &lt;p&gt; When setting android:requestLegacyExternalStorage=&quot;true&quot;&lt;br&gt; and Build.VERSION.SDK_INT &lt;= Build.VERSION_CODES.Q, The app can read media with File API (like FileInputStream). &lt;p&gt; Note: When get an uri from file, use 'uri.getPath()' rather than 'uri.toString()' to File API." />
-      <item value="[Key] for previous page if more data can be loaded in that direction, `null` otherwise." />
-      <item value="otherwise" />
-      <item value="[Key] for next page if more data can be loaded in that direction, `null` otherwise." />
-      <item value="&lt;p&gt;This class and its iterator implement all of the &lt;em&gt;optional&lt;em&gt; methods of the {@link Collection} and {@link Iterator} interfaces. The Iterator provided in method {@link iterator()} is &lt;em&gt;not&lt;em&gt; guaranteed to traverse the elements of the PriorityBlockingQueue in any particular order. If you need ordered traversal, consider using {@code Arrays.sort(pq.toArray())}. Also, method {@code drainTo} can be used to &lt;em&gt;remove&lt;em&gt; some or all elements in priority order and place them in another collection." />
-      <item value="A priority queue relying on {@linkplain Comparable natural ordering} also does not permit insertion of non-comparable objects (doing so results in {@code ClassCastException})." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="251" />
-        <entry key="ENGLISH" value="252" />
+        <entry key="CHINESE" value="261" />
+        <entry key="ENGLISH" value="262" />
+        <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
         <entry key="LATIN" value="1" />
