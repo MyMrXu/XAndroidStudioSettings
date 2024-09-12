@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:xzwzz|httpLog " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag~:xzwzz|httpLog " />
         <option value="package:mine tag~:xzwzz " />
         <option value="package:mine " />
         <option value="package:mine jpush" />
-        <option value="package:mine" />
         <option value="package:mine xzwzz" />
         <option value="package:mine tag~:jpush" />
       </list>
