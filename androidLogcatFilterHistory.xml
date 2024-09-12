@@ -1,22 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.qyqy.ucoo " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.qyqy.ucoo " />
-        <option value="package:com.qyqy.ucoo xzwzz" />
-        <option value="package:com.qyqy.ucoo tag~:xzwzz" />
-        <option value="package:com.qyqy.ucoo" />
-        <option value="package:com.qyqy.ucoo tag~:xzwzz " />
-        <option value="package:com.qyqy.ucoo tag" />
-        <option value="package:com.qyqy.ucoo \" />
+        <option value="package:mine" />
         <option value="package:mine tag~:xzwzz " />
         <option value="package:mine " />
-        <option value="package:mine" />
-        <option value="package:mine tag~:xzwzz" />
-        <option value="package:com.sunny.firefly" />
-        <option value="package:com.sunny.firefly tag~:xzwzz" />
-        <option value="package:com.sunny.firefly " />
+        <option value="package:mine xzwzz" />
+        <option value="package:mine tag~:jpush" />
+        <option value="package:mine jpush" />
       </list>
     </option>
   </component>

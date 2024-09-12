@@ -6,8 +6,8 @@
         <entry key="xynyyazn@gmail.com">
           <value>
             <set>
-              <option value="User Info" />
               <option value="Firebase" />
+              <option value="User Info" />
             </set>
           </value>
         </entry>
