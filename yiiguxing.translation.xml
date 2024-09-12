@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="dealing" />
       <item value="treasure box" />
       <item value="Creates a [TweenSpec] configured with the given duration, delay and easing curve. @param durationMillis duration of the animation spec @param delayMillis the amount of time in milliseconds that animation waits before starting @param easing the easing curve that will be used to interpolate between start and end" />
       <item value="remember infinite transition" />
@@ -138,13 +139,12 @@
       <item value="When the animation reaches the end and &lt;code&gt;repeatCount&lt;code&gt; is INFINITE or a positive value, the animation restarts from the beginning." />
       <item value="Sets how many times the animation should be repeated. If the repeat count is 0, the animation is never repeated. If the repeat count is greater than 0 or {@link LottieDrawableINFINITE}, the repeat mode will be taken into account. The repeat count is 0 by default." />
       <item value="true if the callback consumed the long click, false otherwise." />
-      <item value="Resumed state for a LifecycleOwner. For an [android.app.Activity], this state is reached after [onResume][android.app.Activity.onResume] is called." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
