@@ -89,6 +89,7 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Schedule [effect] to run when the current composition completes successfully and applies changes. [SideEffect] can be used to apply side effects to objects managed by the composition that are not backed by [snapshots][androidx.compose.runtime.snapshots.Snapshot] so as not to leave those objects in an inconsistent state if the current composition operation fails. [effect] will always be run on the composition's apply dispatcher and appliers are never run concurrent with themselves, one another, applying changes to the composition tree, or running [RememberObserver] event callbacks. [SideEffect]s are always run after [RememberObserver] event callbacks. A [SideEffect] runs after every recomposition. To launch an ongoing task spanning potentially many recompositions, see [LaunchedEffect]. To manage an event subscription or other object lifecycle, see [DisposableEffect]." />
       <item value="CONFLATED" />
       <item value="RENDEZVOUS" />
       <item value="UNLIMITED" />
@@ -138,13 +139,12 @@
       <item value="GOSSIP" />
       <item value="PKCE code_verifier for getting the access_token andor id_token" />
       <item value="is Mutual Deleted" />
-      <item value="if true gone the load more view" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="265" />
-        <entry key="ENGLISH" value="266" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
