@@ -68,6 +68,10 @@
               <option value="android compose" />
               <option value="如何破解github copilot" />
               <option value="免费开源的修图ai" />
+              <option value="构建一个Android compose事件总线" />
+              <option value="改用Flow实现" />
+              <option value="使用shareFlow实现" />
+              <option value="使用Channel是啊" />
             </list>
           </value>
         </entry>
