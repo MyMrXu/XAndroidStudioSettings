@@ -82,13 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1725882333668" />
+    <option name="lastTrimTime" value="1726749852792" />
   </component>
   <component name="Translation.States">
     <option name="translationDialogHeight" value="260" />
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="The request for this plugin could not be satisfied because the plugin is already on the classpath with an unknown version, so compatibility cannot be checked." />
       <item value="A helper class to execute tasks sequentially in coroutines. Calling [afterPrevious] will always ensure that all previously requested work completes prior to calling the block passed. Any future calls to [afterPrevious] while the current block is running will wait for the current block to complete before starting." />
       <item value="Initialized state for a LifecycleOwner. For an [android.app.Activity], this is the state when it is constructed but has not received [onCreate][android.app.Activity.onCreate] yet." />
       <item value="Schedule [effect] to run when the current composition completes successfully and applies changes. [SideEffect] can be used to apply side effects to objects managed by the composition that are not backed by [snapshots][androidx.compose.runtime.snapshots.Snapshot] so as not to leave those objects in an inconsistent state if the current composition operation fails. [effect] will always be run on the composition's apply dispatcher and appliers are never run concurrent with themselves, one another, applying changes to the composition tree, or running [RememberObserver] event callbacks. [SideEffect]s are always run after [RememberObserver] event callbacks. A [SideEffect] runs after every recomposition. To launch an ongoing task spanning potentially many recompositions, see [LaunchedEffect]. To manage an event subscription or other object lifecycle, see [DisposableEffect]." />
@@ -138,13 +139,12 @@
       <item value="treasure totips" />
       <item value="`" />
       <item value="STATION" />
-      <item value="GOSSIP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
