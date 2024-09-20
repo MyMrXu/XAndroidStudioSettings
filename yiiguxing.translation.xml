@@ -89,6 +89,9 @@
     <option name="translationDialogLocationX" value="2172" />
     <option name="translationDialogLocationY" value="415" />
     <histories>
+      <item value="Instrument the classes of the current project only. Libraries that this project depends on will not be instrumented." />
+      <item value="Annotation isn't stored in binary output" />
+      <item value="Annotation is stored in binary output, but invisible for reflection" />
       <item value="The request for this plugin could not be satisfied because the plugin is already on the classpath with an unknown version, so compatibility cannot be checked." />
       <item value="A helper class to execute tasks sequentially in coroutines. Calling [afterPrevious] will always ensure that all previously requested work completes prior to calling the block passed. Any future calls to [afterPrevious] while the current block is running will wait for the current block to complete before starting." />
       <item value="Initialized state for a LifecycleOwner. For an [android.app.Activity], this is the state when it is constructed but has not received [onCreate][android.app.Activity.onCreate] yet." />
@@ -136,15 +139,12 @@
       <item value="Whether this navigation action should restore any state previously saved by [Builder.setPopUpTo] or the `popUpToSaveState` attribute." />
       <item value="Whether this navigation action should launch as single-top (i.e., there will be at most one copy of a given destination on the top of the back stack). This functions similarly to how [android.content.Intent.FLAG_ACTIVITY_SINGLE_TOP] works with activities." />
       <item value="NavDeepLink encapsulates the parsing and matching of a navigation deep link. This should be added to a [NavDestination] using [NavDestination.addDeepLink]." />
-      <item value="treasure totips" />
-      <item value="`" />
-      <item value="STATION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BENGALI" value="1" />
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="FRENCH" value="1" />
         <entry key="ITALIAN" value="2" />
         <entry key="JAPANESE" value="5" />
