@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wkHttpLog" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:wkHttpLog" />
+        <option value="package:mine" />
+        <option value="package:mine tag~:xzwzz" />
+        <option value="package:mine " />
+        <option value="package:mine tag~:CallActivity|xzwzz|WKHTTP" />
+        <option value="package:mine tag~:CallActivity|xzwzz" />
+        <option value="package:mine tag~:wkHttpLog|xzwzz" />
       </list>
     </option>
   </component>

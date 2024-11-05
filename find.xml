@@ -3,22 +3,11 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
     <mask>*.css</mask>
-    <mask>*.mxml</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.h</mask>
-    <mask>*.c</mask>
-    <mask>*.c</mask>
-    <mask>*.gradle</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.kt</mask>
-    <mask>.gradle</mask>
-    <mask>.kt</mask>
-    <mask>.java</mask>
   </component>
 </application>
