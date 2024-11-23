@@ -4,6 +4,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Start a decay animation (i. e. an animation that slows down from the given initialVelocity starting at current Animatable. value until the velocity reaches 0. If there's already an ongoing animation, the animation in-flight will be immediately cancelled. Decay animation is often used after a fling gesture." />
       <item value="Anonymous" />
     </histories>
     <option name="languageScores">
