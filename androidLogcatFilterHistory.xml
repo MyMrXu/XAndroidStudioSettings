@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:imcompatcore " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:xzwzz " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine tag~:imcompatcore " />
         <option value="package:mine " />
         <option value="package:mine" />
@@ -11,7 +12,6 @@
         <option value="package:mine tag~:CoinWinnerViewModel" />
         <option value="package:mine tag~:GlobalMessageListener" />
         <option value="package:mine tag~:xzwzz|RtmMsgHandler " />
-        <option value="package:mine tag~:xzwzz " />
         <option value="package:mine tag~:StickerManager " />
         <option value="package:mine tag~:StickerManager" />
         <option value="package:mine tag~:xzwzz" />
