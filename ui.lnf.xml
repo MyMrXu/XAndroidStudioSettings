@@ -1,4 +1,7 @@
 <application>
+  <component name="ProjectViewFileNesting">
+    <nesting-rules />
+  </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
     <option name="SHOW_BREAKPOINTS_OVER_LINE_NUMBERS" value="false" />
