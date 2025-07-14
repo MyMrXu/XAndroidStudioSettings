@@ -112,7 +112,7 @@
     <jdk version="2">
       <name value="Kotlin SDK" />
       <type value="KotlinSDK" />
-      <homePath value="" />
+      <homePath value="/" />
       <roots>
         <annotationsPath>
           <root type="composite" />
@@ -345,6 +345,47 @@
         </javadocPath>
         <sourcePath>
           <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="liberica-1.8" />
+      <type value="JavaSDK" />
+      <version value="BellSoft Liberica 1.8.0_452 - aarch64" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/liberica-1.8.0_452/src.zip!/" type="simple" />
+          </root>
         </sourcePath>
       </roots>
     </jdk>
